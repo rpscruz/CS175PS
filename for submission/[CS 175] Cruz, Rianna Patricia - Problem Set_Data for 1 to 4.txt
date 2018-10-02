@@ -1,0 +1,2382 @@
+CLUSTAL format alignment by MAFFT G-INS-1 (v7.407)
+
+
+seq_CN          atgaacaaccaacgaaaaaagacggctcgaccgtctttcaatatgctgaaacgcgcgaga
+seq_ID          atgaacaaccaacggaaaaagacgggtcgaccgtctttcaatatgctgaaacgcgcgaga
+seq_IN          atgaacaaccaacggaaaaagacgggtcgaccgtctttcaatatgctgaaacgcgcgaga
+seq_JP          atgaacaaccaacgaaaaaagacggctcggccgtctttcaatatgctgaaacgcgcgaga
+seq_KH          atgaacaaccaacgaaaaaagacggctcgaccgtctttcaatatgctgaaacgcgcgaga
+seq_MM          atgaacaaccaacggaaaaagacgggtcgaccgtctttcaatatgctgaaacgcgcgaga
+seq_PH          atgaacaaccaacggaaaaagacgggtcgaccgtctttcaatatgctgaaacgcgcgaga
+seq_PK          atgaataaccaacgaaaaaaggcgagaaatacgcctttcaatatgctgaaacgcgagaga
+seq_SG          atgaacaaccaacggaagaagacgggtcgaccgtctttcaatatgctgaaacgcgcgaga
+seq_TH          atgaacaaccaacgaaaaaagacggctcgaccgtctttcaatatgctgaaacgcgcgaga
+seq_TW          atgaacaaccaacgaaaaaagacggctcgaccgtctttcaatatgctgaaacgcgcgaga
+seq_VN          atgaacaaccaacggaaaaagacggctcgaccgtctttcaatatgctgaaacgcgcgaga
+                *****.********.**.***.**.   .  **.********************* ****
+
+seq_CN          aaccgcgtgtcaactgtttcacagttggcgaagagattctcaaaaggattgctctcaggc
+seq_ID          aaccgcgtgccaactgtttcacagttggcgaagagattctcaaatggattgctttcaggc
+seq_IN          aaccgcgtgtcaactggttcacagttggcgaagagattctcaaaaggattgctttcaggc
+seq_JP          aaccgcgtgtcaactgtttcacagttggcgaagagattctcaaaaggattgctctcaggc
+seq_KH          aaccgcgtgtcaactgtttcacagttggcgaagagattctcaaaaggattgctctcaggc
+seq_MM          aaccgcgtgtcaactgtttcacagttggcgaagagattctcaaaaggattgctttcaggc
+seq_PH          aaccgcgtgtcaactgtttcacagttggcgaagagattctcaaaaggattgctttcaggc
+seq_PK          aaccgcgtgtcaactgtgcaacagctgacaaagagattctcacttggaatgctgcaggga
+seq_SG          aaccgcgtgtcaactggttcacagttggcgaagagattctcaaaaggattgctctcaggc
+seq_TH          aaccgcgtgtcaactgtttcacagttggcgaagagattctcaaaaggattgctctcaggc
+seq_TW          aaccgcgtgtcaactgtttcacagttggcgaagagattctcaaaaggattgctctcaggc
+seq_VN          aaccgcgtgtcaactgtttcacagttggcgaagagattctcaaaaggattgctctcaggc
+                *********.******  . ****.**.*.************   *** **** . .** 
+
+seq_CN          caaggacccatgaaattggtgatggctttcatagcactcctaagatttctagccataccc
+seq_ID          caaggacccatgaaattggtgatggcttttatagcattcctaagatttctagccatacct
+seq_IN          caaggacccatgaaattggtgatggctttcatagcatttctaagatttctagccatacct
+seq_JP          caaggacccatgaaactggtgatggcttttatagcattcctaagatttctagccataccc
+seq_KH          caaggacccatgaaattggtgatggctttcatagcattcctaagatttctagccataccc
+seq_MM          caaggacccatgaaactggtgatggcttttatagcattcctaagatttctagccatacct
+seq_PH          caaggacccatgaaattggtgatggcttttatagcattcctaagatttctagccatacct
+seq_PK          cgaggaccgttgaaactgttcatggccttggtggcattccttcgtttcctaacaatccca
+seq_SG          caaggacccatgaaaatggtgatggctttcatagcattcctaagatttctagccataccc
+seq_TH          caaggacccatgaaattggtgatggctttcatagcattcctaagatttctagccataccc
+seq_TW          caaggacccatgaaactggtgatggctttcatagcattcctaagatttctagccataccc
+seq_VN          caaggacccatgaaattggtgatggctttcatagcattcctaagatttctagccataccc
+                *.******  ***** ** * *****.** .*.***.*.**  * **.***.* ** ** 
+
+seq_CN          ccaacagcaggaattttggctagatggggctcattcaagaagaatggagcgatcaaagtg
+seq_ID          ccaacagcaggaattttggctagatggggctcattcaagaagaatggagcgatcaaagta
+seq_IN          ccaacagcaggaattttggctagatggagctcattcaagaagaatggagcgatcaaagtg
+seq_JP          ccaacagcaggaattttggctagatggggctcattcaagaagaatggagcgatcaaagtg
+seq_KH          ccaacagcaggaattttggctagatggggttcattcaagaagagtggagcgatcaaagtg
+seq_MM          ccaacagcaggaattttggctagatggggctcattcaagaagaatggagcgatcaaagta
+seq_PH          ccaacagcaggaattttggctagatggagctcattcaagaagaatggagcgatcaaagtg
+seq_PK          ccaacagccgggatactaaaaagatggggaacaatcaaaaagtcaaaggccatcaatgtc
+seq_SG          ccaacagcaggaattttggctagatggagctcattcaagaagaatggagcgatcaaagtg
+seq_TH          ccaacagcaggaattttggctagatggggttcattcaagaagagtggagcgatcaaagtg
+seq_TW          ccaacagcaggaattttggctagatggggctcattcaagaagaatggagcgatcaaagtg
+seq_VN          ccaacagcaggaattttggctagatggggttcattcaagaagagtggagcgatcaaagtg
+                ******** **.** .*..  ******.*  ** ****.***   ...** ***** ** 
+
+seq_CN          ctacggggtttcaagaaagaaatctcacacatgttgaatataatgaatagaaggaaaaga
+seq_ID          ttacggggtttcaagaaagaaatctcaaacatgttaaacataatgaacaggagaaaaaga
+seq_IN          ttacggggtttcaaaaaagagatctcaagcatgttgaacataatgaacaggaggaaaaga
+seq_JP          ctacggggtttcaagaaagaaatctcaaacatgttgaacataatgaatagaaggaaaaga
+seq_KH          ctacggggtttcaagaaagaaatctcaaacatgttgaatataatgaatagaaggaaaaga
+seq_MM          ttacggggtttcaagaaaggaatctcaaacatgttaaacataatgaacaggaggaaaaga
+seq_PH          ttacggggtttcaagaaagagatctcaaacatgttgaacataatgaacaggaggagaaga
+seq_PK          ttgagagggttcaggaaagagattggaaggatgctgaacatcttgaataggagacgcaga
+seq_SG          ttacggggtttcaaaaaagagatctcaagcatgctgaacataatgaacaggagaaaaaga
+seq_TH          ctacggggtttcaagaaagaaatctcaaacatgttgaatataatgaatagaaggaaaaga
+seq_TW          ctacggggtttcaagaaagaaatctcaagcatgttgaatataatgaatagaaggaaaaga
+seq_VN          ctacggggtttcaagaaagaaatctcaaacatgttgaatacaatgaatagaaggaaaaga
+                .*. *.** ****..****..**.  * . ***.*.**.*.  ****.**.**. . ***
+
+seq_CN          tctgtgaccatgctccttatgctgatgcctacagccttggcgttccatttgactacacga
+seq_ID          tctgtgaccatgctcttcatgctgctgcccacagccctggcgttccatctgaccacccga
+seq_IN          tccgtgaccatgctcctcatgctgctgcccactgccctggcgttccacttgaccacacga
+seq_JP          tctgtgaccatgctccttatgctgatgcctacagccttggcgttccatttgactacacga
+seq_KH          tctgtgatcatgctccttatgctgatgcctacagccttggcgttccatttgactacacga
+seq_MM          tctgtgaccatgctcttcatgctgctgcccacatccctggcattccatctgaccacccga
+seq_PH          tctgtgaccatgctcctcatgctgctgcccacagccctagcgtttcatctgaccacccgg
+seq_PK          accgcaggcgtgatcatcatgctgattccaacagcgatggcgttccatttaaccacacgc
+seq_SG          tccgtgaccatgctcctcatgctgctgcccacagccctggcgttccatttgaccacacga
+seq_TH          tctgtgaccatgctccttatgctgatgcctacagccttggcgttccatttgactacacga
+seq_TW          tctgtgaccatgctccttatgctgatgcctacagccttggcattccatttgactacacga
+seq_VN          tctgtgaccatgctccttatgctaatgcctacagccttggcgttccatttgaccacacga
+                 *.*... *.** ** *.*****. * ** **  *  *.**.**.**..*.**.** ** 
+
+seq_CN          gggggagagccgcacatgatagtcagcaagcaggaaagaggaaagtcacttttgttcaag
+seq_ID          gggggagagccgcacatgatagttagcaagcaggaaagaggaaagtcacttttgtttaag
+seq_IN          gggggagagccacacatgatagttagcaagcaggaaagaggaaagtcactcttgtttaag
+seq_JP          gggggagagccgcacatgatagtcagcaagcaggaaagaggaaagtcacttttgtttaag
+seq_KH          gggggagagccgcacatgatagtcagcaagcaggaaagaggaaaatcactcttgtttaag
+seq_MM          gggggagagccgcacatgatagttagcaagcaggaaagaggaaagtcacttttgtttaag
+seq_PH          ggaggagagccgcacatgatagttagcaagcaggaaagaggaaaatcacttttgtttaag
+seq_PK          aacggagaaccacacatgatcgtcagcaaacaggagaaagggaaaagtctcttgtttaaa
+seq_SG          gggggagagccacacatgatagttagcaagcaggaaagaggaaagtcactcttgtttaag
+seq_TH          gggggagagccgcacatgatagtcagcaagcaggaaagaggaaaatcactcttgtttaag
+seq_TW          gggggagagccgcacatgatagtcagcaagcaggaaagaggaaagtcacttttgtttaag
+seq_VN          gggggagagccgcacatgatagtcagcaagcaggaaagaggaaagtcactcttgtttaag
+                .. *****.**.******** **.*****.*****.*.***.**.   **.*****.**.
+
+seq_CN          acctcagcaggtgtcaacatgtgcacccttatagcgatggatttgggagagttatgtgag
+seq_ID          acctctgcaggtgtcaacatgtgtacccttatcgcaatggatttgggagagttatgtgag
+seq_IN          acctctgtaggtgtcaatatgtgcactctcattgcgatggatttgggagagttatgtgaa
+seq_JP          acctcagcaggtgttaacatgtgcacccttatagcgatggatttgggagagttatgtgag
+seq_KH          acctcagcaggtgtcaacatgtgcacccttatagcgatggatttgggagagttatgtgag
+seq_MM          acctctgcaggtgtcaacatgtgtacccttattgcaatggatttgggagagttgtgtgag
+seq_PH          acctctgcaggtgtcaacatgtgtacccttattgcaatggatttgggagagttatgtgag
+seq_PK          acagaggatggtgtgaacatgtgcaccctcatggccatggaccttggtgaactgtgtgaa
+seq_SG          acctctgcaggtgtcaacatgtgcaccctcattgcaatggatttgggagagttatgtgag
+seq_TH          acctcagcaggtgtcaacatgtgcacccttatagcgatggatttgggagagttatgtgag
+seq_TW          acctcagcaggtgtcaacatgtgcaccctcatagcgatggatttgggagagttatgtgag
+seq_VN          acctcagcaggtgtcaacatgtgcacccttatagcgatggatttgggagagttatgtgag
+                **    *  ***** **.*****.**.**.** ** *****..* ** **..*.*****.
+
+seq_CN          gacacaatgacttacaaatgccctcgaatcactgaggcggaaccagatgacgttgattgt
+seq_ID          gacacaatgacctacaaatgcccccggatcactgaaacggaaccagatgacgttgactgc
+seq_IN          gacacaatgacctacaaatgcccccggatcactgaggcggaaccagatgatgttgactgc
+seq_JP          gatacaatgacttacaaatgccctcgaatcactgaggcggaaccagatgacgttgattgt
+seq_KH          gacacaatgacttacaaatgccctcgaatcactgaagctgaaccagatgacgttgattgt
+seq_MM          gacacaatgacctacaaatgcccccggatcactgaaacggaaccagatgacgttgactgt
+seq_PH          gacacaatgacctacaaatgccccaggatcactgagacggaaccagatgacgttgactgt
+seq_PK          gacacaatcacttataactgtcctcttctcaggcagaatgaaccagaagatatagattgt
+seq_SG          gatacaatgacctacaaatgcccccggatcactgaagcggaaccagatgatgttgattgc
+seq_TH          gacacaatgacttacaaatgccctcgaatcactgaagctgaaccagatgacgttgattgt
+seq_TW          gacacaatgacttacaaatgccctcgaatcactgaggcggaaccagatgacgttgattgt
+seq_VN          gacacaatgacttacaaatgccctcgaatcactgaaactgaaccagatgacgttgattgt
+                **.***** **.**.** **.**.    ***   *..  ******** **..* **.**.
+
+seq_CN          tggtgcaatgccacagacacatgggtgacctatggaacatgttcccaaactggcgagcac
+seq_ID          tggtgcaacgccacggagacatgggtgacttatggaacatgttctcaaactggtgaacac
+seq_IN          tggtgcaatgccacagacacatgggttacctatgggacgtgttctcaaaccggcgaacac
+seq_JP          tggtgcaatgccacagatacatgggtgacctatggaacatgttcccaaacaggcgagcac
+seq_KH          tggtgtaatgccacagacacatgggtgacctatggaacatgttcccaaactggcgagcac
+seq_MM          tggtgcaacgccacggagacatgggtgacttatggaacatgttctcaaactggtgaacac
+seq_PH          tggtgcaatgccacggagacatgggtgacctatggaacatgttctcaaactggtgaacac
+seq_PK          tggtgtaacgccacgtccacatgggtaacttatgggacatgcactgccacaggagaacac
+seq_SG          tggtgcaatgccacagacacatgggtgacctatgggacgtgttctcagactggcgaacac
+seq_TH          tggtgtaatgccacagacacatgggtgacctatggaacatgttcccaaactggcgagcac
+seq_TW          tggtgcaatgccacagacacatgggtgacctatggaacatgttcccaaactggcgagcac
+seq_VN          tggtgtaatgccacagacacatgggtgacctatggaacatgttcccaaactggcgagcac
+                *****.**.*****.   ******** **.*****.**.**. *.   ** ** **.***
+
+seq_CN          cgacgagacaaacgttccgtcgcactggccccacacgtgggacttggtttggaaacaaga
+seq_ID          cgacgagacaaacgttccgtcgcattggcaccacacgtagggcttggtctagaaacaaga
+seq_IN          cgacgagacaaacgttccgtcgcactggccccacacgtgggacttggtctagaaacaaga
+seq_JP          cgacgagacaaacgttccgtcgcactggccccacacgtgggacttggtttggaaacaaga
+seq_KH          cgacgagacaaacgttccgtcgcactggccccacacgtgggacttggtttggaaacaaga
+seq_MM          cgacgagacaaacgttctgttgcactggcaccacacgtagggcttggtctagaaacaaga
+seq_PH          cgacgagacaaacgttccgtcgcattggcaccacacgtggggcttggcctagaaacaaga
+seq_PK          agaagggaaaaaagatcagtggcacttgtcccacatgtgggaatgggattggagacacga
+seq_SG          cgacgggataaacgttctgtcgcattggccccacacgtggggcttggtctcgaaacaaga
+seq_TH          cgacgagacaaacgttccgtcgcactggccccacacgtgggacttggtttggaaacaaga
+seq_TW          cgacgagacaaacgttccgttgcactggccccacacgtgggacttggtttggaaacaaga
+seq_VN          cgacgagacaaacgttccgtcgcactggccccacacgtgggacttggtttggaaacaaga
+                 ** *.** *** * ** ** ***.* *. *****.**.**. * ** .* **.*** **
+
+seq_CN          actgaaacgtggatgtcctctgaaggcgcttggaaacagatacaaagagtggagacttgg
+seq_ID          accgaaacgtggatgtcctctgaaggcgcttggaaacaaatacaaaaagtggagacctgg
+seq_IN          actgaaacgtggatgtcctctgaaggcgcctggaaacaaatacaaagagtggagacttgg
+seq_JP          accgaaacgtggatgtcctccgaaggcgcttggaaacagatacaaagagtggagacttgg
+seq_KH          accgaaacgtggatgtcctctgaaggcgcttggaaacagatacaaagagtggagacttgg
+seq_MM          accgaaacgtggatgtcctctgaaggcgcttggaaacaaatacaaaaagtggagacctgg
+seq_PH          accgaaacgtggatgtcctctgaaggcgcttggagacaaatacaaaaagtggagacttgg
+seq_PK          actgaaacgtggatgtcatcagaaggggcctggaaacacgcccagaggattgaaacctgg
+seq_SG          accgaaacgtggatgtcctctgaaggcgcctggagacagatgcaaaaagtggagacttgg
+seq_TH          accgaaacgtggatgtcctctgaaggcgcttggaaacagatacaaagagtggagacttgg
+seq_TW          accgaaacgtggatgtcctccgaaggcgcttggaaacagatacaaagagtggagacttgg
+seq_VN          accgaaacgtggatgtcctctgaaggcgcttggaaacagatacaaagagtggagacttgg
+                **.************** ** ***** **.****.*** .. **.*...* **.**.***
+
+seq_CN          gccctgagacacccaggattcacggtgatagccctttttctagcacatgccataggaaca
+seq_ID          gctctgagacacccaggattcacggtgatagctctttttctagcacatgccataggaaca
+seq_IN          gctttgcgacacccaggattcacggtgatagcccttttcttggcacatgccataggaaca
+seq_JP          gccctgagacacccaggattcacggtgatagccctttttctagcacatgccataggaaca
+seq_KH          gccctgagacacccaggattcacggtgatagccctttttctagcacatgccataggaaca
+seq_MM          gctctgggacacccaggattcacggtgatagctctttttctagcacatgccataggaaca
+seq_PH          gctctgagacacccaggattcacggtgatagccctttttctagcacatgctataggaaca
+seq_PK          atcttgagacatccaggttttaccataatggcagcaatcttggcatacaccataggaacg
+seq_SG          gccttgagacacccaggattcacggtgatagccctttttctagcacatgccataggaaca
+seq_TH          gccctgagacacccaggattcacggtgatagccctttttctagcacatgccataggaaca
+seq_TW          gccctgagacacccaggattcacggtgatagccctttttctagcacatgccataggaaca
+seq_VN          gccctgagacacccaggattcacggtgatagccctttttctagcacatgccataggaaca
+                ....** ****.***** **.** .*.**.**  .  *..*.***.*..*.********.
+
+seq_CN          tccatcacccagaaagggatcattttcattttgttaatgctggtaacaccatccatggcc
+seq_ID          tccatcactcagaaaggaattattttcattttgctgatgctggtaactccatccatggcc
+seq_IN          tccatcactcagaaagggatcattttcattctgctgatgctggtaacaccatcaatggcc
+seq_JP          tccatcacccagaaagggattatcttcattttgttaatgctggttacaccatccatggcc
+seq_KH          tccatcactcagaaagggattattttcattttgttaatgctggtaacaccatccatggcc
+seq_MM          tccatcacccagaaaggaattatttttattttgctgatgctggtaactccatccatggcc
+seq_PH          tccatcacccagaaaggaattattttcattttgctgatgctggtaactccatccatggcc
+seq_PK          acatatttccaaagagtcctgatattcatcttactgacagctgtcgctccttcaatgaca
+seq_SG          tccattacccagaaagggatcatcttcattttgctgatgctggtgacaccatcaatggcc
+seq_TH          tccatcactcagaaagggattattttcattttgttaatgctggtaacaccatccatggcc
+seq_TW          tccatcacccagaaagggattatcttcattttgttaatgctggttacaccatccatggcc
+seq_VN          tccatcacccagaaagggattattttcattttgttaatgctggtaacaccatccatggcc
+                 *   . ..**.*.**   * ** **.**..*..*.*.. . ** .* ** ** ***.* 
+
+seq_CN          atgcgatgcgtgggaataggcagcagggacttcgtggaaggactgtcaggagcaacctgg
+seq_ID          atgcggtgcgtgggaataggtaacagagacttcgtggaaggactgtcaggagctacgtgg
+seq_IN          atgcgatgcgtgggaataggcaacagagacttcgttgaaggactgtcaggagcaacgtgg
+seq_JP          atgcgatgcgtgggaataggcagcagggacttcgtggaaggactgtcaggagcaacttgg
+seq_KH          atgcgatgcgtgggaataggcagcagggacttcgtggaaggactgtcaggagcaacctgg
+seq_MM          atgcggtgcgtgggaataggtaacagggacttcgtggaaggactgtcaggagctacgtgg
+seq_PH          atgcggtgtgtgggaataggcaacagagacttcgtggaaggactgtcaggagctacgtgg
+seq_PK          atgcgttgtattggaatatcaaatagagacttcgtggaaggggtttcaggaggaagctgg
+seq_SG          atgcggtgcgtgggaataggcaacagagacttcgttgaaggactgtcaggagcaacatgg
+seq_TH          atgcgatgcgtgggaataggcagcagggacttcgtggaaggactgtcaggagcaacctgg
+seq_TW          atgcgatgcgtgggaataggcagcagggacttcgtggaaggactgtcaggagcaacttgg
+seq_VN          atgcgatgcgtgggaataggcagcagggacttcgtggaaggactgtcaggagcaacttgg
+                ***** **..* ******   *..**.******** *****. * *******  *  ***
+
+seq_CN          gtagatgtggtactggaacatggaagttgcgtcaccaccatggcaaaagacaaaccaaca
+seq_ID          gtggatgtggtactggagcatggaagttgcgttactaccatggcaaaagacaaaccaaca
+seq_IN          gtggacgtggtactggagcatggaagctgcgtcaccaccatggcaaaaaataaaccaaca
+seq_JP          gtagacgtggtgctggaacatggaagttgcgtcactaccatggcaaaagacaaaccaaca
+seq_KH          gtagatgtggtactggaacatggaagttgcgtcaccaccatggcaaaagacaaaccaaca
+seq_MM          gtggatgtggtactggagcatggaagttgtgtcactactatggcaaaagacaaaccaaca
+seq_PH          gtggatgtggtgctggagcatggaagttgcgtcaccaccatggcaaaagacaaaccaaca
+seq_PK          gttgacatagtcttagaacatggaagctgtgtgacaacgatggcaaaaaacaaaccaaca
+seq_SG          gtggatgtggtactggagcatggaagctgtgtcaccaccatggcaaaaaataaaccaaca
+seq_TH          gtagatgtggtactggaacatggaagttgcgtcaccaccatggcaaaagacaaaccaaca
+seq_TW          gtagatgtggtgttggaacatggaagttgcgtcactaccatggcaaaagacaaaccaaca
+seq_VN          gtagatgtggtactggaacatggaagttgcgtcaccaccatggcaaaagacaaaccaaca
+                ** **..*.** .*.**.********.**.** ** ** *********.*.*********
+
+seq_CN          ttggacattgaactcttaaagacggaagtcacaaaccctgccgtcctgcgcaaactgtgc
+seq_ID          ctggatattgaactcttaaagacggaggtcacaaacccagccgtcctgcgcaaactgtgc
+seq_IN          ttggacattgaactcttgaaaacggaggtcacgaaccctgccgtcctgcgcaaactgtgc
+seq_JP          ttggacattgaactcttgaagacggaagtcacaaaccctgccgtcctgcgcaaactgtgc
+seq_KH          ttggacattgaactcttgaagacggaagtcacaaaccctgccatcctgcgcaaactgtgc
+seq_MM          ctggatattgaactcttaaagacggaggtcacaaacccagccatcctgcgcaaactgtgc
+seq_PH          ctggacattgaactcctgaagacggaggttacaaaccctgcagtcctgcgcaaattgtgc
+seq_PK          ttggactttgaactgataaaaacagaagccaagcaacctgccactctaaggaagtactgt
+seq_SG          ttggacattgaactcttgaagacggaggtcacgaaccctgccgtcttgcgcaaactgtgc
+seq_TH          ttggacattgaacttttgaagacggaagtcacaaaccctgccatcctgcgcaaactgtgc
+seq_TW          ttggacattgaactcttgaagacggaagtcacaaaccctgctgtcctgcgcaaactgtgc
+seq_VN          ttggacattgaactcttgaagacggaagtcacaaaccctgccgtcctgcgcaaactatgc
+                .****. *******  *.**.**.**.*..* . * ** ** ....*. * **..  **.
+
+seq_CN          attgaagctaaaatatcaaacaccaccaccgactcaagatgtccaacacaaggagaagcc
+seq_ID          attgaagccaaaatatcaaataccaccaccgattcgagatgtccaacacaaggagaagcc
+seq_IN          attgaagctaaaatatcaaacaccaccaccgattcaagatgtccaacacaaggagaagct
+seq_JP          attgaagccaaaatatcaaacaccaccaccgactcaagatgtccaacacaaggagaagcc
+seq_KH          attgaagctaaaatatcaaacaccaccaccgactcaagatgtccaacacaaggagaagcc
+seq_MM          attgaagccaaaatatcaaatactaccaccgattcgagatgtccaacacaaggagaagcc
+seq_PH          attgaagctaaaatatcaaacaccaccactgattcgagatgtccaacacaaggagaagct
+seq_PK          atagaggcaaagctgaccaacacaacaacagcatctcgatgcccaacacaaggggaaccc
+seq_SG          attgaagctaaaatatcaaacaccaccaccgattcaagatgtccaacacaaggagaagct
+seq_TH          attgaagctaaaatatcaaacaccaccaccgactcaagatgcccaacacaaggagaagcc
+seq_TW          attgaagctaaaatatcaaacaccaccaccgattcaagatgtccaacacaaggagaagcc
+seq_VN          attgaagctaaaatatcaaacaccaccaccgactcaagatgtccaacacaaggagaagcc
+                ** **.** **. *. * **.** ** ** *  **  ****.***********.*** *.
+
+seq_CN          acactggtggaagaacaagacgcgaactttgtgtgtcgacgaacgtttgtggacagaggc
+seq_ID          acgctggtggaagaacaagacacgaactttgtgtgtcgacgaacgttcgtggacagaggc
+seq_IN          acactggtggaagaacaagacgcgaactttgtgtgtcgacgaacgttcgtggacagaggc
+seq_JP          acactggtggaagaacaagacgcgaactttgtgtgtcgacgaacgtttgtggacagaggc
+seq_KH          acactggtggaagaacaagacgcgaactttgtgtgtcgacgaacgtttgtggacagaggc
+seq_MM          acgctggtggaagaacaagacacgaactttgtgtgtcgacgaacgttcgtggacagaggc
+seq_PH          acgctagtggaagagcaggacacgaactttgtgtgccgacgaacgttcgtggacagaggc
+seq_PK          agcctaaatgaagaacaggacaaaaggtttgtctgcaaacattccatggtagacagagga
+seq_SG          acactggtggaagaacaagacgcgaactttgtgtgtcgacgaacattcgtggacagaggc
+seq_TH          acactggtggaagaacaagacgcgaactttgtgtgtcgacgaacgtttgtggacagaggc
+seq_TW          acactggtggaagaacaagacgcgaactttgtgtgtcgacgaacgtttgtggacagaggc
+seq_VN          acactagtggaagaacaagacgcgaactttgtgtgtcgacgaacgtttgtggacagaggc
+                *  **..  *****.**.***. .*. ***** **. .**.  *  * **.******** 
+
+seq_CN          tggggcaatggctgtgggctcttcggaaaaggaagcctactaacgtgtgctaagttcaag
+seq_ID          tggggcaatggttgtgggctattcggaaaaggcagcttaataacatgtgccaagtttaag
+seq_IN          tggggcaatggttgcggactatttggaaaaggaagcctactgacgtgtgctaagttcaag
+seq_JP          tggggcaatggctgtgggctttttggaaaaggaagccttataacgtgtgctaagttcaag
+seq_KH          tggggcaatggctgtgggctcttcggaaaaggaagcctaataacgtgtgctaagttcaag
+seq_MM          tggggcaatggttgtgggctatttggaaaaggtagcttaataacgtgtgctaagtttaag
+seq_PH          tggggtaatggttgtgggctattcggaaaaggcagcttaataacgtgtgcaaagttcaag
+seq_PK          tggggaaatggatgtggattatttggaaagggaggcattgtgacctgtgctatgttcaca
+seq_SG          tggggtaatggttgtggactattcgggaagggaagcttactaacgtgtgctaagtttaag
+seq_TH          tggggcaatggctgtgggctcttcggaaaaggaagcctaataacgtgtgctaagttcaag
+seq_TW          tggggcaatggctgtgggctctttggaaaaggaagccttataacgtgtgcaaagttcaag
+seq_VN          tggggcaatggctgtgggctcttcggaaaaggaagcctaataacgtgtgctaagttcaag
+                ***** ***** **.**..* **.**.**.** .** *  *.** ***** * ***.* .
+
+seq_CN          tgtgtgacaaaactggaaggaaagatagttcaatatgaaaacttgaaatattcagtaata
+seq_ID          tgtgtgacaaaactggaagggaagatagtccaatatgaaaatttaaaatattcagtaata
+seq_IN          tgtgtgacaaaactagaaggaaaggtagttcaatatgaaaacttaaaatattcagtgata
+seq_JP          tgtgtgacaaaactggaaggaaaaatagttcaatatgaaaacttgaaatattcagtaata
+seq_KH          tgtgtgacaaaactggaaggaaagatagttcaatatgaaaacttgaaatattcagtaata
+seq_MM          tgtgtgacaaaactggaaggaaagatagttcaatatgaaaatttaaaatattcagtgata
+seq_PH          tgtgtgacaaaactggaaggaaagatagtccaatatgaaaacctaaaatattcagtcata
+seq_PK          tgcaagaaaaacatggaagggaaaattgtgcaaccagaaaacctggaatacaccattgtg
+seq_SG          tgtgtgacaaaacttgaaggaaagacagttcaatatgaaaacttaaaatattcggtgata
+seq_TH          tgtgtgacaaaactggaaggaaagatagttcaatatgaaaacttgaaatattcagtaata
+seq_TW          tgtgtgacaaaactggaaggaaaaatagtgcaatatgaaaacttgaaatattcagtaata
+seq_VN          tgtgtgacaaaattggaaggaaagatagttcaatatgagaacttgaaatattcagtaata
+                **.. ** ***  * *****.**... ** ***.  **.**..*..****. * .* .*.
+
+seq_CN          gtcaccgtccacactggagaccagcatcaggtgggaaatgaaagcacagaacatgggaca
+seq_ID          gtcaccgtccacactggagaccagcaccaagttggaaatgagactatagaacatggaaca
+seq_IN          gtcactgtccacactggggaccagcatcaggtgggaaacgagaccacagaacatggaaca
+seq_JP          gtcaccgttcacactggagaccagcaccaggtgggaaatgaaagcacagaacatgggaca
+seq_KH          gtcaccgttcacaccggagaccagcaccaggtgggaaatgaaagcacagaacatgggaca
+seq_MM          gtcaccgtccacactggagaccagcaccaagttgggaatgaaactacagaacatggaaca
+seq_PH          gtcaccgtacacactggagaccaacaccaagttggaaatgagaccacagaacatggaaca
+seq_PK          gtaacacctcattcaggggaagagaatgcagttggaaacgacacaggaaaacatgggaag
+seq_SG          gtcactgtccacactggggaccagcaccaggtaggaaatgagactacagaacatggaaca
+seq_TH          gtcaccgttcacaccggagaccagcaccaggtgggaaatgaaagcacagaacatgggaca
+seq_TW          gtcaccgtccacactggagaccagcaccaggtgggaaatgaaagcacagaacatgggaca
+seq_VN          gtcaccgttcacaccggagaccagcaccaagtgggaaatgaaagcacagaacatgggaca
+                ** **  . **. * **.**  *. *.  .** **.**.** *  . *.*******.* .
+
+seq_CN          actgcaactataacacctcaagctcctacgacggaaatacagctgaccgactacggagct
+seq_ID          actgctaccataacacctcaagctcccacgtcggaaatacagctgacagactacggggct
+seq_IN          attgcaaccataacacctcaagctccaacgtcggaaatacagctgaccgactacggagcc
+seq_JP          actgcaactataacacctcaagctcctacgacagaaatacagctgaccgactacggagct
+seq_KH          actgcaactataacacctcaagctcctacgacggaaatacagctgactgactacggagct
+seq_MM          actgcaaccataacacctcaagctcctacgtcggaaatacagctgacagactacggagct
+seq_PH          actgcaaccataacacctcaagctcccacgtcggaaatacagctgacagactacggagct
+seq_PK          gaaatcaaagtgacaccacagagttccattacagaagcagaactgacaggctacggcact
+seq_SG          attgcaaccataacacctcaagctcccacgtcggaaatacagctgactgactacggagcc
+seq_TH          actgcaactataacacctcaagctcctacgacggaaatacagctgactgactacggagct
+seq_TW          actgcaaccataacacctcaagctcctacgacagaaatacagctgaccgactacggagct
+seq_VN          actgcaactataacacctcaagctcctacgacggaaatacagctgaccgactacggagct
+                .  .. *  .*.***** **.. *.* *.  *.***..* *.***** *.****** .*.
+
+seq_CN          cttacattggattgttcacctagaacaggactagactttaatgaaatggtgttgttgaca
+seq_ID          ctaacactggactgttcacccagaacagggctagactttaatgagatggtgttgttgact
+seq_IN          ctcacattggactgctcacctagaaccgggctggactttaatgagatggtgttattgaca
+seq_JP          cttacattggattgttcacctagaacaggactagacttcaatgaaatggtgttgttgaca
+seq_KH          cttacattggattgttcacctagaacaggactagactttaatgaaatggtgttgttgaca
+seq_MM          ttaacactggactgttcacctagaacagggctagacttcaatgagatggtgttgttgaca
+seq_PH          ctaacattggattgttcacctagaacaggactagactttaatgagatggtgttgttaaca
+seq_PK          gtcacgatggagtgctctccaagaacgggcctcgacttcaatgagatggtgttgctgcaa
+seq_SG          cttacattggactgctcacctagaacagggctggactttaatgagatggtgctgttgaca
+seq_TH          cttacattggattgttcacctagaacaggactagactttaatgaaatggtgttgttgaca
+seq_TW          cttacattggattgttcacccagaacaggactggacttcaatgaaatggtgttgttgaca
+seq_VN          cttacattggattgttcacctagaacaggactagactttaatgaaatggtgttgttgaca
+                 * **. **** **.** ** ***** ** ** *****.*****.******.*..*.   
+
+seq_CN          atgaaagaaaaatcatggctagtccacaaacaatggtttctagacttaccactgccttgg
+seq_ID          atgaaagaaaaatcatggctcgtccacaaacaatggtttctagacttaccgctgccttgg
+seq_IN          atgaaagaaaaatcatggcttgtccacaaacaatggtttctagacttaccactgccttgg
+seq_JP          atgaaagaaaaatcatggctagtccacaaacaatggtttctagacctaccactgccttgg
+seq_KH          atgaaagaaaagtcatggctagtccacaaacaatggtttctagacctaccactgccttgg
+seq_MM          atgaaagaaaaatcatggctcgtccacaaacaatggtttctagacttaccgctgccttgg
+seq_PH          atgaaagaaaaatcatggctcgtccacaaacaatggtttctggacctaccactgccttgg
+seq_PK          atggaaaacaaggcttggctggtgcacaggcaatggttcctagacctgccgttaccatgg
+seq_SG          atgaaagaaaaatcatggcttgtccacaaacaatggtttctagacttaccattgccttgg
+seq_TH          atgaaagaaaaatcatggctagtccacaaacaatggtttctagacctaccactgccttgg
+seq_TW          atgaaagaaaaatcatggctagtccacaaacaatggtttctagacctaccactgccttgg
+seq_VN          atgaaagaaaaatcatggctagtccacaaacaatggtttttagacctaccactgccttgg
+                ***.**.* **. * ***** ** ****..********..*.***.*.**..*.** ***
+
+seq_CN          acttcgggagcttcaacatcacaagagacttggaacagacaagatttgctggtgacattt
+seq_ID          acctcaggggcttcaacatcccaagagacttggaatagacaagacttgctggtcacattc
+seq_IN          acttcgggggcttcaacatcccaagagacctggaacagacaggacttgctggtcacattc
+seq_JP          acctcgggagcttcaacatcacaagaaacttggaacagacaagatttgctggtgacattt
+seq_KH          acctcgggagcttcaacatcacaagagacttggaacagacaagatttgctggtgacattt
+seq_MM          acctcgggggcttcaacatcccaagagacttggaatagacaagacttgctggtcacattt
+seq_PH          acctcgggggcctcaacatcccaagagacttggaatagacaagacttgctggtcacattt
+seq_PK          ttgcccggagcggacatacaaggatcaaattggatacagaaggagacgttggtcaccttc
+seq_SG          acctcgggggcttcaacatctcaagagacttggaacagacaagatctgttggtcacattc
+seq_TH          acctcgggagcttcaacatcacaagagacttggaacagacaagatttgctggtgacattt
+seq_TW          acctcgggagcttcaacatcacaagaaacttggaacagacaagatttgctggtgacattt
+seq_VN          acctcgggagcttcaacatcacaagagacttggaacagacaagatttgctggtgacattt
+                 . .* **.**    *.*.   .*  .* .****   .. *.**  .*.**** ** **.
+
+seq_CN          aagacagctcatgcaaagaagcaggaagtagtcgtactaggatcacaagaaggagcaatg
+seq_ID          aagacagctcatgcaaagaagcaggaagtagttgtactaggatcacaagaaggagcgatg
+seq_IN          aagacagctcatgcaaagaagcaggaagtagtcgtactgggatcacaggaaggagcaatg
+seq_JP          aagacagctcatgcgaagaagcaggaagtagtcgtactaggatcacaagaaggagcaatg
+seq_KH          aagacagcccatgcaaagaagcaggaagtagtcgtactaggatcacaagaaggagcaatg
+seq_MM          aagacggctcatgcaaagaagcaggaagtagttgtactaggatcacaagaaggagcgatg
+seq_PH          aagacagctcatgcaaaaaagcaggaagtagtcgtactaggatcacaagaaggagcaatg
+seq_PK          aaaaatccccatgcgaagaaacaggatgttgttgttttaggatcccaagaaggggctatg
+seq_SG          aagacagctcatgcaaagaagcaggaagtagtcgtactggggtcacaagaaggagcaatg
+seq_TH          aagacagcccatgcaaagaagcaggaagtagtcgtactaggatcacaagaaggagcaatg
+seq_TW          aagacagctcatgcaaagaagcaggaagtagtcgtactaggatcacaagaaggagcaatg
+seq_VN          aagacagctcatgcaaagaagcaggaagtagtcgtactaggatcacaagaaggagcaatg
+                **.*   *.*****.**.**.***** ** **.** .*.**.** **.*****.** ***
+
+seq_CN          cacactgcgttgaccggagcgacagaaatccaaacgtctggaacgacaacaatttttgca
+seq_ID          cacactgcgttgactggagcgacagaaatccaaacgtctggaacgacaacaatttttgca
+seq_IN          cacactgcgttgactggggcgacagaaatccagacgtcaggaacgacaacaatctttgca
+seq_JP          cacactgcgttgaccggagcgacggaaatccaaacgtctggaacgacaacaatttttgca
+seq_KH          cacactgcgttgaccggagcaacagaaatccaaacgtctggaacgacaacaatttttgca
+seq_MM          cacactgcgctgactggagcaacagaaatccaaacgtctggaacgacaacaattttcgca
+seq_PH          cacactgcgctgactggagcgacagaaatccaaacgtctggaacgacaacaatttttgca
+seq_PK          catacagcacttacaggggccacggaaatccagatgtcatcaggaaacccactgttcaca
+seq_SG          cacactgcgttgactggggcgacagaaatccagacgtcaggaacgacgacaatcttcgca
+seq_TH          cacactgcgttgaccggagcaacagaaatccaaacgtctggaacgacaacaatttttgca
+seq_TW          cacactgcgttgaccggagcgacggaaatccaaacgtctggaacgacaacaatttttgca
+seq_VN          cacactgcgttgaccggagcgacagaaatccaaacgtctggaacgacaacaattttcgca
+                **.** **..* ** **.** **.********.*.***   *. .*   ** * **..**
+
+seq_CN          ggacacttgaaatgtagactaaagatggacaaactgactctaaaagggatgtcatatgtg
+seq_ID          ggacacctgaaatgcagactgaaaatggataaactgactctaaagggggtatcatatgta
+seq_IN          ggacacctgaagtgcagactaaaaatggataaactgactttaaaagggatgtcatatgtg
+seq_JP          ggacacttgaaatgtagactaaagatggataaactgactctaaaagggatgtcatatgtg
+seq_KH          ggacacttgaaatgcagactaaagatggacaaactgactctaaaagggatgtcatatgtg
+seq_MM          ggacacctgaaatgcagactgaaaatggataaactgactttaaaaggggtatcatatgta
+seq_PH          ggacatttgaaatgcagactaaaaatggataaactgaccttaaaaggggtatcatatgta
+seq_PK          ggacatctcaagtgcaggctgagaatggataaattacagctcaaaggaatgtcatactct
+seq_SG          ggacacctgaaatgtagactaaaaatggataaactgactctaaaaggggtgtcatatgtg
+seq_TH          ggacacttgaaatgcagactaaagatggacaaactgactctaaaagggatgtcatatgtg
+seq_TW          ggacacttgaagtgtagactaaagatggacaaactgactctaaaagggatgtcatatgtg
+seq_VN          ggacacttgaaatgcagactaaagatggacaaactgactctaaaagggatgtcatatgtg
+                *****..* **.**.**.**.*..*****.***.*.   .* **.**..*.*****. . 
+
+seq_CN          atgtgcacaggctcatttaagctagagaaagaagtggctgagacccagcatggaaccgtt
+seq_ID          atgtgcacaggctcattcaagctagaaaaggaagtggctgagacccaacatggaaccgtt
+seq_IN          atgtgcacaggttcatttaagctagagaaggaagtggctgagacccagcatggaactgtt
+seq_JP          atgtgcacaggctcattcaagctagagaaagaagtggctgagacccaacatggaaccgtt
+seq_KH          atgtgcacaggctcattcaagctagagaaagaagtggctgagacccagcatggaaccgtt
+seq_MM          atgtgcacaggctcattcaagctagaaaaggaagtggctgagacccagcatggaactgtt
+seq_PH          atgtgcacagggtcattcaagctagagaaggaagtggctgagacccagcatggaaccgtt
+seq_PK          atgtgtacaggaaagtttaaagttgtaaaggaaatagcagaaacacaacatggaacaata
+seq_SG          atgtgcacaggctcatttaagctagagaaggaagtggctgagacccagcatggaactgtc
+seq_TH          atgtgcacaggctcattcaagctagagaaagaagtggctgagacccagcatggaaccgtt
+seq_TW          atgtgcacgggctcattcaagctagagaaagaagtggctgagacccagcatggaacagtt
+seq_VN          atgtgcacaggctcattcaagctagagaaagaagtggctgagacccagcatggaaccgtt
+                *****.**.**   .**.**. * * .**.***.*.** **.** **.******** .* 
+
+seq_CN          ctagtgcagattaaatatgaaggaacagatgcaccatgcaagatcccttttttgacccaa
+seq_ID          ctagtgcaggttaagtacgaaggaacagatgcaccatgtaagatccccttctcatcccaa
+seq_IN          ttagtgcaggttaaatacgaaggaacagatgcaccatgcaagatcccctttttgatccaa
+seq_JP          ctagtgcagattaaatacgaaggaacagatgcaccatgcaagatccctttttcgacccaa
+seq_KH          ctagtgcagattaaatatgaaggaacagatgcaccatgcaagatccctttttcgacccaa
+seq_MM          ctagtgcaggttaagtacgaaggaacagatgcaccatgtaagatccccttctcatcccaa
+seq_PH          ctagtgcaggttaaatacgaaggaacagatgcaccatgcaagatccccttctcgtcccaa
+seq_PK          gttgtcagaatacaatatgaaggggatggctctccatgtaaaatcccttttgagataatg
+seq_SG          ctagtgcaggttaaatatgaaggaacagatgcaccatgcaagattccattttcaacccaa
+seq_TH          ctagtgcagattaaatatgaaggaacagatgcaccatgcaagatccctttttcgacccaa
+seq_TW          ctagtgcagattaaatacgaaggaacagatgcaccatgcaagatccctttttcgacccaa
+seq_VN          ctagtgcagattaaatacgaaggaacagatgcaccatgcaagatccctttttcgacccaa
+                 * **  ...*  *.**.*****..  *.. * *****.**.**.** **.  . .   .
+
+seq_CN          gatgaaaaaggagtaacccagaatgggagattgataacagccaaccccatagtcactgac
+seq_ID          gatgagaggggagtaatccagaatgggagattgataacagccaaccccatagtcactgac
+seq_IN          gatgagaaaggagtgacccagaatgggagattgataacagccaatcctatagttactgac
+seq_JP          gatgaaaaaggagtaacccagaatgggagattgataacagccaaccccatagtcactgac
+seq_KH          gatgaaaaaggagtaacccagaatgggagattgataacagctaaccctatagttactgac
+seq_MM          gatgagaagggagtaatccagaatgggagattgataacagccaaccccatagtcactgac
+seq_PH          gatgagaagggagtaacccagaatgggagattgataacagctaaccccatagtcactgac
+seq_PK          gatttggaaaaaagacatgtcttaggtcgcctgattacagtcaacccaatcgtcacagaa
+seq_SG          gatgagaaaggagtgacccagaatgggagattgataacagccaatcccatagttactgac
+seq_TH          gatgaaaaaggagtaacccagaatgggagattgataacagctaaccctatagttactgac
+seq_TW          gatgaaaaaggagtaacccagaatgggagattgataacagccaaccccatagtcactgac
+seq_VN          gatgaaaaaggagtaacccagaatgggagattgataacagctaaccccatagttactgac
+                ***  ......*. .  .      **  * .**** ****..**.** ** **.** ** 
+
+seq_CN          aaagaaaaaccagtcaacattgaggcagaaccgccttttggtgagagttacatcgtgata
+seq_ID          aaagaaaaaccagtcaacattgaggcggagccaccttttggtgagagctacatcgtggta
+seq_IN          aaagaaaaaccagtcaacattgagacagaaccaccttttggtgagagctacatcgtggta
+seq_JP          aaagaaaaaccagtcaacattgaggcagaaccgccttttggtgagagttacattgtgata
+seq_KH          aaagaaaaaccagtcaacattgaggcagaaccgccttttggtgagagttacatcgtaata
+seq_MM          aaagaaaaaccagtcaacattgaggcggagccaccttttggtgagagctacatcgtggta
+seq_PH          aaagaaaaaccagtcaatattgaagcggagccaccttttggtgagagctacctcgtggta
+seq_PK          aaagacagtccagtcaacatagaagcagaacccccattcggagacagctacatcattata
+seq_SG          aaagaaaaaccagtcaacattgaaacagaaccaccctttggtgagagctacatcgtgata
+seq_TH          aaagaaaaaccagtcaacattgaggcagaaccgccttttggtgagagttacatcgtaata
+seq_TW          aaagaaaaaccagtcaacattgaggcagaaccgccttttggtgagagttacatcgtgata
+seq_VN          aaagaaaaaccagtcaacattgaggcagaaccgccctttggtgagagttacatcataata
+                ***** *. ********.** **..*.**.** ** **.** ** **.*** *..* .**
+
+seq_CN          ggagcaggtgaaaaagctttgaaactaagctggttcaagaaaggaagcagcatagggaaa
+seq_ID          ggagcaggtgaaaaagctttgaaactaagctggttcaagaagggaagcagtataggaaaa
+seq_IN          ggggcaggtgaaaaagctttgaaactaagccggttcaagaaaggaagcagcatagggaaa
+seq_JP          ggagcaggtgaaaaagctttgaaactaagctggttcaagaaaggaagcagcatagggaaa
+seq_KH          ggagcaggtgaaaaagctttgaaactaagctggtttaagaaaggaagcagcatagggaaa
+seq_MM          ggagcaggtgagaaagctttgaaactaagctggttcaagaagggaagcagtatagggaaa
+seq_PH          ggagcaggtgaaaaagctttgaaactaagctggttcaagaagggaagtagtatagggaaa
+seq_PK          ggagtagaaccgggacaactgaagctcagctggtttaagaaaggaagctcaatcggccaa
+seq_SG          ggggcgggtgaaaaagctttgaaactaagctggttcaagaaaggaagcagcatagggaaa
+seq_TH          ggagcaggtgaaaaagctttgaaactaagctggtttaagaaaggaagcagcatagggaaa
+seq_TW          ggagcaggtgaaaaagctttgaaactaagctggttcaagaaaggaagcagcatagggaaa
+seq_VN          ggagcaggtgaaaaagctttgaaactaagctggttcaagaaaggaagcagcatagggaaa
+                **.*..*.   ...*   .****.** ***.****.*****.*****.   ** **  **
+
+seq_CN          atgtttgaggcaactgccagaggagcacgaaggatggccatactgggagacaccgcatgg
+seq_ID          atgtttgaagcaactgcccgtggagcacgaaggatggccattctgggagacactgcatgg
+seq_IN          atgttcgaagcaaccgcccgaggagcacgaaggatggctatcctgggagacaccgcatgg
+seq_JP          atgtttgaggcaactgccagaggagcacgaaggatggccatactgggagacaccgcatgg
+seq_KH          atgtttgaggcaactgccagaggagcacgaaggatggccatactgggagacaccgcatgg
+seq_MM          atgtttgaagcaactgcccgtggagcacgaaggatggccattctgggagacactgcatgg
+seq_PH          atgtttgaagctactgcccgtggagcacgaaggatggccatcctgggagacaccgcatgg
+seq_PK          atgttcgagacaacaatgagaggagcgaagagaatggccattttaggtgacacagcctgg
+seq_SG          atgttcgaagccaccgcccgaggagcacgaaggatggctatcctgggagacacagcatgg
+seq_TH          atgcttgaggcaactgccagaggagctcgaaggatggccatactgggagacaccgcatgg
+seq_TW          atgtttgaggcaactgccagaggagcacgaaggatggccatactgggagacaccgcatgg
+seq_VN          atgtttgaggcaactgccagaggagcacgaaggatggccatactgggagacaccgcatgg
+                ***.*.**..* ** ..  * *****  ..**.*****.** .*.** ***** ** ***
+
+seq_CN          gactttggttctgtaggaggagtgttcacgtctgttggaaaattagtacaccagattttt
+seq_ID          gacttcggttctataggaggagtgttcacgtccgtgggaaaactggtacaccagattttt
+seq_IN          gacttcggttctataggaggagtgtttacgtctgtgggaaaactgatacatcaggttttt
+seq_JP          gactttggttctataggaggagtgttcacgtctgttggaaaattagtacaccagattttt
+seq_KH          gactttggttctataggaggagtgttcacgtctgttggaaaattagtacaccagattttt
+seq_MM          gacttcggttctataggaggagtgttcacgtccgtgggaaaactggtacaccagatcttt
+seq_PH          gacttcggttctataggaggggtgttcacgtctgtggggaaactgatacaccagattttt
+seq_PK          gattttggatccctgggaggagtgttcacatctataggaaaggccctccaccaagttttt
+seq_SG          gacttcggttccataggaggggtgttcacatctgtgggaaaattggtacaccaggttttt
+seq_TH          gactttggttctataggaggagtgttcacgtctgttggaaaattagtacaccagattttt
+seq_TW          gactttggttctataggaggagtgttcacgtctgttggaaaattagtacaccagattttc
+seq_VN          gactttggttctataggaggagtgttcacgtctgttggaaaattagtacaccagattttt
+                **.**.** **. *.*****.*****.**.**..* **.**. .  * **.**..*.**.
+
+seq_CN          ggaactgcatatggagttttgttcagcggtgtttcctggaccatgaaattaggaataggg
+seq_ID          ggaactgcgtatggagttttgttcagcggtgtttcttggaccatgaaaataggaataggg
+seq_IN          gggaccgcatatggggttctgttcagcggtgtttcttggaccatgaaaataggaataggg
+seq_JP          ggaactgcatatggagttttgttcagcggtgtttcctggaccatgaaaataggaataggg
+seq_KH          ggaactgcatatggagttttgttcagcggtgtttcctggaccatgaaaataggaataggg
+seq_MM          ggaactgcgtacggagttttgttcagcggtgtttcttggaccatgaaaataggaataggg
+seq_PH          gggactgcgtatggagtcttgtttagcggggtttcttggaccatgaaaataggaataggg
+seq_PK          ggagcaatctatggggctgccttcagtggggtttcatggactatgaaaatcctcatagga
+seq_SG          ggaaccgcatatggggtcctgttcaacggtgtttcttggaccatgaaaataggaataggg
+seq_TH          ggaactgcatatggagttttgttcagcggtgtttcctggaccatgaaaataggaataggg
+seq_TW          ggaactgcatatggagttttgttcagcggtgtttcctggaccatgaaaataggaataggg
+seq_VN          ggaactgcatatggagttttgttcagcggtgtttcctggaccatgaaaataggaataggg
+                **..* .. **.**.*.. . **.*..** ***** *****.****** *    *****.
+
+seq_CN          gttctgctgacatggctaggattaaactcaaggagcacgtccctctcgatgacgtgcatt
+seq_ID          attctactgacatggctaggattaaattcaaggaacacgtccctttcaatgacgtgtatc
+seq_IN          attctgctgacatggttgggattaaattcaaggagcacgtcactttcaatgacgtgcatt
+seq_JP          gttctgctgacatggttaggattaaactcaaggagcacgtccctttcgatgacgtgcatt
+seq_KH          gttctgctgacatggctaggattaaactcaaggagcacgtccctttcgatgacgtgcatt
+seq_MM          attctgctgacatggctaggattaaattcaaggagcacgtccctttcaatgacgtgtatc
+seq_PH          attctgctgacatggctagggttaaattcaaggagcacgtccctttcaatgacgtgtatc
+seq_PK          gttgtcatcacatggataggaatgaattcacgtagcacctcactgtctgtgtcactagta
+seq_SG          attctgctgacatggctaggattgaattcaaggagcacgtcactctcgatgacgtgcatt
+seq_TH          gttctgctgacatggctaggattaaactcaaggagcacgtccctttcgatgacgtgcatt
+seq_TW          gttctgctgacatggctaggattaaactcaaggagcacgtccctttcgatgacgtgcatt
+seq_VN          gttctgctgacatggctgggattaaactcaaggagcacgtccctttcgatgacgtgcatt
+                .** *  * ****** *.**. *.**.*** * *.*** ** ** ** .** *..  .* 
+
+seq_CN          gcagttggcctagtaacactatacctaggagtcatggttcaggcggattcaggatgcgta
+seq_ID          gcagttggcatggttacactgtacctaggagtcatggttcaggcggattcgggatgtgta
+seq_IN          acagttggcatggtcacactgtacctaggagtcatggttcaggcggactcgggatgtgta
+seq_JP          gcagttggcctagtaacgctatacttaggagtcatggttcaggcggattcaggatgtgta
+seq_KH          gcagttggcctagtaacactatacctaggagtcatggttcaggcggattcaggatgtgta
+seq_MM          gcagttggcatggtcacactgtacctaggagtcatggttcaggcggactcgggatgtgta
+seq_PH          gcagttggcatggtcacactgtacctaggagtcatggttcaggcggactcgggatgtgtg
+seq_PK          ttagtgggagtcgtgacattgtacttgggagttatggtgcaggctgatagtggttgtgtt
+seq_SG          gcagttggcatggtcacactgtacctaggagtcatggttcaagcggactcggggtgtgtg
+seq_TH          gcagttggcctagtaacactatacctaggagtcatggttcaggcggattcaggatgtgta
+seq_TW          gcagtcggcctagtaacgctatacttaggagtcatggttcaggcggattcaggatgtgta
+seq_VN          gcagttggcctagtaacactatacctaggagtcatggtccaggcggattcaggatgtgta
+                 .*** **  * ** **..*.***.*.*****.***** **.** **.   ** **.** 
+
+seq_CN          attaattggaaaggtagagaactcaaatgtggaagtggcatttttgtcaccaatgaagtt
+seq_ID          attaactggaaaggcagagaactcaaatgtggaagcggcatttttgtcactaatgaagtt
+seq_IN          atcaactggaagggcagagaactcaaatgtggaagtggcatttttgtcaccaatgaagtc
+seq_JP          atcaattggaaaggtagagaactcaaatgtggaagtggcatttttgtcaccaatgaagtt
+seq_KH          attaattggaaaggtagagaactcaaatgtggaagtggcatttttgtcaccaatgaagtt
+seq_MM          attaactggaaaggcagagaactcaaatgtggaagcggcatttttgtcactaatgaagtt
+seq_PH          atcaactggaaaggcagagaactcaaatgtggaagcggcatttttgtcaccaacgaagtt
+seq_PK          gtgagttggaaaaacaaagaactgaaatgtggcagtgggattttcttcacagacaatgta
+seq_SG          atcaactggaagggcagagaactcaagtgtggaagtggcatctttgtcactaatgaagta
+seq_TH          attaattggaaaggtagagaactcaaatgtggaagtggcatttttgtcaccaatgaagtt
+seq_TW          attaattggaaaggtagagaactcaaatgtggaagtggcatttttgtcactaatgaagtt
+seq_VN          attaattggaaaggtagagaactcaaatgtggaagtggcatttttgtcaccaatgaagtc
+                .* *..*****....*.****** **.***** **.** **.**. **** .*..* ** 
+
+seq_CN          cacacttggacagagcaatacaaatttcaagctgactccccaaagagactatcagcagcc
+seq_ID          cacacctggacagagcaatacaaattccaggccgactccccaaaaagactatcagcagcc
+seq_IN          cacacctggacagagcaatacaaatttcaggctgactccccaaagagattgtcagcagcc
+seq_JP          cacacttggacagagcaatacaaatttcaagctgattccccaaagagactatcagcagcc
+seq_KH          cacacttggacagagcaatacaaatttcaagctgactccccaaagagactatcagcagcc
+seq_MM          cacacctggacagagcaatacaaattccaggccgactccccaaaaagactatcagcagcc
+seq_PH          cacacctggacagagcaatacaaattccaggccgactcccccaagagactatcagcggcc
+seq_PK          cacacatggacagaacaatacaaattccaaccagaatccccctcaaagctggcttcagct
+seq_SG          cacacttggacagagcaatataaatttcaggctgactccccaaaaagactatcagcagcc
+seq_TH          cacacttggacagagcaatacaaatttcaagctgactccccaaagagactatcagcagcc
+seq_TW          cacacttggacagagcaatacaaatttcaagctgattccccaaagagactatcagcagcc
+seq_VN          cacacttggacagagcaatacaaatttcaagctgactccccaaagagactatcagcagcc
+                ***** ********.*****.*****.**. * ** *****   .*...*. *  *.**.
+
+seq_CN          atcgggaaggcatgggaggagggtgtgtgtggaattcgatcagcaactcgtctcgagaac
+seq_ID          attgggaaggcatgggaggagggtgtgtgtggaattcgatcagccactcgtctcgagaac
+seq_IN          attggaaaggcatgggaggagggcgtgtgtggaatccgatcagctacgcgtcttgagaac
+seq_JP          attgggaaggcatgggaggagggtgtgtgtggaattcgatcagcaactcgtctcgagaac
+seq_KH          atcgggaaggcatgggaggagggtgtgtgtggaattcgatcagcaactcgtctcgagaac
+seq_MM          attgggaaggcatgggaggagggtgtgtgtggaattcgatcagccactcgtctcgagaac
+seq_PH          attgggaaggcatgggaggaaggtgtgtgtgggatccgatcagccactcgtctcgagaac
+seq_PK          atccagaaagctcatgaagaaggcatttgtggaatccgctcaataacaagactggataat
+seq_SG          attgggaaggcatgggaggaaggcgtgtgtggaattcgatcagccacacgtcttgagaac
+seq_TH          atcgggaaggcatgggaggagggtgtgtgtggaattcgatcagcaactcgtctcgagaac
+seq_TW          attgggaaggcatgggaggagggtgtgtgtggaattcgatcagcaactcgtctcgagaac
+seq_VN          atcgggaaggcatgggaggagggtgtgtgtggaattcgatcagcaactcgtctcgagaac
+                **. ..**.** .. **.**.**..* *****.**.** ***.. **  * ** ** **.
+
+seq_CN          atcatgtggaagcaaatatcaaatgaactgaaccacatcttacttgaaaatgacatgaaa
+seq_ID          atcatgtggaagcaaatatcaaatgaattgaaccacatcttacttgaaaatgacatgaaa
+seq_IN          atcatgtggaagcaaatatcaaatgaattaaaccacatcttacttgaaaatgacatgaaa
+seq_JP          atcatgtggaagcaaatatcaaatgaattgaaccacatcttgcttgaaaatgacatgaaa
+seq_KH          atcatgtggaagcaaatatcaaatgaactgaatcacatcttacttgaaaatgatatgaaa
+seq_MM          atcatgtggaagcaaatatcaaatgaactgaaccacatcttacttgaaaatgacatgaaa
+seq_PH          atcatgtggaagcaaatatcaaatgaattaaaccacatcttacttgagaatgacatgaaa
+seq_PK          ctaatgtggaaacaaataacaccagaactgaatcacattctatcagaaaatgaggtaaag
+seq_SG          atcatgtggaagcaaatatcaaatgaattgaaccacattctacttgaaaatgacatgaaa
+seq_TH          atcatgtggaagcaaatatcaaatgaactgaatcacatcttacttgaaaatgacatgaaa
+seq_TW          atcatgtggaagcaaatatcaaatgaattgaaccacatcttgcttgaaaatgacatgaaa
+seq_VN          atcatgtggaagcaaatatcaaatgaactgaatcacatcttacttgaaaatgatatgaaa
+                 * ********.****** **   ***.*.**.*****..*... **.***** .*.**.
+
+seq_CN          ttcacagtggttgtaggagatgttgctgggatcttggttcaagggaaaaaaatgattagg
+seq_ID          ttcacagtggtcgtaggagacgtcagtgggatcttggcccaaggaaagaaaatgattagg
+seq_IN          ttcacagtggttgtaggagatgctaatggaattttggcccaagggaaaaaaatgattaga
+seq_JP          ttcacagtggttgtaggagatgttgctgggatcttggctcaaggaaaaaagatgattagg
+seq_KH          ttcacagtggttgtaggagatgttgctgggatcttggctcaaggaaagaaaatgattagg
+seq_MM          ttcacagtggttgtaggagatgttgctgggattttggctcaagggaaaaagatgattagg
+seq_PH          tttacagtggttgtaggagacgttaatggaatcttggcccaaggaaagaaaatgattagg
+seq_PK          ttgtctatcatgacaggggacatcaaaggaatcatgcaggcaggaaaacgatccctgcgg
+seq_SG          ttcacagtggttgtaggagacgccaatggaatcttgacccaaggaaaaaagatgattagg
+seq_TH          ttcacagtggttgtaggagatgttgctgggatcttggctcaaggaaagaaaatgattagg
+seq_TW          ttcacagtggttgtaggagatgttgctgggatcctggctcaaggaaaaaaaatgattagg
+seq_VN          ttcacagtggttgtaggagatgttgctgggatcttggctcaaggaaagaaaatgattagg
+                **  * .* .* ..***.**.....  **.**. **     ***.**. .. .  *  *.
+
+seq_CN          ccacaacccatggaatacaaatactcgtggaaaagctggggaaaggctaaaatcataggg
+seq_ID          ccacaacccatggaacacaaatactcgtggaaaagctggggaaaagccaagatcatagga
+seq_IN          ccacaacccatggaacacaaatactcatggaaaagttggggaaaagccaaaatcatagga
+seq_JP          ccacaacccatggaacacaaatactcgtggaaaagctggggaaaggctaaaatcataggg
+seq_KH          ccacaacccatggaatacaaatactcgtggaaaagctggggaaaggctaaaatcataggg
+seq_MM          ccacaacccatggaatacaaatactcgtggaaaagctggggaaaggctaaaatcataggg
+seq_PH          ccgcaacccatggaacacaaatactcgtggaaaagttggggaaaagccaaagtcatagga
+seq_PK          cctcagcccactgagctgaaatattcatggaaaacgtggggcaaagcgaaaatgctctcc
+seq_SG          ccacaacccatggaacacaaatactcatggaaaagctggggaaaagccaaaatcatagga
+seq_TH          ccacaacccatggaatacaaatactcgtggaaaagctggggaaaggctaaaatcataggg
+seq_TW          ccacaacccatggaacacaaatactcgtggaaaagctggggaaaagctaaaatcataggg
+seq_VN          ccacaacccatggaatacaaatactcgtggaaaagctggggaaaggctaaaatcataggg
+                ** **.****. **..  *****.**.*******  ***** **.** **..*  *    
+
+seq_CN          gcagatgtacagaactccaccttcatcattgacggcccaaacaccccagaatgccctgat
+seq_ID          gcagatgtacagaataccaccttcatcatcgatggcccaaacaccccagaatgccctgat
+seq_IN          gcagacatacagaacaccaccttcatcattgacggcccagatactccagaatgtcccgat
+seq_JP          gcagatgtgcagaacaccacctttatcatcgacggcccaaacaccccagaatgccctgat
+seq_KH          gcagatgtacagaacaccacctttatcatcgacggcccaaacaccccagaatgccctgat
+seq_MM          gcagatgtacagaacgccaccttcatcatcgacggcccaaacacccctgaatgtcctgat
+seq_PH          gcagatgtacagaataccaccttcatcatcgacggcccaaacaccccagaatgccctgat
+seq_PK          acagagcctcataaccagacctttctcattgatggccccgaaacagcacaatgtcccaac
+seq_SG          gcagatacacagaataccaccttcatcatcgatggcccagacactccagaatgccccgat
+seq_TH          gcagatgtacagaacaccacctttatcatcgacggcccaaacaccccagaatgccctgat
+seq_TW          gcagatgtacagaacaccacctttatcatcgacggcccaaacaccccagaatgccctgat
+seq_VN          gcagatgtacagaacaccaccttcatcatcgatggcccaaacaccccagaatgccctgat
+                .****  . ** **.   *****. ****.**.***** .* **  *  ****.**..*.
+
+seq_CN          gaccaaagagcatggaacatttgggaagttgaggattatggatttggaattttcacgaca
+seq_ID          aaccaaagagcatggaacatctgggaagttgaagactatggatttggagttttcacgaca
+seq_IN          gaccagagagcatggaacatctgggaagttgaggactatggattcggaattttcacgaca
+seq_JP          gatcaaagagcatggaacatttgggaagttgaggattatggattcggaattttcacgaca
+seq_KH          gaccaaagagcatggaacatttgggaagttgaggactatggatttggaattttcacgaca
+seq_MM          gaccaaagagcatggaacatttgggaagttgaggactatggatttggaattttcacgaca
+seq_PH          gatcaaagagcatggaatatttgggaagtcgaagactatggatttggaattttcacgaca
+seq_PK          acaaacagagcttggaactcactagaagttgaagactatggctttggggtattcaccacc
+seq_SG          gaccagagagcatggaacatttgggaagttgaggactatgggtttggagttttcacgaca
+seq_TH          gaccaaagagcatggaacatttgggaagttgaggactatggatttggaattttcacgaca
+seq_TW          gatcaaagagcatggaacatttgggaagttgaggattatggatttggaattttcacgaca
+seq_VN          gaccaaagagcatggaacatttgggaagttgaggactatggatttggaattttcacgaca
+                .   * ***** *****. . . .*****.**.**.***** **.**..* ***** ** 
+
+seq_CN          aacatatggctgaaattgcgtgactcctacacccaagtgtgtgatcaccggctaatgtca
+seq_ID          aacatatggttgaaattgcgtgactcctacactcaagtgtgtgaccaccggctaatgtca
+seq_IN          aacatatggctgaaattgcgtgactcctacacccaaatgtgtgaccaccggctaatgtca
+seq_JP          aacatatggctgaaattgcgtgactcctacacccaagtgtgtgaccaccggctaatgtca
+seq_KH          aacatatggctgaaattgcgtgattcctatacccaagtgtgtgaccaccggctaatgtca
+seq_MM          aacatatggctgaaattgcgtgactcctacacccaagtgtgtgaccaccggctaatgtca
+seq_PH          aatatatggttgaaattgcgtgactcctacactcaagtgtgtgaccaccgactaatgtca
+seq_PK          aacatatggctgaagttgaaagaaaggcaggatgtgttttgtgactcaaaactcatgtca
+seq_SG          aacatatggctgaaattgcgtgactcctacacccaaatgtgtgaccaccggttaatgtca
+seq_TH          aacatatggctgaaactgcgtgattcctatacccaagtgtgtgaccaccggctaatgtca
+seq_TW          aacatatggctgaaattgcgtgactcctacacccaagtgtgtgaccaccggctaatgtca
+seq_VN          aacatatggctgaaattgcgtgattcccacacccaagtgtgtgaccaccggctaatgtca
+                **.******.****..** . **    .* . .  . * *****..   ...* ******
+
+seq_CN          gctgccatcaaggacagcaaggcagttcacgctgacatggggtactggatagaaagtgaa
+seq_ID          gctgctattaaggatagcaaagcagtccatgctgacatggggtactggatagaaagtgaa
+seq_IN          gctgccatcaaggacagcaaggcagtccatgctgatatggggtactggatagaaagtgaa
+seq_JP          gctgctatcaaggacagcaaggcagttcacgctgacatggggtactggatagaaagtgaa
+seq_KH          gctgccatcaaggacagcaaggcagttcacgctgacatggggtactggatagaaagtgaa
+seq_MM          gctgccatcaaggacagcaaggcagttcacgctgacatgggatactggatagaaagtgaa
+seq_PH          gctgccatcaaggatagcaaagcagtccatgctgacatggggtactggatagaaagtgaa
+seq_PK          gcggccataaaagacaacagagccgtccatgccgatatgggttattggatagaaagcgca
+seq_SG          gctgccatcaaggacagcaaggcagtccatgctgacatggggtactggatagaaagtgaa
+seq_TH          gctgccatcaaggacagcaaggcagttcacgctgacatggggtactggatagaaagtgaa
+seq_TW          gctgccatcaaagacagcaaggcagttcacgctgacatggggtactggatagaaagtgaa
+seq_VN          gctgccatcaaggacagcaaggcagttcacgctgacatggggtactggatagaaagtgaa
+                ** **.** **.**.*.**..** **.**.**.**.***** **.***********.* *
+
+seq_CN          aagaacgagacctggaagctggcaagagcctctttcatagaagttaaaacatgtatttgg
+seq_ID          aagaacgagacttggaagttggaaagagcctcctttatagaagttaagacatgcatctgg
+seq_IN          aagaacgagacctggaagctagcgagagcctcctttatagaaatcaagacatgcatctgg
+seq_JP          aagaacgagacctggaagctggcaagagcctctttcatagaagtcaaaacatgtatctgg
+seq_KH          aagaacgagacctggaagctggcaagagcttctttcatagaagttaaaacatgtatctgg
+seq_MM          aagaacgagacctggaagctggcaagagcctctttcatagaagttaaaacatgtgtctgg
+seq_PH          aagaacgagacttggaagttgacaagagcctccttcatagaagttaagacgtgcatctgg
+seq_PK          cttaatgacacatggaagatagaaaaagcttcttttatcgaagttaaaagttgccactgg
+seq_SG          aagaacgagacctggaagctagcgagagcctccttcatagaagtgaagacatgcatctgg
+seq_TH          aagaacgagacctggaagctggcaagagcttctttcatagaagttaaaacatgtatctgg
+seq_TW          aagaacgagacctggaagctggcaagagcctctttcatagaagtcaaaacgtgtatctgg
+seq_VN          aagaacgagacctggaagctggcaagagcctctttcatagaagttaaaacatgtatctgg
+                   **.** ** ****** *.. .*.***.**.**.** ***.* **.*  **.  .***
+
+seq_CN          ccaaaatcccacactctatggagcaatggagttctggaaagtgaaatgataattccaaag
+seq_ID          ccaagatctcacactctatggagcaatggagtcctggaaagtgagatgataatcccaaag
+seq_IN          ccgaaatcccacactctatggagtaatggagtcttggaaagtgaaatgataattccaaag
+seq_JP          ccaaaatctcacactctatggagcaatggagttctggaaagtgaaatgataattccaaag
+seq_KH          ccaaaatcccacactctatggagcaatggagttctggaaagtgaaatgataattccaaag
+seq_MM          ccaaaatcccacactctatggagcaatggagttctggaaagtgaaatgataattccaaag
+seq_PH          ccaaaatcccacaccctatggagcaatggagtcttggaaagtgagatgataatcccaaag
+seq_PK          ccaaaatcacacactctctggagtaacggagtgctagaaagtgagatgataattccaaag
+seq_SG          ccaagatcccacactctatggagcaatggagtcttggaaagtgaaatgataatcccaaag
+seq_TH          ccaaaatcccacactctatggagtaatggagttctggaaagtgaaatgataattccaaag
+seq_TW          ccaaaatctcacactctatggagcaatggagttctggaaagtgaaatgataattccaaag
+seq_VN          ccaaaatcccacactctatggagcaatggagttctggaaagtgaaatgataattccaaag
+                **.*.*** *****.** *****.**.***** .*.********.********.******
+
+seq_CN          atctatggaggaccaatatctcaacataactacagaccaggatatttcacacaaacggca
+seq_ID          acatatggaggaccagtatctcagcacaactacagaccaggatatttcacacaaacagca
+seq_IN          atatatggaggaccaatatctcagcacaaccacagaccagggtatttcacacaaacagca
+seq_JP          atctatggaggaccaatatctcagcacaactatagaccaggatatttcacacaaacggca
+seq_KH          atctatggaggaccaatatctcagcacaactacagaccaggatatttcacacaaacagca
+seq_MM          atctatggaggaccaatatcccagcacaaccacagaccaggatatttcacacaaacggca
+seq_PH          acgtatggaggaccaatatcccagcacaactacagaccaggatatttcacacaaacagca
+seq_PK          aattttgctggaccagtatcgcaacacaattacagaccaggctatcacacacaaacggca
+seq_SG          atatatggaggaccaatatctcagcacaactacagaccagggtattttacacaaacagca
+seq_TH          atctatggaggaccaatatctcagcacaactacagaccaggatatttcacacaaacagca
+seq_TW          atctatggaggaccaatatctcagcacaactacagaccaggatatttcacacaaacggca
+seq_VN          atctatggaggaccaatatctcagcacaactacagaccaggatattttacacaaacagca
+                *  * **  ******.**** **.**.**..*.******** ***. .********.***
+
+seq_CN          gggccgtggcacctaggcaaattggaactggattttgatttgtgtgagggtaccacagtc
+seq_ID          gggccgtggcatttaggcaagttggaactagattttgatttgtgtgaaggtaccacagtt
+seq_IN          ggcccatggcacctaggcaagttggaattggattttgatgtgtgtgaaggtaccacagtt
+seq_JP          gggccgtggcacctaggcaagttggaactggattttgatttgtgtgagggtaccacggtt
+seq_KH          gggccgtggcacctaggcaagttggaactggattttgatttgtgtgagggtaccacagtt
+seq_MM          gggccgtggcacctaggcaagttggaactggattttgatttgtgtgagggtaccacagtt
+seq_PH          gggccgtggcacttgggcaagttagaactggactttggtttatgtgaaggtaccactgtt
+seq_PK          ggaccttggcatctaggcaagcttgagatggactttgatttttgcgaaggaaccacagtg
+seq_SG          gggccatggcacctaggcaagttggaactagactttgatttgtgtgaaggcaccacagtt
+seq_TH          gggccgtggcacctgggcaagttggaactggattttgatttgtgtgagggcaccacagtt
+seq_TW          gggccgtggcatctaggcaagttggaactggattttgatttgtgtgagggtaccacggtt
+seq_VN          gggccgtggcacctaggcaagttggaactggattttgatttgtgtgagggtaccacagtt
+                ** ** *****..*.*****..* **. *.**.****.* * **.**.** ***** ** 
+
+seq_CN          gttgtggatgaacattgtggaaatcgaggaccatctcttaggaccacaacagtcacagga
+seq_ID          gttgtggatgaaaattgtggaaatcgaggaccatctcttagaaccacaacagtcacagga
+seq_IN          gttgtggatgaacattgtggaaatcgaggtccatctctcagaaccacaacagtcacagga
+seq_JP          gttgtggatgaacattgtggaaatcgaggaccatctcttaggaccacaacagtcacagga
+seq_KH          gttgtggatgaacattgtggaaatcgaggaccatctcttaggaccacaacagtcacagga
+seq_MM          gttgtggatgaacattgtggaaatcgaggaccatctcttaggaccacaacagtcacagga
+seq_PH          gttgtggatgaacattgtggaaaccgaggaccatctcttagaaccacaacagtcacagga
+seq_PK          gtggtgactgaggactgcggaaatagaggaccctctctaagaacaactactgcttctgga
+seq_SG          gttgtggatgaacattgtggaaatcgaggtccatctcttagaaccacaacagtcacagga
+seq_TH          gttgtggatgaacattgtggaaatcgaggaccatctcttaggaccacaacagtcacagga
+seq_TW          gttgtggatgaacattgtggaaatcgaggaccatctcttaggaccacaacagtcacagga
+seq_VN          gttgtggatgaacattgtggaaatcgaggaccatctcttaggaccacaacagtcacaggg
+                ** ***. ***. *.**.*****. **** ** ***** **.** ** ** *.. * **.
+
+seq_CN          aagataattcatgaatggtgttgcagatcttgtacgctaccacccttacgtttcagagga
+seq_ID          aagataatccatgaatggtgctgtagatcttgcacgttaccccccctacgtttcaaaggg
+seq_IN          aagataatccatgaatggtgttgcagatcctgcacgctaccccccttacgcttcagagga
+seq_JP          aagataattcatgaatggtgttgcagatcttgtacgctaccacccttacgttacagagga
+seq_KH          aagataattcatgaatggtgttgcagatcttgcacgctaccacccttacgtttcagagga
+seq_MM          aagataattcatgaatggtgttgcagatcttgtacgctaccacccttacgtttcagagga
+seq_PH          aagataatccatgaatggtgctgtagatcttgcacgttaccccccctacgcttcaaagga
+seq_PK          aaactcataacagaatggtgctgccgatcctgcacattaccaccactcagatacagaggc
+seq_SG          aagataatccatgaatggtgctgcagatcctgcacgctaccccccttacgcttcagagga
+seq_TH          aagataattcatgaatggtgttgcagatcttgcacgctaccacccttacgtttcagagga
+seq_TW          aagataattcatgaatggtgttgcagatcttgtacgctaccacccttacgtttcagagga
+seq_VN          aagataattcatgaatggtgttgcagatcttgcacgctaccacccttacgtttcagagga
+                **. * **    ********.**. ****.**.**..**** ** .*  * * **.*** 
+
+seq_CN          gaaaatgggtgctggtacggtatggaaatcagaccagtcaaggaaaaggaagagaatcta
+seq_ID          gaagacgggtgctggtacggcatggaaatcagaccagttaaggagaaggaagaaaaccta
+seq_IN          gaagacggatgttggtatggcatggaaatcagaccagtcaaggagaaggaagagaatcta
+seq_JP          gaagatgggtgttggtacggaatggaaatcagaccagtcaaggaaaaggaagagaatcta
+seq_KH          gaagatgggtgctggtacggtatggaaatcagaccagtcaaggaaaaggaagaaaatcta
+seq_MM          gaagatgggtgctggtacggtatggaaatcagaccagtcaaggaaaaggaagagaaccta
+seq_PH          gaagacgggtgctggtacggtatggaaatcagaccagtcaaggagaaggaagagaactta
+seq_PK          gaggatggatgctggtacggaatggaaatcagaccattgaaagagaaagaagagaacttg
+seq_SG          gaagacggatgttggtatggcatggaaatcagaccagttaaggagaaggaagagaatcta
+seq_TH          gaagatgggtgctggtacggtatggaaatcagaccagtcaaggaaaaggaagaaaatcta
+seq_TW          gaagatgggtgctggtacggtatggaaatcagaccagtcaaggaaaaggaagagaatcta
+seq_VN          gaagatgggtgctggtacggtatggaaatcagaccagtcaaggaaaaggaagaaaatcta
+                **..*.**.**.*****.** *************** * **.**.**.*****.**..*.
+
+seq_CN          gtcaaatcaatggtctctgcagggtcaggggaagtggacagcttttcactaggactgcta
+seq_ID          gttaagtcaatggtctctgcagggtcaggagaagtggacagtttttcactaggactgcta
+seq_IN          gtcaggtcaatggtctctgcagggtcaggagaagtggatagtttttcattgggactacta
+seq_JP          gtcaaatcaatggtctctgcagggtcaggggaagtggatagcttttcactaggactgcta
+seq_KH          gtcaaatcaatggtctctgcagggtcaggggaagtggacagcttttcactaggactgcta
+seq_MM          gtcaaatcaatggtctctgcagggtcaggggaagtggacagcttttcactagggctgcta
+seq_PH          gtcaggtcaatggtctctgcagggtcaggagaagtggatagtttttcactaggactgcta
+seq_PK          gtcaattctttggtcacagccggacatggacagattgacaacttctcactaggagtcttg
+seq_SG          gtcaggtcaatggtctctgcagggtcaggagaagtggacagtttttcattgggactacta
+seq_TH          gtcaaatcaatggtctctgcagggtcaggggaagtggacagcttttcactaggactgcta
+seq_TW          gtcaaatcaatggtctctgcagggccaggggaagtggacagcttttcactaggactgtta
+seq_VN          gtcaaatcaatggtctctgcagggtcaggggaagtggacagcttttcactaggactgcta
+                **.*. **  ***** * ** **..  **. *..* **.*..**.***.*.**. * .*.
+
+seq_CN          tgcatatcaataatgatcgaagaggtgatgagatccagatggagtagaaaaatgctgatg
+seq_ID          tgcatatcaataatgatcgaagaggtaatgagatccagatggagcggaaagatgctgatg
+seq_IN          tgcgtgtcaataatgattgaagaagtaatgagatccagatggagtagaaagatgctgatg
+seq_JP          tgcatatcaataatgatcgaagaggtgatgagatccagatggagtagaaaaatgctgatg
+seq_KH          tgcatatcaataatgatcgaagaggtgatgagatccagatggagtagaaaaatgctgatg
+seq_MM          tgcatatcaataatgatcgaagaggtgatgagatccagatggagtagaaaaatgctgatg
+seq_PH          tgcatatcaataatgatcgaagaggtgatgagatccagatggagcagaaaaatgctgatg
+seq_PK          ggaatggcactgttcctggaagaaatgctcaggacccgagtaggaacaaaacatgcagta
+seq_SG          tgcgtatcaataatgattgaagaagtgatgagatccagatggagtagaaagatgctgatg
+seq_TH          tgcatatcaataatgatcgaagaggtgatgagatccagatggagtagaaaaatgctgatg
+seq_TW          tgcatatcaataatgatcgaagaggtgatgagatccagatggagtagaaaaatgctgatg
+seq_VN          tgcatatcaataatgatcgaggaggtgatgagatccagatggagtagaaaaatgctgatg
+                 * .*. ** *. *  * **.**..*. * **. ** **  ..* . ***.    ...*.
+
+seq_CN          accggaatactggctgtgttcttccttctcataatgggacaattgacatggaatgatctg
+seq_ID          actggaacattggctgtgttcctccttctcacaatgggacaactgacatggaatgatctg
+seq_IN          actggaacactggctgttttcttccttcttataatgggacaactgacatggaatgatctg
+seq_JP          actggaacactggctgtgttcttccttctcataatgggacaattgacatggaatgatctg
+seq_KH          actggaacactggctgtgttcctccttctcataatgggacaattgacatggaatgatctg
+seq_MM          actggaacactggctgtgttcttccttctcataatgggacaattgacatggaatgatctg
+seq_PH          actggaacattggctgtgttcctccttcttataatgggacaattgacatggaatgatctg
+seq_PK          ttactggttgcagtttctttcatgacattgatcacagggaacatgtctttccgagacctg
+seq_SG          actggaacactggctgttttcttccttctcataatgggacaactgacatggaatgatctg
+seq_TH          actggaacactggctgtgttcctccttctcataataggacaattgacatggaatgatctg
+seq_TW          actggaacactggctgtgttcttccttctcataatgggacaattgacatggaatgatctg
+seq_VN          actggaacactggctgtgttcttccttctcataatgggacaattgacatggaacgatctg
+                 .   ...  ..*.* . *** *  . .* *. *..**. *  ** * *   . **.***
+
+seq_CN          atcagattatgcatcatggttggagccaacgcttccgacagaatggggatgggaacgacg
+seq_ID          atcaggctatgtatcatggttggagccaatgcttcagacatgatggggatgggaacaacg
+seq_IN          atcagattatgcatcatggttggagccaatgtctcagacagaatggggatgggaacaacg
+seq_JP          atcagattatgcatcatggttggagccaacgcttccgacaggatggggatgggaacgacg
+seq_KH          atcagattatgcatcatggttggagccaacgcttccgacaggatggggatgggaacgacg
+seq_MM          atcagattatgcatcatggttggagccaacgcttccgacaggatggggatgggaacgacg
+seq_PH          atcaggctatgtatcatggttggagccaatgcttcagacaagatggggatgggaacaacg
+seq_PK          gggagagtgatggttatggtgggggccgctatgacggatgacataggtatgggcgtgact
+seq_SG          atcaggttatgcatcatggttggagccaatgtctcagacagaatggggatgggaacaacg
+seq_TH          atcagattatgcatcatggttggagccaacgcttccgacaggatggggatgggaacgacg
+seq_TW          atcagattatgcatcatggttggagccaacgcttccgacaggatggggatgggaacgacc
+seq_VN          atcagattatgcatcatggttggagccaacgcttccgacaggatggggatgggaacgacg
+                .  **. *.   .*.***** **.***. ...  * **..  **.** ***** ...** 
+
+seq_CN          tacctagctctgatggccacttttaaaatgagaccaatgtttgctgtagggctattattc
+seq_ID          tacctagctttgatggctactttcagaatgagaccaatgttcgcagtcgggctgttattt
+seq_IN          tacctagccttgatggccactttcaaaatgagaccgatgttcgctgttgggctattattt
+seq_JP          tacctagctctgatggccacttttaaaatgagaccaatgtttgctgtagggctactattc
+seq_KH          tacctagctctgatggccacttttaaaatgagaccgatgtttgctgtagggctattattt
+seq_MM          tacctagctctgatggccacttttaaaatgagaccaatgtttgctgtagggctattattc
+seq_PH          tacctagctttgatggccacttttagaatgaggccaatgttcgcagtcgggctgctgttt
+seq_PK          tatcttgccttactagcagccttcaaagttagaccaacttttgcagctggactgcttttg
+seq_SG          tacctagccttaatggccacttttaaaatgagaccgatgttcgctgttgggctattattt
+seq_TH          tacctagctctgatggccacttttaaaatgagaccgatgtttgctgtagggctattattt
+seq_TW          tacctagctctgatggccacttttaaaatgagaccaatgtttgccgtagggctactactc
+seq_VN          tacctagccctgatggccacttttaaaatgagaccgatgtttgctgtagggctattattt
+                **.** **..*. *.** .*.**.*.*.* **.**.*. **.** *. **.**..* .* 
+
+seq_CN          cgcagactaacatccagagaagttcttcttctaacaattggattgagtctagtggcatct
+seq_ID          cgcagactaacatccagagaagttcttcttcttacagttggattgagcctggcggcatct
+seq_IN          cgcagactaacatccagagaggttctccttcttacaattggactaagcctggtggcatcc
+seq_JP          cgcagactaacatccagagaagttcttcttctaacaattggattgagtctagtggcatct
+seq_KH          cgcagactaacatccagagaagttcttcttctaacaattggattgagtctagtggcatct
+seq_MM          cgcagactaacatccagagaagttcttcttctaacaattggactgagtctagtggcatct
+seq_PH          cgcaggttaacatctagagaagttcttcttctcacagttggattgagtctagtggcatct
+seq_PK          agaaagctgacctccaaggaattgatgatgaccaccataggaatcgtactcctctcccag
+seq_SG          cgcagactaacatccagagaggtgctccttctcacaattggactaagcctggtggcatcc
+seq_TH          cgcagactaacatccagagaagttcttcttctaacaattggattgagtctaatggcatct
+seq_TW          cgcagactaacatccagagaagttcttcttctaacaattggactgagtctagtggcatct
+seq_VN          cgcagactaacatccagagaagttcttcttctaacaattggattgagtctagtggcatct
+                 * *...*.** **.*..**. *  *  *  . ** .* *** * .  **  .  * .  
+
+seq_CN          gtggagttaccaaattccttggaggagctgggggatggacttgcaatgggcattatgatt
+seq_ID          gtagaactaccaaattccttagaggagctaggggatggacttgcaatgggcatcatgatg
+seq_IN          gcggagctaccaaattctttagaggagctaggggacggactcgcaatgggcatcatgatg
+seq_JP          gtggagttaccaaattccttggaggagctgggggatggacttgcaatgggcattatgatt
+seq_KH          gtggagttaccaaattccttggaggagctgggggatggacttgcaatgggcattatgatt
+seq_MM          gtggagctaccaaattccttggaggagctgggggatggacttgcaatgggcattatgatt
+seq_PH          gtggaactaccaaattccttggaagagctaggggatggacttgcaatgggcatcatgatg
+seq_PK          agcaccacaccagagactatacttgaactgactgatgcgttggctttgggcatgatgatt
+seq_SG          gtggagctaccaaattctttagaggagctaggggacggacttgcgatgggcatcatgatg
+seq_TH          gtggagttaccaaattccttggaggagctgggggatggacttgcaatgggcattatgatt
+seq_TW          gtggagttaccaaattccttggaggagctgggggatggacttgcaatgggcattatgatc
+seq_VN          gtggagttaccaaattccttggaggagctgggggatggacttgcaatgggcattatgatt
+                .  .   .****.*  *. *.   **.**..  **.* ..* **  ******* ***** 
+
+seq_CN          ttaaaattattgactgactttcaatcacatcagttgtgggctaccttgctgtccttgaca
+seq_ID          ttgaaattactgactgattttcagtcacatcagctatgggctaccttgctgtctttaaca
+seq_IN          ttaaaattattgactgattttcagtcacaccagttatggactaccttactgtctctgaca
+seq_JP          ttaaaattattgactgactttcaatcacatcagctgtgggctaccttgctgtccttgaca
+seq_KH          ttaaaattattgactgactttcaatcacatcagctgtgggctaccttgctgtccttgaca
+seq_MM          ttaaaattattgactgactttcaatcacatcagctgtgggctaccttgctgtccttgaca
+seq_PH          ttgaaattactgactgactttcagtcacatcagctatgggctgccttgctgtctttaaca
+seq_PK          ctcaagatagtgagaaacatggaaaagtatcaattggcagtgactatcatggctatctta
+seq_SG          ttaaaattgttgactgattttcagccacaccagttgtggactaccttactgtctctgaca
+seq_TH          ttaaaattactgactgactttcaatcacatcagctgtgggctaccttgctgtccttgaca
+seq_TW          ttaaaattattgactgattttcaatcacatcagctgtgggctaccttgctgtccttgaca
+seq_VN          ttaaaattattgactgactttcaatcacatcagctgtgggctaccttgctatccttgaca
+                .* **. *. ***  .*. *  *.  ..*.**..*.  ... .*. *  *. *. *  .*
+
+seq_CN          tttatcaaaacaacgttttccttgcactatgcatggaagacaatggctatggtactgtca
+seq_ID          tttgtcaaaacaactttttcattgcactatgcatggaagacaatggccatgatactatca
+seq_IN          ttcatcaaaacaactctttcactggattatgcatggaagacaataactatgatactgtca
+seq_JP          tttatcaaaacaacgttttccttgcactatgcatggaagacgatagccatggtactgtca
+seq_KH          tttatcaaaacaacgttttccttgcactatgcatggaagacaatggctatggtactgtcg
+seq_MM          tttatcaaaacaacgttttccttgcactatgcatggaagacaatggctatggtactgtca
+seq_PH          tttgtcaaaacaactttttcactgcactatgcatggaagacaatggctatgatactgtca
+seq_PK          tgtgttccaaatgcagtgatattacaaaatgcatggaaagtgagctgcacaatactggca
+seq_SG          ttcatcaaaacaactctttcactggattatgcatggaagacaatggctatggtattgtca
+seq_TH          tttatcaaaacaacgttttccttgcactatgcatggaagacaatggctatggtactgtca
+seq_TW          tttatcaaaacaacgttttccttgcactatgcatggaagacaatggctatggtactgtca
+seq_VN          tttatcaaaacaacgttttccttgcactacgcatggaagacaatggctatggtactgtca
+                * ..*.  **  .*  *  . .*. *  *.********....*    .*...**.*. *.
+
+seq_CN          attgtatctctcttccccttatgcctgtccacgacctcccagaaaacaacatggcttccg
+seq_ID          attgtatctctcttccctttgtgcctgtccacgacttctcaaaaaacaacatggcttccg
+seq_IN          atcgtatctctctttcctctatgtctatccacgacctctcaaaaaacaacatggcttccg
+seq_JP          attgtatctctcttccccttatgcctgtccacgacctcccaaaaaacaacatggcttccg
+seq_KH          attgtatctctcttccccttatgcctgtccacgacctcccaaaaaacaacatggcttccg
+seq_MM          attgtctctctcttccccttatgcctgtccacgacctcccaaaaaacaacatggcttccg
+seq_PH          atcatatctctcttccctttatgcatgtccacgacttctcaaaaaacaacatggcttccc
+seq_PK          gcggtgtccgtatccccactgctcttaacatcttcgcagcagaaagcggattggatacca
+seq_SG          atcgtatctctctttcctctatgtctatccacgacctctcaaaaaacaacatggcttccg
+seq_TH          attgtatctctcttccccttatgcctgtccacgacctcccaaaaaacaacatggcttccg
+seq_TW          attgtatctctcttccccttatgcctgtccacgacctcccaaaaaacaacatggcttccg
+seq_VN          attgtatctctcttccctttatgcctgtccacgacctcccaaaaaacaacatggcttccg
+                .. .* **. * *..** .*.. . *. *  *  * .  **.***.*..  *** * ** 
+
+seq_CN          gtgctattgggatctcttggatgcaaaccactaaccatgtttcttatagcagaaaacaaa
+seq_ID          gtgctgctgggatctcttggatgcaaaccactaaccatgcttcttataacagaaaacaaa
+seq_IN          gtgctgttaggatcctttggatgcaaaccactaaccatgtttcttataacagaaaacaaa
+seq_JP          gtgctgttgggatctcttggatgcaaaccactaaccatgtttctcatagcagaaaataaa
+seq_KH          gtgctattgggatcccttggatgcaaaccactaaccatgtttcttatagcagaaaacaaa
+seq_MM          gtgctattgggatctcttggatgcaaaccactaaccatgtttcttatagcagaaaacaaa
+seq_PH          gtgttgctgggatctcttggatgcaaaccactaactatgtttcttattacagaaaacaaa
+seq_PK          ttggcattgacgatcaaaggtctcaatccaacagctattttcctaacaaccctttcaaga
+seq_SG          gtgctgttaggatcctttggatgtaaaccactaaccatgtttcttataacagaaaacaaa
+seq_TH          gtgctattgggatcccttggatgcaaaccactaaccatgtttcttatagcagaaaacaaa
+seq_TW          gtgctgttgggatctcttggatgcaaaccactaaccatgtttcttatagcagaaaacaaa
+seq_VN          gtgctattgggatcccttggatgcaaaccactaaccatgtttcttatagcagaaaacaaa
+                 ** ...*.. . ..   ** . .** *** .*.*.** .*.** *. .*       *.*
+
+seq_CN          atttggggaaggaaaagttggcccctcaatgaagggatcatggctgttggaatagtcagc
+seq_ID          atttgggggaggagaagttggcccatcaatgaaggaattatggctattggaatagttagc
+seq_IN          atttggggaaggaaaagttggcccctcaatgaaggaattatggctgttggaatagtcagc
+seq_JP          atctggggaaggaaaagttggcccctcaatgaaggaattatggctgttggaatagttagc
+seq_KH          atctggggaaggagaagttggcccctcaatgaaggaatcatggctgttggaatagtcagc
+seq_MM          atctggggaaggaaaagttggcctctcaatgaaggaatcatggctgttggaatagtcagc
+seq_PH          atctggggaagaaaaagctggcctctcaatgagggaattatggctgttgggatagttagc
+seq_PK          actaacaagaaaaggagttggccactaaatgaggctatcatggcagtcgggatggtgagc
+seq_SG          atttggggaaggaaaagttggcccctcaatgaaggaattatggctgttggaatagtcagc
+seq_TH          atctggggaaggagaagttggcccctcaatgaaggaatcatggctgttggaatagtcagc
+seq_TW          atctggggaagaaaaagttggcccctcaatgaaggaatcatggctgttggaatagtcagc
+seq_VN          atctggggaaggagaagttggcccctcaatgaaggaatcatggctgttggaatagtcagc
+                *.. . ...*..*..**.*****  * *****.*  **.***** .*.**.**.** ***
+
+seq_CN          atcctactaagttcactcctcaaaaatgatgtgccgctagctgggccactaatagctgga
+seq_ID          atcctactaagttcacttctcaaaaatgatgtgccactagctggcccactaatagctgga
+seq_IN          attttactaagctcactcctcaaaaatgacgtgccactagccggcccactaatagctgga
+seq_JP          atcctactaagttcactcctcaaaaatgatgtgccgctagctgggccactaatagctgga
+seq_KH          atcctactaagttcacttctcaaaaatgatgtgccgctagctgggccactaatagctgga
+seq_MM          atcctactaagttcactcctaaaaaatgatgtgccgctagctgggccactaatagctgga
+seq_PH          attcttctaagttcacttctcaaaaatgatgtaccactagctggcccactaatagctgga
+seq_PK          attttagctagttctctcttgaagaatgacattcccatgacaggaccattagtggctgga
+seq_SG          attttactaagttcactcctcaaaaatgacgtgccactagccggcccactaatagctgga
+seq_TH          atcctactaagttcacttctcaagaatgatgtgccgctagctgggccactaatagctgga
+seq_TW          atcctactaagttcactcctcaaaaatgatgtgccgctagctgggccattgatagctgga
+seq_VN          atcctactaagttcactcctcaaaaatgatgtaccgctagctgggccactaatagctgga
+                **..*  . **.** **..* **.*****..* **  *..* ** ***.*..*.******
+
+seq_CN          ggcatgctaatagcatgttatgttatatctggaagctcagccgacctatcactagagaaa
+seq_ID          ggcatgctgatagcatgttatgtcatatccggaagctcggccgatttgtcactggagaaa
+seq_IN          ggcatgctaatagcatgttacgtcatatccggaagctcagccgatttatcattggagaaa
+seq_JP          ggtatgctaatagcgtgttatgttatatctggaagctcggccgatctatcactagagaaa
+seq_KH          ggcatgctaatagcatgttatgttatatctggaagctcagccgacctatcactagagaaa
+seq_MM          ggcatgctaatagcatgttatgttatatctggaagctcagccgatctatcactagagaaa
+seq_PH          ggcatgctgatagcatgttatgtcatatctggaagctcggccgatttatcactggagaaa
+seq_PK          gggcttctcactgtgtgttacgtgctcactggaagatcggccgacctggaactagagaga
+seq_SG          ggcatgctgatagcatgttacgtcatatccggaagctcagccgatttatcattggagaga
+seq_TH          ggcatgctaatagcatgttatgttatatctggaagctcagccgacctatcactagagaaa
+seq_TW          ggcatgctaatagcatgttatgtcatatctggaagctcagccgatctatcactagagaaa
+seq_VN          ggcatgctaatagcatgttatgttatatctggaagctcagccgacctatcattagagaaa
+                **  * ** *. *..*****.**  *  *.***** **.*****..*.  *.*.****.*
+
+seq_CN          gcagctgaggtctcctgggaagaagaagcagaacactctggtgcctcacacaacatatta
+seq_ID          gcggctgaggtctcctgggaagatgaagcagaacactctggtgcctcacacaacatacta
+seq_IN          gcggctgaggtatcctgggaagaggaagcagaacactctggtacctcacacaacatacta
+seq_JP          gcggctgaggtctcctgggaagaagaagcagaacactctggcgcctcacacaacatatta
+seq_KH          gcggctgaggtctcctgggaagaagaagcagaacactctggtgcctcacacaacatatta
+seq_MM          gcggccgaggtctcttgggaagaagaagcagaacactctggtgcctcacacaacatatta
+seq_PH          gcagctgaggtttcctgggaagaagaagcagaacactctggtgcctcacacaacatacta
+seq_PK          gccgccgacgttagatgggaagatcaggcagaaatatcaggaagtagtccaattctgtca
+seq_SG          gcggctgaggtctcctgggaagaagaagcagaacactctggtgcctcacacaacatacta
+seq_TH          gcagctgaggtctcctgggaagaagaagcagaacactctggtgcctcacacaacatatta
+seq_TW          gcggctgaggtctcctgggaagaagaagcagaacactctggtgcctcacacaacatatta
+seq_VN          gcggctgaggtctcctgggaagaagaagcagaacactctggtgcctcacacaacatatta
+                ** **.** **    ********  *.******   ** ** . .   *  * . *...*
+
+seq_CN          gtggaggtccaagatgatggaaccatgaagataaaggatgaagagagagatgacacgcta
+seq_ID          gtagaggtccaagatgacggaaccatgaagataaaggatgaagagagggatgacacactc
+seq_IN          gtggaggtccaagatgatggaaccatgaaaataaaagatgaagagagagatgacacactc
+seq_JP          gtggaggtccaagatgacggaaccatgaagataaaggatgaagagagagatgacacgcta
+seq_KH          gtggaggtccaagatgatggaaccatgaagataaaggatgaagagagagatgacacgcta
+seq_MM          gtggaggtccaagatgatggaaccatgaagataaaggatgaagagagagatgacacgcta
+seq_PH          gtggaggtccaagatgatggaactatgaagataaaagatgaagagagagatgacacactt
+seq_PK          ataacaatatcggaagatggcagcatgtcgataaaaaatgaagaggaagaacaaacactg
+seq_SG          gtggaggtccaagatgatggaactatgaaaataaaagatgaagagagagatgacacgctc
+seq_TH          gtggaggtccaagatgatggaaccatgaagataaaggatgaagagagagatgacacgcta
+seq_TW          gtggaggtccaagatgatggaaccatgaagataaaggatgaagagagagatgacacgcta
+seq_VN          gtggaagtccaagatgatggaaccatgaagataaaggatgaagagagagatgacacgcta
+                .*.. ..* . .** **.** * .***  .*****..********...**  * **.** 
+
+seq_CN          accattctccttaaagcaactctgctagcagtttcaggggtgtacccattatcaatacca
+seq_ID          actattctcctcaaagcaactctgttagcaatctcaggggtatacccaatgtcaatacca
+seq_IN          accatactcctcaaagcaactctgctggcagtctcaggagtgtacccaatgtcaatacca
+seq_JP          accattctccttaaagcaactctgctagcagtttcaggggtgtacccactatcaatacca
+seq_KH          accattctccttaaagcaactctgctagcagtttcaggggtgtacccattatcaatacca
+seq_MM          accattctcctcaaagcaactctgctagcagtttcaggggtgtacccattatcaatacca
+seq_PH          accattctcctcaaagcaactttgctagcaatctcaggggtatacccaatgtcaataccg
+seq_PK          accatactcattagaacaggattgctggtgatatcaggacttttccccgtatcaatacca
+seq_SG          actatactcctcaaagcaactttgttggcagtttcaggggtgtacccaatgtcaatacca
+seq_TH          accattctccttaaagcaactctgctagcagtttcaggggtgtatccattatcaatacca
+seq_TW          accattctccttaaagcaactctgctagcagtttcaggggtgtacccattatcaatacca
+seq_VN          accattctccttaaagcaactctgttagcagtttcaggggtgtacccattatcaatacca
+                **.** *** *.*.*.**.  .**.*.*...* *****. * * .**  *.********.
+
+seq_CN          gcgaccctttttgtgtggtacttttggcagaaaaagaaacagagatctggagtgttatgg
+seq_ID          gcgaccctctttgtgtggtatttttggcagaaaaagaaacagagatcaggagtgctatgg
+seq_IN          gcaactctttttgtgtggtatttttggcagaaaaagaaacagagatcaggggtgttatgg
+seq_JP          gcgaccctttttgtgtggtacttctggcagaaaaagaaacagagatctggagtgttatgg
+seq_KH          gcgacccttttcgtgtggtacttttggcagaaaaagaaacagagatctggagtgttatgg
+seq_MM          gcgaccctttttgtgtggtacttttggcagaaaaagaagcagagatctggggtgttatgg
+seq_PH          gctaccctctttgtgtggtatttttggcagaaaaagaaacagagatcaggagtgctatgg
+seq_PK          atcacggcagcagcatggtacctgtgggaagtgaagaaacaacgggctggagtattgtgg
+seq_SG          gcaaccctttttgtgtggtatttttggcagaaaaagaaacagagatcaggagtcttgtgg
+seq_TH          gcgacccttttcgtgtggtacttttggcagaaaaagaaacagagatctggagtgttatgg
+seq_TW          gcgaccctttttgtgtggtacttttggcagaaaaagaaacagagatctggagtgttatgg
+seq_VN          gcgacccttttcgtgtggtacttttggcagaaaaagaaacagagatctggagtgttatgg
+                .. **  .  . *..*****..* *** *.. .*****.**. *. * **.** .*.***
+
+seq_CN          gacacacctagccctccagaagtggaaagagcagttcttgatgatggtatctatagaatt
+seq_ID          gacacacccagccctccagaagtggaaagagcagtccttgacgatggcatttatagaatt
+seq_IN          gacacacccagccctccggaagtggaaagagcagttcttgatgatggcatttatagaatc
+seq_JP          gacacacctagccctccagaagtggaaagagcagttcttgatgatggtatctatagaatc
+seq_KH          gacacacccagccctccagaagtggaaagagcagttcttgatgatggtatctatagaatt
+seq_MM          gacacacctagccctccagaagtggaaagagcagttcttgatgatggtatttatagaatt
+seq_PH          gacacacccagccctccagaagtggaaagagcagtccttgatgatggcatttatagaatt
+seq_PK          gatgttccttcacccccacctgtgggaaaggccgaactggaagatggagcttacagaatc
+seq_SG          gacacacccagccctccagaagtagaaagagcagttcttgatgatggtatctatagaatc
+seq_TH          gacacacccagccctccagaagtggaaagagcagttcttgatgatggtatctatagaatt
+seq_TW          gacacacctagccctccagaagtggaaagagcagttcttgatgatggcatctatagaatc
+seq_VN          gacacacccagccctccagaagtggaaagagcagttcttgatgatggtatctatagaatt
+                **... **.   **.**.   **.*.**..** *  ** ** ***** ...**.*****.
+
+seq_CN          atgcagagaggactgttgggcaggtcccaagtaggggtaggagtttttcaagaaaacgtg
+seq_ID          cttcaaagaggattgctgggcaggtctcaagtaggagtaggagtttttcaagaaggtgtg
+seq_IN          ttgcagagaggactgttgggcaggtcccaagtaggagtgggagttttccaagacggcgtg
+seq_JP          atgcagagaggactgttgggcaggtcccaagtaggggtaggagtttttcaagaaaacgtg
+seq_KH          atgcagagaggactgttgggcaggtcccaagtaggggtaggagttttccaagaaaacgtg
+seq_MM          atgcagagaggactgttgggcaggtcccaagtaggggtaggagtttttcaagaaaacgtg
+seq_PH          ctccaaagaggattattgggcaagtctcaagtaggagtaggagttttccaagaaggtgtg
+seq_PK          aagcagaaagggattcttggatactcccagatcggagctggagtttacaaagaaggaaca
+seq_SG          ttgcaaagaggactgttgggtaggtcccaggtgggagtgggagtttttcaagacggcgtg
+seq_TH          atgcagagaggactgttgggcaggtcccaagtaggggtaggagttttccaagaaaacgtg
+seq_TW          atgcagagaggactgttgggcaggtcccaagtgggggtaggagtgtttcaagaaaacgtg
+seq_VN          atgcagagaggactgttgggcaggtcccaagtaggggtaggagttttccaagaaaacgtg
+                   **.*.***. * .* **  . **.**..* **.*. ***** * . **** .. ...
+
+seq_CN          ttccacacaatgtggcatgtcaccaggggagctgtactcatgtatcaagggaagagactg
+seq_ID          ttccacacaatgtggcacgtcaccaggggagctgtcctcatgtaccaagggaagagattg
+seq_IN          ttccacacaatgtggcacgtcaccaggggagctgtccttatgtaccaagggaagaggctg
+seq_JP          ttccacacaatgtggcatgtcaccaggggagctgtactcatgtaccaagggaaaagactg
+seq_KH          ttccacacaatgtggcatgtcaccaggggagctgtactcatgtatcaagggaagagactg
+seq_MM          ttccacacaatgtggcatgtcaccaggggagctgtactcatgtatcaagggaagagactg
+seq_PH          ttccacacaatgtggcacgtcaccaggggagctgtcctcatgtaccaagggaagagattg
+seq_PK          ttccacacaatgtggcacgtcacacgtggtgctgttctaatgcacaaagggaagaggatt
+seq_SG          ttccacacaatgtggcatgtcaccaggggggctgtcctcatgtaccaagggaagaggctg
+seq_TH          ttccacacaatgtggcatgtcaccaggggagctgtactcatgtatcaagggaagagactg
+seq_TW          ttccacacaatgtggcatgtcaccaggggagctgtactcatgtaccaagggaagagactg
+seq_VN          ttccacacaatgtggcatgtcaccaggggagctgtactcatgtatcaagggaagagattg
+                *****************.*****  * ** ***** ** ***.*. *******.**. * 
+
+seq_CN          gaaccgagctgggccagtgtcaaaaaagacctgatctcatatggaggaggttggaggctt
+seq_ID          gaaccaagctgggctagtgtcaaaaaagacttgatctcatatggaggaggttggaggttt
+seq_IN          gaaccaagctgggccagtgtcaaaaaagacttgatctcatatggaggaggttggaggttt
+seq_JP          gaaccgagctgggctagtgtcaaaaaagacctgatctcatatggaggaggttggaggctt
+seq_KH          gaaccgagctgggctagtgtcaaaaaagacctgatctcatatggaggaggttggaggctt
+seq_MM          gagccgagctgggccagtgtcaaaaaagacctgatctcatatggaggaggctggaggctt
+seq_PH          gaaccaagttgggccagtgtcaaaaaagacttgatctcatatggaggaggctggaggttt
+seq_PK          gaaccatcatgggcggatgtcaggaaagacctaatatcgtatggaggaggctggaagcta
+seq_SG          gaaccaagttgggccagtgtaaaaaaagacttgatctcatatggaggaggttggaggttt
+seq_TH          gaaccgagctgggctagtgtcaaaaaagacctgatctcatatggaggaggttggaggctt
+seq_TW          gaaccgagctgggccagtgtcaaaaaagacctgatctcatatggaggaggttggaggctt
+seq_VN          gaaccgagctgggccagtgtcaaaaaagacctgatctcatatggaggaggttggaggctt
+                **.**.   ***** ..*** *..******.*.** **.***********.****.*.* 
+
+seq_CN          caaggatcctggaacacgggagaagaagtgcaggtgattgctgttgaaccagggaaaaac
+seq_ID          caaggatcctggaacacgggagaagaagtgcaggtgattgctgttgaaccggggaagaac
+seq_IN          caaggatcatggaacacgggagaagaagtgcaggtgatagctgttgaaccaggaaaaaac
+seq_JP          caaggatcctggaacacgggagaagaagtgcaggtgattgctgttgaaccagggaaaaac
+seq_KH          caaggatcctggaacacaggagaagaagtgcaggtaattgctgttgaaccagggaaaaac
+seq_MM          caaggatcctggaacacaggagaagaagtgcaggtgattgctgttgaaccagggaaaaac
+seq_PH          caaggatcctggaacacgggagaagaagtgcaggtgattgctgttgaaccggggaagaac
+seq_PK          gaaggagaatggaaggaaggagaagaagtccaggtcttggcattagagcctggaaagaat
+seq_SG          caaggatcatggaacacgggagaagaagtacaggtgatagctgttgaaccaggaaaaaac
+seq_TH          caaggatcctggaacacaggagaagaagtgcaggtaattgctgttgaaccagggaaaaac
+seq_TW          caaggatcctggaacacgggagaagaagtgcaggtgattgctgttgaaccagggaaaaat
+seq_VN          caaggatcctggaacacaggagaagaagtgcaggtgattgctgttgaaccagggaaaaac
+                 *****   ***** . .*********** *****  * **  * **.** **.**.**.
+
+seq_CN          cccaaaaatgtacaaacagcgccgggcacctttaagacccctgaaggtgaagttggagcc
+seq_ID          cccaaaaatgtacagacaacgccgggcaccttcaagacctctgaaggtgaagttggagcc
+seq_IN          cccaaaaatgtacagacaacgccgggtaccttcaagactcctgaaggcgaagttggagcc
+seq_JP          cccaaaaatgtacaaacagcgccaggcacctttaagactcctgaaggcgaagttggagcc
+seq_KH          cccaaaaatgtacaaacagcgccgggcacctttaagacccctgaaggtgaagttggagcc
+seq_MM          cccaaaaatgtacaaacagcgccaggcacctttaagacccctgaaggcgaagttggagct
+seq_PH          cctaaaaatgtacagacagcgccaggcacctttaagacccctgaaggtgaagttggagcc
+seq_PK          ccaagagccgtccaaacaaaacccggtctttttaagactaacaccggaaccataggcgct
+seq_SG          ccaaagaatgtacagacaacgccgggcaccttcaagacccctgaaggcgaagtcggagcc
+seq_TH          cccaaaaatgtacaaacagcgccgggcacctttaagacccctgaaggtgaagttggagcc
+seq_TW          cccaaaaatgtacaaacagcgccgggcacctttaagacccctgaaggcgaagttggagcc
+seq_VN          cccaaaaatgtacaaacagcgccgggcacctttaagacccctgaaggtgaagttggagcc
+                ** *... .** **.***. .** **. ..**.*****.  ..  ** .  .* ** **.
+
+seq_CN          attgccctagattttaaacccggcacatctggatctcccatcgtgaacagagaaggaaaa
+seq_ID          atagctctagacttcaagcccggcacatctggatctcctatcgtgaacagagaggggaaa
+seq_IN          atagctctagattttaaacccggcacatctggatctcccatcgtgaacagagagggaaaa
+seq_JP          attgccctagattttaaacccggcacatctggatctcccatcgtgaacagagaagggaaa
+seq_KH          attgccctagattttaaacccggcacatctggatctcccatcgtgaacagagaaggaaaa
+seq_MM          attgccctagattttaaacccggcacatctggatctcccatcgtgaacagagaaggaaaa
+seq_PH          atagctctagattttaaacccggcacatctggatctcctattgtgaacagagaggggaaa
+seq_PK          gtgtccctagacttttctcctggaacgtcaggatctccaatcgtcgacaaaaaaggaaaa
+seq_SG          atagccctagatttcaaacctggcacatctggatctcccatcgtgaacagagagggaaaa
+seq_TH          attgccctagattttaaacccggcacatctggatctcccatcgtgaacagagaaggaaaa
+seq_TW          attgccctagattttaaacccggcacatctggatctcccatcgtgaacagagaagggaaa
+seq_VN          attgccctagactttaaacctggcacatctggatctcccatcgtgaacagagaaggaaaa
+                .*  *.*****.**.   **.** **.** ******** **.** .***.*.*.**.***
+
+seq_CN          atagtaggtctttatggaaatggagtagtgacaacaagtggaacctacgtcagtgccata
+seq_ID          atagtgggtctttatggaaatggagtggtgacaacaagtggaacctacgtcagtgccata
+seq_IN          atagtaggtctttatggaaatggagtggtgacaacaagtggaacctacgtcagtgccatc
+seq_JP          atagtaggtctttatggaaatggagtagtgacaacaagtggaacctatgtcagtgccata
+seq_KH          atagtaggtctttatggaaatggagtagtgacaacaagtggaacctacgtcagtgccata
+seq_MM          atagtaggtctttatggaaatggagtagtgacaacaagtggaacctacgtcagcgccata
+seq_PH          atagtaggtctttatggaaatggagtggtgacaacaagcggaacctacgtcagtgccata
+seq_PK          gtcgtgggtctctatggtaatggtgtcgtcacaaggagtggaacatatgtgagtgccata
+seq_SG          atagtaggtctttatggaaatggagtggtgacaacaagtggaacctacgtcagtgccatt
+seq_TH          atagtaggtctttatggaaatggagtagtgacaacaagtggaacctacgtcagtgccata
+seq_TW          atagtaggtctttatggaaatggagtggtgacaacaagtggaacctacgtcagtgccata
+seq_VN          atagtaggtctttatggaaatggagtagtgacaacaagtggaacctacgtcagtgccata
+                .* **.*****.***** ***** ** ** **** .**.***** **.** **.***** 
+
+seq_CN          gctcaaaccaaagcatcacaagaagggcccctaccagagattgaagacgaagtgtttagg
+seq_ID          gctcaagccaaagcatcacaagaagggcccctaccagagattgaggacgaggtgtttagg
+seq_IN          gctcaagccaaagcatcacaagaagggcctctaccagagattgaggacgaggtgtttaag
+seq_JP          gctcaagccaaagcatcacaagaagggcctctaccagagattgaagacgaggtgtttagg
+seq_KH          gctcaagccaaagcatcacaagaagggcctctaccagagattgaagacgaggtgtttagg
+seq_MM          gctcaagctaaagcatcacaagaagggcccctaccagagattgaagacgaggtgtttagg
+seq_PH          gctcaagccaaagcatcacaagaagggcctctaccagagattgaggacgaggtgtttagg
+seq_PK          gcccagactgaaaaaagcattgaagacaat---ccagagattgaagacgatatctttcga
+seq_SG          gcccaagctaaagcgtcacaagaagggcctctaccagagattgaggacgaggtgtttaag
+seq_TH          gctcaagccaaagcatcacaagaagggcccctaccagagattgaagacgaggtgtttagg
+seq_TW          gctcaagccaaagcatcacaagaagggcccctaccagagattgaagatgaggtgtttagg
+seq_VN          gctcaagccaaagcatcacaagaagggcccctaccagagattgaagacgaggtgtttagg
+                **.**..*..**. .      ****.   .   ***********.**.** .* *** ..
+
+seq_CN          aaaagaaacttaacaataatggacctacatccaggatcgggaaaaacaagaagatatctt
+seq_ID          aaaaggaacttaacaataatggacctacatccaggatcagggaagacaagaagatacctt
+seq_IN          aaaagaaacctaacaataatggacctacatccaggatcaggaaaaacaagaagatatctt
+seq_JP          aaaagaaacttaacaataatggacctacatccaggatcggggaaaacaagaagatacctt
+seq_KH          aaaagaaacttaacaataatggacctacatccaggatcggggaaaacaagaagatacctt
+seq_MM          aagagaaacttaacaataatggacctacatccaggatcggggaaaacaagaagatacctt
+seq_PH          aaaagaaacttgacaataatggacctacatccaggatcaggaaaaacaagaagatacctt
+seq_PK          aaaaaaagattgaccattatggacctccacccaggagcgggaaagacgaaaagatacctt
+seq_SG          aaaagaaacctaacaataatggacctacatccaggatcaggaaaaacaagaagatatctt
+seq_TH          aaaagaaacttaacaataatggacctacatccaggatcggggaaaacaagaagatacctt
+seq_TW          aaaagaaacttaacaataatggacctacatccaggatcgggaaaaacaagaagatacctt
+seq_VN          aaaagaaacttaacaataatggacctacatccaggatcggggaaaacaagaagatatctt
+                **.*..*. .*.** ** ******** **.****** *.**.**.**.*.******.***
+
+seq_CN          ccagccatagtccgtgaggccataaaaaggaagctgcgcacactaattctggctcccaca
+seq_ID          ccagccatactccgtgaggccataaaaagaaagctgcgcacgctagtcttggcccccaca
+seq_IN          ccagccatagtccgtgaggccataaaaaggaagctgcgcacgctaatcttggctcccaca
+seq_JP          ccagccatagtccgtgaggccataaaaaggaagctgcgcacactaattctggctcccaca
+seq_KH          ccagccatagtccgtgaggccataaaaaggaagctgcgtacactaattctggctcccaca
+seq_MM          ccagccatagtccgtgaggccataaaaaggaagctgcgcacactaattctggctcccaca
+seq_PH          ccagccatagtccgtgaagctataaaaagaaagctacgcacactagtcttggctcccaca
+seq_PK          ccagcaatagttagagaggccataaaacgaggcttaagaacattaatcctggcccccact
+seq_SG          ccagccatagtccgtgaggccataaaaaggaaactgcgcacgctaatcttggctcccaca
+seq_TH          ccagccatagtccgtgaggccataaaaaggaagctgcgcacactaattttggctcccaca
+seq_TW          ccagccatagtccgtgaggccataaaaaggaagctgcgcacactaattctggctcccaca
+seq_VN          ccagccatagtccgtgaggccataaaaaggaagctgcgcacactaattctggctcccaca
+                ***** *** *. * **.**.****** *... .*. * **..**.*..****.***** 
+
+seq_CN          agggttgtcgcttccgaaatggcggaagcgctcaagggaatgccaataaggtaccaaaca
+seq_ID          agagttgtcgcttctgaaatggcagaagcactcaagggaatgccaataaggtatcagaca
+seq_IN          agagttgtcgcctctgaaatggcagaggcgctcaaaggaatgccaataagatatcagaca
+seq_JP          agggttgtcgcttccgaaatggcagaggcgcttaagggaatgccaataaggtaccaaaca
+seq_KH          agggttgtcgcttccgaaatggcagaggcgctcaagggaatgccaataaggtaccaaaca
+seq_MM          agggttgtcgcttccgaaatggcagaggcgctcaagggaatgccaataaggtaccaaaca
+seq_PH          agagttgtcgcctctgaaatggcagaggcgctcaagggaatgccaataaggtaccagaca
+seq_PK          agagtcgtggcagctgaaatggaggaagctcttagaggacttccaataagataccaaacc
+seq_SG          agagttgtcgcctctgaaatggcagaggcgcttaaaggaatgccaataagatatcagaca
+seq_TH          agggttgtcgcttccgaaatggcagaggcgctcaagggaatgccaataaggtaccaaaca
+seq_TW          agggttgtcgcttccgaaatggcagaggcgctcaagggaatgccaataaggtaccaaaca
+seq_VN          agggttgtcgcttccgaaatggcagaggcgctcaagggaatgccaataaggtaccaaaca
+                **.**.** **  *.******* .**.** **.*..*** * ********.**.**.** 
+
+seq_CN          acagcagtgaagagtgaacacacaggaaaagagatagttgacctcatgtgtcacgccact
+seq_ID          acagcagtgaaaagtgaacacacgggaaaggagatagttgatcttatgtgtcacgccact
+seq_IN          acagcagtaaagagtgaacacacaggaagggagatagtcgacctcatgtgccacgccact
+seq_JP          acagcagtgaagagtgaacacacaggaaaagagatagttgacctcatgtgtcacgccact
+seq_KH          acagcagtgaagagtgaacacacaggaaaagagatagttgatctcatgtgtcacgccact
+seq_MM          acagcagtgaagagtgaacacacaggaaaagagatagttgacctcatgtgtcacgccact
+seq_PH          acagcagtgaaaagtgaacacacgggaaaagagatagttgacctcatgtgtcacgctacc
+seq_PK          ccagccatcagagctgagcacactgggcgagaaatcgtggatttaatgtgtcatgccaca
+seq_SG          acagcagtaaagagtgaacacacaggaaaggagatagttgacctcatgtgccacgccact
+seq_TH          acagcagtaaagagtgaacacacaggaaaagagatagttgatctcatgtgtcacgccact
+seq_TW          acagcagtgaagagtgaacacacaggaaaagagatagttgacctcatgtgtcacgccact
+seq_VN          acagcagtgaagagtgaacatacaggaaaagagatagttgacctcatgtgtcacgccact
+                 **** .* *... ***.**.** **. ..**.** ** **..* *****.**.**.** 
+
+seq_CN          ttcaccatgcgcctcctgtctcccgtgagagttcccaattacaacatgattatcatggat
+seq_ID          ttcaccatgcgtctcctgtctcctgtgagagtccccaactataacatgattatcatggat
+seq_IN          ttcaccatgcgtctcctatctccagtgagagttcccaattacaacatgattatcatggat
+seq_JP          ttcaccatgcgcctcctgtctcccgtgagagttcccaattacaacatgattatcatggat
+seq_KH          ttcaccatgcgcctcctgtctcccgtgagagttcccaattacaacatgattatcatggat
+seq_MM          ttcaccatgcgcctcctgtctcccgtgagagttcccaattacaacatgattatcatggat
+seq_PH          tttaccatgcgtctcctctctcctgtgagagttcccaattataatatgattatcatggat
+seq_PK          tttaccatgaggctgttatcaccagttagagtgccaaattacaacttgatcattatggat
+seq_SG          ttcaccatgcgtctcctatctccagtgagagttcccaattacaacatgattatcatggat
+seq_TH          ttcaccatgcgcctcctgtctcccgtgagagttcccaattacaacatgattatcatggat
+seq_TW          ttcaccatgcgcctcctgtctcccgtgagagttcccaattacaacatgattattatggat
+seq_VN          ttcaccatgcgcctcctgtctcccgtaagagttcccaattacaacatgatcatcatggat
+                **.****** * ** .* ** ** ** ***** ** **.**.**. ****.**.******
+
+seq_CN          gaagcacatttcaccgatccatccagcatagcggccagagggtacatctcaacccgagtg
+seq_ID          gaagcacatttcaccgatccagccagcatagcagccagagggtacatctcaacccgagta
+seq_IN          gaagcacactttaccgatccagccagcatagcggccagagggtacatctcaacccgagtg
+seq_JP          gaagcacatttcaccgatccatccagcatagcggctagagggtacatctcaacccgagtg
+seq_KH          gaagcacatttcaccgatccatccagtatagcggccagagggtacatctcaacccgagtg
+seq_MM          gaagcacatttcaccgatccatccagcatagcggccagagggtacatctcaacccgagtg
+seq_PH          gaagcacatttcactgatccagccagcatagcagccagagggtacatctcaacccgagtg
+seq_PK          gaagcccatttcacagacccagcaagcatagcagctagaggatacatttcaactcgagta
+seq_SG          gaagcacactttaccgatccagccagcatagcggccagagggtacatctcaacccgagtg
+seq_TH          gaagcacatttcaccgatccatccagtatagcggccagagggtacatctcaacccgagtg
+seq_TW          gaagcacatttcaccgatccatccagcatagcggctagagggtacatctcaacccgagtg
+seq_VN          gaagcacatttcaccgatccatccagtatagcggccagagggtacatctcaacccgagtg
+                ***** **.**.** **.*** * **.*****.**.*****.*****.*****.*****.
+
+seq_CN          ggcatgggtgaagcagctgcaatcttcatgacagccactcccccaggatcaatggaggcc
+seq_ID          ggtatgggtgaagcagctgcgatcttcatgacagccactccccccggatcggtggaggcc
+seq_IN          ggtatgggtgaagcagctgcgatcttcatgacagccactcccccaggatcggtggaggcc
+seq_JP          ggcatgggtgaagcagctgcgatcttcatgacagctactcccccaggatcagtggaggcc
+seq_KH          ggcatgggtgaagcagctgcaatcttcatgacagccactcccccaggatcagtggaggcc
+seq_MM          ggcatgggtgaagcagctgcgatcttcatgacagccactcccccaggatcagtggaggcc
+seq_PH          ggtatgggtgaagcagctgcaattttcatgacagccactccccccggatcgatggaggcc
+seq_PK          gaaatgggtgaagcagctgggattttcatgacagccactcccccgggaagcagagaccca
+seq_SG          ggtatgggtgaagcagctgcgatctttatgacagccactcccccaggatcggtagaggcc
+seq_TH          ggcatgggtgaagcagctgcaatcttcatgacagccactcccccaggatcagtggaggcc
+seq_TW          ggcatgggtgaagcagctgcgatcttcatgacagccactcccccaggatcagtggaggcc
+seq_VN          ggcatgggtgaagcagctgcaatcttcatgacagccactcccccaggatcagtggaggcc
+                *. **************** .**.**.********.******** ***   . .**  * 
+
+seq_CN          tttccacagagcaacgcagttatccaagatgaggaaagagacattcctgagagatcatgg
+seq_ID          tttccacagagcaatgcagttatccaagatgaggaaagagacattcctgaaagatcatgg
+seq_IN          tttccacagagtaatgcagttatccaagatgaggaaaaagacattcctgagagatcatgg
+seq_JP          tttccacagagcaacgcagttatccaagatgaggaaagagacattcctgagagatcatgg
+seq_KH          tttccacagagcaacgcagtaatccaagatgaggaaagagacattcctgagagatcatgg
+seq_MM          tttccacagagcaacgcagttatccaagatgaggaaagagacattcctgagagatcatgg
+seq_PH          tttccacagagcaatgcagctatccaagatgaagagagagatattcctgaaaggtcttgg
+seq_PK          tttcctcaaagcaatgcaccaatcatggatgaagagagggaaatccctgaacgttcgtgg
+seq_SG          tttccacagagcaacgcagttatccaagatgaggaaagagacattcctgagagatcatgg
+seq_TH          tttccacagagcaacgcagtaatccaagatgaggaaagagacattcctgagagatcatgg
+seq_TW          tttccacagagcaacgcagttatccaagatgaggaaagagatattcctgagagatcatgg
+seq_VN          tttccacagagcaacgcagttatccaagatgaggaaagagacattcctgagagatcatgg
+                ***** **.**.**.*** . ***  .*****.**.*..** **.*****. * ** ***
+
+seq_CN          aactcaggctatgagtggatcactgacttcccaggtaaaacagtctggtttgttccaagc
+seq_ID          aactcaggctatgactggatcactgatttcccaggtaaaacagtctggtttgttccaagc
+seq_IN          aactcaggctacgactggatcactgattttccaggcaaaacagtctggtttgttccaagc
+seq_JP          aactcaggctatgagtggatcactgacttcccaggcaaaacagtttggtttgttccaagc
+seq_KH          aactcaggctatgagtggatcactgacttcccaggtaaaacagtttggtttgttccaagc
+seq_MM          aactcaggctatgagtggatcactgacttcccaggtaaaacagtttggtttgttccaagc
+seq_PH          aactcaggctatgactggattactgatttcccaggtaaaacagtttggtttgttccaagc
+seq_PK          aactctggacatgagtgggttacagatttcaaagggaagactgtttggtttgttccgagc
+seq_SG          aactcaggctacgactggatcactgatttcccaggaaaaacagtctggtttgttccaagc
+seq_TH          aactcaggctatgagtggatcactgacttcccaggtaaaacagtttggtttgttccaagc
+seq_TW          aactcaggttatgagtggatcactgacttcccaggcaaaacagtttggtttgttccaagc
+seq_VN          aactcaggctatgagtggatcactgacttcccaggtaaaacagtttggtttgttccaagc
+                ***** ** .*.** ***.*.** **.**.  *** **.** **.***********.***
+
+seq_CN          attaaagcagggaatgacattgccaactgcttaagaaagaatggaaaacgagtgattcaa
+seq_ID          atcaaatcaggaaatgacattgccaactgtttaagaaagaatgggaaacgggtggtccaa
+seq_IN          atcaaatcaggaaatgacattgccaactgtttaagaaagaacggaaaacgggtgattcaa
+seq_JP          attaaatcaggaaatgatattgccaactgcttaagaaagaatgggaaacgggtgattcaa
+seq_KH          attaaatcaggaaatgacatagccaactgcttaagaaagaatgggaaacgggtgattcaa
+seq_MM          attaaatcaggaaatgacattgccaactgcttaagaaagaatggaaaacgggtgattcaa
+seq_PH          atcaaatcaggaaatgacattgccaactgtttaagaaagaatgggaaacgggtggtccaa
+seq_PK          ataaaagcaggtaatgatatagcagcttgcctgagaaaaaatggaaagaaagtgatacaa
+seq_SG          atcaaatcaggaaatgacattgccaactgcttaagaaaaaacgggaaacgggtgatccaa
+seq_TH          attaaatcaggaaatgacatagccaactgcttaagaaagaatgggaaacgggtgattcaa
+seq_TW          attaaatcaggaaatgatattgccaactgcttaagaaagaatgggaaacgggtgattcaa
+seq_VN          attaaatcaggaaatgacattgccaactgcttaagaaagaatgggaaacgggtgattcaa
+                ** *** **** *****.** ** . .**..*.*****.**.**.**. ..***.* ***
+
+seq_CN          ttgagcaggaaaacctttgatacagagtaccaaaaaacaaaaaataacgactgggactac
+seq_ID          ttgagcaggaaaacttttgacactgagtaccagaaaacaaaaaataacgactgggactat
+seq_IN          ctgagcaggaaaacctttgacactgagtaccagaaaacaaaaaacaatgattgggactat
+seq_JP          ttgagcaggaaaacctttgacacagagtaccaaaaaacaaaaaataacgactgggactac
+seq_KH          ttgagcaggaaaacctttgatacagagtaccaaaaaacaaaaaacaacgactgggactac
+seq_MM          ttgagcaggaaaacctttgatacagagtaccaaaaaacaaaaaataacgactgggactac
+seq_PH          ttgagcaggaaaacctttgacactgagtaccagaagacaaaaaataacgactgggactat
+seq_PK          ctcagtaggaagacctttgattctgaatacattaagaccaggaccaatgattgggacttt
+seq_SG          ttgagcagaaaaacctttgacactgaataccagaaaacgaaaaacaatgattgggactat
+seq_TH          ttgagcaggaaaacctttgatacagagtaccaaaaaacaaaaaacaacgactgggactac
+seq_TW          ttgagcagaaaaacctttgacacagagtaccaaaaaacaaaaaataacgactgggactac
+seq_VN          ttgagcaggaaaacctttgatacagagtaccaaaaaacaaaaaacaacgactgggactac
+                .* **.**.**.**.*****. * **.***   **.** *..* .**.**.******* .
+
+seq_CN          gtcgtcacaacagacatctccgaaatgggagcaaattttcgggccgacagggtgatagac
+seq_ID          gttgtcacaacagacatatccgaaatgggagcaaacttccgagccgacagggtaatagac
+seq_IN          gttgtcacaacagacatttccgaaatgggagcaaatttccgggccgacagggtaatagat
+seq_JP          gtcgtcacaacagacatctccgaaatgggagcaaatttccgggccgacagggtgatagac
+seq_KH          gtcgtcacaacagacatctccgaaatgggagcaaatttccgagccgacagggtgatagac
+seq_MM          gtcgtcacaacagacatctccgaaatgggagcaaatttccgggccgacagggtgatagac
+seq_PH          gttgtcacaacagacatatctgaaatgggagcaaacttccgagctgacagggtaatagac
+seq_PK          gtggtcacgactgacatttcagaaatgggtgctaacttcaaggctgaaagggttatagac
+seq_SG          gttgtcacaacagacatttccgaaatgggagcaaatttccgggccgacagggtaatagac
+seq_TH          gtcgtcacaacagacatctccgaaatgggagcaaatttccgagcagacagggtgatagac
+seq_TW          gtcgtcacaacagacatctccgaaatgggagcaaatttccgggccgacagggtgatagac
+seq_VN          gtcgtcacaacagacatctccgaaatgggagcaaatttccgagccgacagggtgatagac
+                ** *****.** ***** ** ******** ** **.**. ..** ** ***** *****.
+
+seq_CN          ccaagacggtgtctgaaaccggtaatactaaaagatggtccagagcgtgtcattttagca
+seq_ID          ccaaggcggtgcctgaaaccagtaatactaaaagatggtccagagcgcgtcatcctagcc
+seq_IN          ccaaggcggtgcttgaaaccggtaatactaaaggatggtccagagcgcgtcattctagcc
+seq_JP          ccaagacggtgtctgaaaccggtaatactaaaagatggttcagagcgtgtcattttagca
+seq_KH          ccaagacggtgtctgaaaccggtaatactaaaagatggtccagagcgtgtcattttagca
+seq_MM          ccaagacggtgtctgaaaccggtaatactaaaagatggtccagagcgtgttattttagca
+seq_PH          ccaagacggtgcctaaaaccggtaatactgaaagatggtccagagcgtgtcattctagcc
+seq_PK          cccaggcgctgcatgaaaccagtcatactaacggacggtgaagagcgggtgatcctggca
+seq_SG          ccaaggcggtgcttgaagccggtaatactaaaagatggcccagagcgcgtcattctagcc
+seq_TH          ccaagacggtgtctgaaaccggtaatactaaaagatggtccagagcgtgtcattttagca
+seq_TW          ccaagacggtgtctaaaaccggtaatactaaaagatggtccagagcgtgtcattttagca
+seq_VN          ccaagacggtgtctgaaaccggtaatactaaaagatggtccagagcgtgtcattttagca
+                ** **.** **. *.**.**.** *****.* .**.**.  ****** ** **..*.** 
+
+seq_CN          ggaccgatgccagtgactgtggccagtgccgcccagaggagaggaagaattggaaggaac
+seq_ID          ggaccgatgccagtgactgtggccagtgccgcccagaggagaggaagaattggaaggaac
+seq_IN          ggaccaatgccagtgactgtggctagtgctgcccagaggagaggaagaattggaaggaac
+seq_JP          ggaccgatgccagtgactgtggccagtgccgcccagaggagaggaagaattggaaggaac
+seq_KH          ggaccaatgccagtgactgtggccagtgccgcccagaggagaggaagaattggaaggaac
+seq_MM          ggaccgatgccagtgactgtggccagtgccgcccagaggagaggaagaattggaaggaac
+seq_PH          ggaccgatgccagtgactgtggctagcgccgcccagaggagaggaagaattggaaggaac
+seq_PK          ggacccatgccagtgacccactctagtgcagcacaaagaagagggagaataggaagaaat
+seq_SG          ggaccaatgccagtgaccgcggccagtgctgcccagaggagaggaagaattggaaggaac
+seq_TH          ggaccaatgccagtgactgtggccagtgccgcccagaggagaggaagaattggaaggaac
+seq_TW          ggaccgatgccagtgactgtggccagtgccgcccagaggagaggaagaattggaaggaac
+seq_VN          ggaccaatgccagtgaccgtggccagtgccgcccagaggagaggaagaattggaaggaac
+                ***** ***********.    *.**.** ** **.**.*****.***** *****.**.
+
+seq_CN          cacaataaggaaggtgatcagtacatctacatgggacagcctttaaacaacgatgaagat
+seq_ID          tcaaataaggaaggagatcagtatgtgtacatgggacagcctctaaataatgatgaggac
+seq_IN          caaaacaaagaaggtgatcagtacgtttacatgggacagcctttaaataatgatggggat
+seq_JP          cacaataaggaaggtgatcagtacatctacatgggacagcctttaaacaacgatgaagat
+seq_KH          cacaataaggaaggtgatcagtacatctacatgggacagcctttaaacaacgatgaagat
+seq_MM          cacaataaggaaggtgatcagtacatctacatgggacagcctttaaacaacgatgaagat
+seq_PH          caaaataaggaaggagaccagtatatttacatgggacagcctctaaacaatgatgaggac
+seq_PK          ccaaaaaatgaaaatgaccagtacatatacatgggggaacctctggaaaatgatgaagac
+seq_SG          caaaacaaggaaggtgaccagtatatttacatgggacagcctttaaataatgatgaggac
+seq_TH          cacaataaggaaggtgatcagtacatctacatgggacagcctttaaacaacgatgaagat
+seq_TW          cacaacaaggaaggtgatcagtacatctatatgggacagcctttaaacaacgatgaagat
+seq_VN          cacaataaggaaggtgatcagtacatctacatgggacagcctttaaacaacgatgaagat
+                .  ** ** ***.. **.*****..* **.*****. *.***.*..* **.****..**.
+
+seq_CN          cacgctcactggacagaagcaaaaatgctccttgataatataaacacaccagaagggatt
+seq_ID          cacgcccattggacagaagcaaaaatgctccttgacaacataaacacaccagaaggaatc
+seq_IN          cacgctcattggacagaagcaaaaatgctccttgacaatataaacacaccagaagggatc
+seq_JP          cacgctcactggacggaagcaaaaatgctccttgataatataaacacaccagaaggaatt
+seq_KH          cacgctcactggacagaagcaaaaatgctccttgataatataaacacaccagaagggatt
+seq_MM          cacgctcactggacggaagcaaaaatgctccttgataatataaacacaccagaagggatt
+seq_PH          catgcccattggacagaagcaaaaatgctccttgacaacataaacacaccagaagggatt
+seq_PK          tgcgcacactggaaagaagccaagatgcttttagacaacatcaacacgcctgaaggaatc
+seq_SG          cacgctcactggacagaagcaaaaatgctccttgataatataaatacgccagaagggatt
+seq_TH          cacgctcactggacagaagcaaaaatgctccttgacaatataaacacaccagaagggatt
+seq_TW          cacgctcactggacggaagcaaaaatgctccttgataatataaacacaccagaaggaatt
+seq_VN          cacgctcactggacagaagcaaaaatgctccttgataatataaacacaccagaagggatt
+                ...** **.**** .***** **.*****..* **.**.** **.**.** *****.**.
+
+seq_CN          atcccagccctcttcgagccggagagagaaaagagtgcagcaatagacggggaatataga
+seq_ID          attccagccctctttgagccggagagagaaaagagtgcagcaatagacggggaatacaga
+seq_IN          atcccagccctctttgagccagagagagaaaagagtgcagcaatagacggggagtacaga
+seq_JP          atcccagccctcttcgagccggagagagaaaagagtgcagcaatagacggggaatacaga
+seq_KH          atcccagccctcttcgagccggagagagaaaagagtgcagcaatagacggggaatacaga
+seq_MM          atcccagccctcttcgagccggagagagaaaagagtgcagcaatagacggggaatacaga
+seq_PH          atcccagccctctttgagccggagagagaaaagagtgcagcaatagacggggaatacaga
+seq_PK          attcccagcatgttcgaaccagagcgtgaaaaggtggatgctattgatggtgaataccgc
+seq_SG          atcccagccctctttgagccagagagagaaaagagtgcagcaatagacggggagtataga
+seq_TH          atcccagccctcttcgagccggagagagaaaagagtgcagcaatagacggggaatacaga
+seq_TW          atcccagccctcttcgagccggagagagaaaagagtgcggcaatagacggggaatacaga
+seq_VN          atcccagccctcttcgagccagagagagaaaagagtgcagcaatagacggggaatacaga
+                **.** . * * **.**.**.*** * ******.  *  ** ** **.** **.**. * 
+
+seq_CN          ctgcggggtgaagcaaggaaaacgtttgtggagctcatgagaagaggagatctacctgtc
+seq_ID          ttacggggtgaagcgaggaaaacgttcgtggagctcatgagaagaggagatctacctgtc
+seq_IN          ctgcggggagaagcaagaaaaacgttcgtggagctcatgagaagaggagatctaccagtt
+seq_JP          ctgcggggtgaagcaaggaaaacgtttgtggagctcatgagaagaggagatctacctgtc
+seq_KH          ctgcggggtgaggcaaggaaaacgtttgtggagctcatgagaagaggagatctacctgtc
+seq_MM          ctgcggggtgaagcaaggaaaacttttgtggagctcatgagaagaggagatctacctgtc
+seq_PH          ctacggggtgaagcgaggaaaaccttcgtagagcttatgagaagaggagatctacctgtc
+seq_PK          ttaagaggagaagcgaggaaaacctttgtggatctaatgagaagaggagacctaccagtc
+seq_SG          ctgcgaggagaagcaaggaaaacgttcgtggagctaatgagaagaggggatctaccagtt
+seq_TH          ctgcggggtgaggcaaggaaaacgtttgtggagctcatgagaagaggagatctacctgtc
+seq_TW          ctgcggggtgaagcaaggaaaacgtttgtggagctcatgagaagaggagatctacctgtc
+seq_VN          ctgcggggtgaagcaaggaaaacgtttgtggagctcatgagaagaggagatctacctgtc
+                .*. *.** **.**.**.***** **.**.** ** ***********.**.***** **.
+
+seq_CN          tggctatcctacaaagttgcctcagaaggcttccagtactctgacagaagatggtgcttt
+seq_ID          tggctatcctacaaagttgcctcagagggcttccagtactctgacagaaggtggtgcttt
+seq_IN          tggctatcctacaaagttgcctcagaaggtttccaatattccgacagaagatggtgcttt
+seq_JP          tggctatcttacaaagttgcctcagaaggtttccagtactctgatagaagatggtgcttt
+seq_KH          tggctatcttacaaagttgcctcagaaggcttccagtactctgacagaagatggtgcttt
+seq_MM          tggctatcctacaaagttgcctcagaaggcttccagtactctgacagaagatggtgcttt
+seq_PH          tggctatcctacaaagttgcctcagaaggcttccagtactccgacagaaggtggtgcttt
+seq_PK          tggctggcctacagagtggcagccgaaggcattaactatgcagacagaaggtggtgtttt
+seq_SG          tggctatcttacaaagttgcctcagaaggcttccagtactccgacagaagatggtgcttt
+seq_TH          tggctatcttacaaagttgcctcagaaggcttccagtactctgacagaagatggtgcttt
+seq_TW          tggctatcctacaaagttgcctcagaaggcttccagtactctgacagaaaatggtgcttt
+seq_VN          tggctatcctacaaagttgcctcagaaggcttccagtactctgacagaagatggtgcttt
+                *****. *.****.*** **  * **.**. *. * **. * **.****..*****.***
+
+seq_CN          gacggggaaaggaacaaccaggtgttggaggagaacatggacgtggagatctggacaaaa
+seq_ID          gatggggaaaggaacaaccaggtgttggaggagaacatggacgtggagatttggacaaaa
+seq_IN          gatggggaaaggaacaaccaggtgttggaggagaacatggacgtggagatctggacaaag
+seq_JP          gacggggaaaggaacaaccaggtgttggaggagaacatggacgtggagatctggacaaaa
+seq_KH          gacggggaaaggaacaaccaggtgttggaggagaacatggacgtggagatctggacaaaa
+seq_MM          gacggggaaaggaacaaccaggtgttggaggagaacatggacgtggagatctggacaaaa
+seq_PH          gatggagaaaggaacaaccaggtgctggaggagaacatggacgtggagatctggacaaaa
+seq_PK          gatggaatcaagaacaaccaaatcttagaagaaaatgtggaagtggaaatctggacaaaa
+seq_SG          gacggggaaaggaacaaccaggtgttggaggagaacatggacgtggagatctggacaaaa
+seq_TH          gacggggaaaggaacaaccaggtgttggaggagaacatggacgtggagatctggacaaaa
+seq_TW          gacggggaaaggaacaaccaggtgttggaagagaacatggacgtggagatctggacaaaa
+seq_VN          gacggggaaaggaataaccaggtgttggaggagaacatggacgtggagatctggacaaaa
+                **.**..  *.***.*****..* .*.**.**.**..**** *****.**.********.
+
+seq_CN          gaaggagaaagaaagaaactacgaccccgctggctggatgccagaacatactcagaccca
+seq_ID          gagggagaaagaaagaaactacgaccccgctggctggatgccagaacatattctgaccca
+seq_IN          gaaggagaaagaaagaaattgcgaccccgctggttggatgctagaacttactctgatcca
+seq_JP          gaaggagaaagaaagaaactacgaccccgctggctggatgccagaacatactcagaccca
+seq_KH          gagggagaaagaaagaaactacgaccccgctggctggatgccagaacatactcagaccca
+seq_MM          gaaggagaaagaaagaaactacgaccccgctggctggatgccagaacatactcagaccca
+seq_PH          gaaggagaaagaaagaaactacgaccccgctggctggatgccagaacatactctgaccca
+seq_PK          gaaggggaaaggaagaaactgaaacccagatggctggatgctcggatctactctgaccca
+seq_SG          gaaggagaaagaaagaaattgcgacctcgctggttggatgccagaacctactctgatcca
+seq_TH          gagggagaaagaaagaaactacgaccccgctggctggatgccagaacatactcagaccca
+seq_TW          gaaggagaaagaaagaaactacgaccccgctggctggatgccagaacatactcagaccca
+seq_VN          gaaggagaaagaaagaaactacgaccccgctggctggatgccagaacatactcagaccca
+                **.**.*****.******.*. .***. * ***.*******. *.*. **.** **.***
+
+seq_CN          ctggccctgcgcgagtttaaagagtttgcagcaggaagaagaagcgtctcaggtgatcta
+seq_ID          ctggctctgcgcgagttcaaagagttcgcagcaggaagaagaagcgtctcaggtgatcta
+seq_IN          ctggctctgcgcgagtttaaagagttcgcagcaggaagaagaagtgtctcaggtgaccta
+seq_JP          ctggccctgcgcgagttcaaagagtttgcagcaggaagaagaagtgtctcaggtgatcta
+seq_KH          ctagccctgcgcgagtttaaagagtttgcagcagggagaagaagcgtctcaggtgatcta
+seq_MM          ctggccctgcgcgagtttaaagagtttgcagcaggaagaagaagcgtctcaggtgatctg
+seq_PH          ctggctctgcgtgaattcaaagagttcgcagcaggaagaagaagcgtttcaggtgaccta
+seq_PK          ctggcgctcaaagaattcaaagagtttgcagctgcaagaaaatccctgaccctgaattta
+seq_SG          ctggccctgcgcgagtttaaagagttcgcagcaggaagaagaagtgtctcaggtgaccta
+seq_TH          ctagccctgcgcgagtttaaagagtttgcagcagggagaagaagcgtctcaggtgatcta
+seq_TW          ctggccctgcgcgagtttaaagagtttgcagcaggaagaagaagcgtctcaggtgatcta
+seq_VN          ctagccctgcgcgagtttaaagagtttgcagcagggagaagaagcgtctcaggtgattta
+                **.** **  . **.**.********.***** * .****.*  . *  *    .*..*.
+
+seq_CN          atactagaaatagggaaacttccacaacacttgacgcaaagggcccagaatgccttggac
+seq_ID          atattagaaatagggaaacttccacaacatttaacgcaaaaggcccagaatgctttggac
+seq_IN          atattggaaataggaaaacttccacaacatttgacgctgagagcccagaatgctttggat
+seq_JP          atattggaaatagggaaacttccacaacacttgacgcaaagggcccagaatgccttggac
+seq_KH          atattggaaatagggaaacttccacaacacttgacgcaaagggcccagaatgccttggac
+seq_MM          atattagaaatagggaaacttccacaacatttgacgcaaagggcccagaatgccttggac
+seq_PH          atattagaaatagggaaacttccacaacatctaacgcaaagggcccagaatgccctggac
+seq_PK          atcacagaaatgggtaggctcccaacttttatgactcagaaagcaaggaacgcactggac
+seq_SG          atattagagatagggaaacttccacagcatttgacgctaagggcccagaatgctttggac
+seq_TH          atattggaaatagggaaacttccacaacacttgacgcaaagggcccagaatgccttggac
+seq_TW          atattggaaatagggaaacttccacaacacttgacgcaaagggcccagaatgccttggac
+seq_VN          atattagaaatagggaagcttccacaacacttgacgcaaagggcccagaatgccttggac
+                **  ..**.**.** *..**.***   . . *.** * .*..**  .***.** .****.
+
+seq_CN          aacctggtcatgttgcacaactccgaacaaggaggaagagcctatagacatgcaatggaa
+seq_ID          aatctggtcatgctgcacaactctgaacaaggaggaaaagcctacagacacgccatggaa
+seq_IN          aacttggtcatgttgcacaattccgaacaaggcggaaaagcctacagacatgctatggag
+seq_JP          aacctggttatgttgcacaactccgaacaaggaggaagagcctatagacatgcaatggaa
+seq_KH          aacctggttatgttgcacaactccgaacaaggaggaagagcctacagacatgcaatggaa
+seq_MM          aacctggttatgttgcacaactccgaacaaggaggaagagcctatagacatgcactggaa
+seq_PH          aacctggttatgctgcacaattctgagcagggaggaaaagcctatagacacgccatggaa
+seq_PK          aacttagcagtcctgcatacggctgaagcaggcggaagggcgtacaaccatgctctcagt
+seq_SG          aacttggtcatgttgcacaattccgaacaagggggaaaagcctatagacatgctatggaa
+seq_TH          aacctggttatgttgcacaactccgaacaaggaggaagagcctacagacatgcaatggaa
+seq_TW          aacctggttatgttgcacaactccgaacaaggaggaagagcctatagacatgcaatggaa
+seq_VN          aacctggttatgttgcacaactccgaacaaggaggaagagcctatagacatgcaatggaa
+                **..*.*. .* .****.*   *.**.  .** ****..** **.*. **.**  * .. 
+
+seq_CN          gaactgccagacaccatagaaacattgatgctcctggctttgatagctgtgttaactggt
+seq_ID          gaactaccagacaccatagaaacgttaatgctcctagctttgatagctgtgctgactggt
+seq_IN          gaactaccagacaccatagaaacattgatgctcctagccttgatagctgtgctcactggt
+seq_JP          gaactgccagataccatagaaacgttgatgctcctagctttgatagctgtgttaactggt
+seq_KH          gaactgccagacaccatagaaacgttgatgctcctagctttgatagctgtgttaactggt
+seq_MM          gaactgccagacaccatagaaacgttgatgctcctagctttgatagctgtgttaactggt
+seq_PH          gaactaccagacactatagaaacgttgatgcttctggctttgatagctgtgttgactggt
+seq_PK          gaactgccagagactctggagacattgcttttgctgacacttttggccacagtcacgggc
+seq_SG          gaactaccagacaccatagaaacattgatgctactagccttgatagctgtgctgactggt
+seq_TH          gaactgccagacaccatagaaacgttgatgctcctagctttgatagctgtgttaactggt
+seq_TW          gaactgccagacaccatagaaacgttaatgctcctagctttgatagctgtgttaactggt
+seq_VN          gaactgccagacaccatagaaacgttgatgctcctagctttgatagctgtgttaactggt
+                *****.***** **. *.**.**.**. * .* **..* .*  *.**.... * ** **.
+
+seq_CN          ggagtgacgctgttcttcctatcaggaaagggcctagggaaaacatctatcggcctactc
+seq_ID          ggagtgacgttgttcttcctatcaggaagaggtctaggaaaaacatccattggcctactc
+seq_IN          ggagtgacgctgttcttcctatcaggaaaaggtctagggaaaacatccattggcctactc
+seq_JP          ggagtgacgctgttcttcctatcaggaaagggcttagggaaaacatctatcggcctactc
+seq_KH          ggagtgacactgttcttcctatcaggaaggggcctagggaaaacatctattggcctactc
+seq_MM          ggagtgacgctgttcttcctatcaggaaggggcctagggaaaacatctattggcctactc
+seq_PH          ggggtgacgttgttcttcctatcaggaaggggtctaggaaaaacatccattggtctactc
+seq_PK          ggaatctttttatttttgatgagtggcaaaggtatagggaaaatgaccctgggaatgtgc
+seq_SG          ggagttacgttgtttttcctatcaggaaaaggtctagggaaaacatccattggcctgctt
+seq_TH          ggagtgacactgttcttcctatcaggaaggggcttagggaaaacatctattggcctactc
+seq_TW          ggagtgacgctgttcttcctatcaggaaggggtttagggaaaacatctatcggcctactc
+seq_VN          ggagtgacactgttcttcctatcaggaaggggcctagggaaaacatctattggcctactc
+                **..*  . .*.**.**  *.   ** *..**. ****.****.. *. * **  *.. .
+
+seq_CN          tgcgtgatggcttcaagcgtactgctatggatggccagtgtggagccccattggatagcg
+seq_ID          tgtgtgatggcttcaagtgcattgttatggatggccagtgtggagcctcattggatagcg
+seq_IN          tgtgtgatggcctcaagcgcactgttatggatggccagtgtggagccccattggatagcg
+seq_JP          tgcgtgatggcttcaagcgtgctgctatggatggccagtgtagagccccattggatagcg
+seq_KH          tgcgtaatggcttcaagcgtactgctatggatggccagtgtggagccccattggatagcg
+seq_MM          tgcgtgatggcttcaagcgcactgctatggatggccagtgtggagccccattggatagcg
+seq_PH          tgcgtgatggcctcaagtgcactgttatggatggccagtgtggaaccccattggatagcg
+seq_PK          tgcataatcacggccagtattctcctatggtacgcacaaatacagccacactggatagca
+seq_SG          tgtgtaatggcctcaagtgtactgttatggatggccagtgtggagccccattggatagcg
+seq_TH          tgcgtaatggcttcaagcgtactgctatggatggccagtgtagagccccattggatagcg
+seq_TW          tgcgtgatggcttcaagcgtattgctatggatggccagtgtagagccccattggatagcg
+seq_VN          tgcgtaatggcttcaagcgttctgctatggatggccagtgtggagccccattggatagcg
+                **..*.** .*  * **... .* .*****   **  . .*. *.** **.********.
+
+seq_CN          gcctccatcatactggagttcttcctgatggtgttgcttattccagagccagacagacaa
+seq_ID          gcctccatcatactggagttctttctgatggtgttgcttattccagagccagacagacag
+seq_IN          gcctccatcatactagagttctttctgatggtgctgctcattccagagccagacagacag
+seq_JP          gcttccatcatactggagttcttcctgatggtgctgcttattccagagccagatagacaa
+seq_KH          gcctccatcatactggagttcttcctgatggtgctgcttattccagagccagacagacaa
+seq_MM          gcctccatcatactggagttcttcctgatggtgctgctcattccagagccagacagacaa
+seq_PH          gcctctatcatactggagttctttctgatggtgttgcttattccagaaccggacagacag
+seq_PK          gcttcaataatactggagttttttctcatagtcttgctcattccagagccagaaaagcaa
+seq_SG          gcctccatcatactagagttttttctgatggtgctgctcattccagagccagacagacag
+seq_TH          gcctccatcatactggagttcttcctgatggtgctgcttattccagagccagacagacaa
+seq_TW          gcctccatcatactggagttcttcctgatggtgctgctcattccagagccagacagacaa
+seq_VN          gcctccatcatactggagttcttcctgatggtgctgcttattccagagccagacagacaa
+                **.** ** *****.*****.**.** **.** .****.********.**.** *..**.
+
+seq_CN          cgcactccgcaggacaaccagctggcatatgtggtgataggtttgttattcatgatactg
+seq_ID          cgcactccacaagacaaccagctagcatacgtggtgataggcttgttattcatgatattg
+seq_IN          cgcactccacaggacaaccagttagcatatgtggtgataggtttgttattcatgatactt
+seq_JP          cgcactccgcaggacaaccagctggcatatgtggtgataggtttgttattcatgatactg
+seq_KH          cgcactccgcaggacaatcagctggcatatgtggtgataggtttgttattcatgatactg
+seq_MM          cgcactccgcaggacaaccagctggcatatgtggtgataggtctgttattcatgatactg
+seq_PH          cgcactccacaagacaaccagctagcatacgtggtgataggtctattattcatgatattg
+seq_PK          agaacaccccaagataaccaattgacttacgttgtcatagccatcctcacagtggtggcc
+seq_SG          cgtactccacaggacaatcaactagcatatgtggtgataggtttgttattcatgatattg
+seq_TH          cgcactccgcaggacaatcagctggcatatgtggtgataggtttgttattcatgatactg
+seq_TW          cgcactccgcaggacaatcagctggcatatgtggtgataggtttgttattcatgatactg
+seq_VN          cgcactccgcaggacaaccagctggcatatgtggtgataggtttgttattcatgatactg
+                 * ** ** **.**.**.**..*..* **.** ** **** . * .*  . .**.*. . 
+
+seq_CN          acagtagcagccaatgagatgggactgctggaaaccacaaagaaagacttagggattggc
+seq_ID          acagtggcagccaatgagatgggattgttggaaaccacaaagaaagacctggggattggt
+seq_IN          acagtggcagccaatgagatgggattattggaaaccacaaagaaagacctggggattggc
+seq_JP          acagtagcagccaatgagatgggactgctggaaaccacaaagaaagacttagggattggc
+seq_KH          acagtagcagccaatgagatgggactgctggaaaccacaaagaaagacttagggattggc
+seq_MM          acagtagcagccaatgagatgggactgctggaaaccacaaagaaagacttagggattggc
+seq_PH          acagtggcagccaatgagatgggattactggaaaccacaaagaaggacctagggattggc
+seq_PK          gcaaccatggcaaatgagatggggttcctggaaaaaacgaagaaagatttcggactggga
+seq_SG          acagtggcagccaacgagatgggattactggaaaccacaaagaaagacctggggattggc
+seq_TH          acagtagcagccaatgagatgggactgctggaaaccacaaagaaagacttagggattggc
+seq_TW          acagtagcagccaatgagatgggactgctggaaaccacaaagaaagacttagggattggc
+seq_VN          acagtagcagccaatgagatgggactgctggaaaccacaaagaaagacttagggattggc
+                .**.. ...** **.********..* .******  **.*****.**..* **. * ** 
+
+seq_CN          catgtggctgttgaaaatcaccaccatgccgcaatgctggacgtggacttacatccagct
+seq_ID          catgcagcagctgaaaaccaccaccatgctgcaatgctggacgtggacctacatccagct
+seq_IN          catgtagccgccgaaaaccaccaccatgctacaatgctggacgtagacctgcgtccagct
+seq_JP          catgtggctgttgaaaatcaccaccatgccgcaatgctggacgtagacttacatccagct
+seq_KH          catgtggctgttggaaatcaccaccatgccgcaatgctggacgtagacttacatccagct
+seq_MM          catgtggctgttgaaaatcaccaccatgcctcaatgctggacgtagacttacacccagct
+seq_PH          catgtagctgctgaaagccaccaccatgctgcaatgctggacgtagacctacatccagct
+seq_PK          agcattgcaacccag---caacccgagagcaacatcctggacatagatctacgtcctgca
+seq_SG          catgtagtcgccgaaaaccaccaccatgccacaatgctagacatagacttacatccagct
+seq_TH          catgtggctgttggaaatcaccaccatgccgcaatgctggacgtagacttacatccagct
+seq_TW          cacgtggctgttgaaaatcaccaccatgccacaatgctggacgtagacttacatccagct
+seq_VN          catgtggctgttgaaaatcaccaccatgccgcaatgctggacgtagacttacatccagct
+                 .... *. ... ..   ** * * * . .   ** **.***.*.**..*.*..** ** 
+
+seq_CN          tcagcctggaccctctatgcagtggccacaacaattatcactcccatgatgaggcacaca
+seq_ID          tcagcctggactctctatgcagtggccacaacaattatcactcccatgatgagacacaca
+seq_IN          tcagcctggaccctctacgcagtagccacaacagttatcacccccatgatgagacacaca
+seq_JP          tcagcctggaccctttatgcagtggccacaacaattatcactcccatgatgaggcacaca
+seq_KH          tcagcctggaccctctatgcagtggccacaacaattatcactcccatgatgaggcacaca
+seq_MM          tcagcctggaccctctatgcagtggccacaacaattatcactcccatgatgaggcacaca
+seq_PH          tcagcctggaccctctacgcagtggccacaacaattatcactcccatgatgagacacaca
+seq_PK          tcagcatggaccctgtatgcagtggccacaacatttatcacaccaatgttgagacatagc
+seq_SG          tcagcctggaccctctatgcagtagccacaacaattatcactcccatgatgagacacaca
+seq_TH          tcagcctggaccctctatgcagtggccacaacaattatcactcccatgatgaggcacaca
+seq_TW          tcagcctggaccctctatgcagtggccacaacaatcattactcccatgatgaggcacaca
+seq_VN          tcagcctggaccctctatgcagtggccacaacaattatcactcccatgatgagacacaca
+                ***** *****.** **.*****.********* *.**.** ** *** ****.**.*  
+
+seq_CN          atcgaaaacacaacggcaaacatttccctgacagccattgcaaaccaggcagccatattg
+seq_ID          attgaaaacacaacggcaaatatttccctgacagctattgcaaaccaggcagctatattg
+seq_IN          attgaaaatacaacagcaaatatttccctgacggccattgcaaatcaggcagccatattg
+seq_JP          atcgaaaacacaacggcaaacatttcactgacagccattgcaaaccaggcagctatattg
+seq_KH          atcgaaaacacaacggcaaacatttccctgacagccattgcaaaccaggcagctatattg
+seq_MM          atcgaaaacacaacggcaaacatttccctgacagccattgcaaaccaggcagctatattg
+seq_PH          attgaaaacacaacggcaaacatttccctgacagctatcgcaaaccaggcagctatattg
+seq_PK          attgaaaattcctcagtgaacgtgtctctaacagccattgctaatcaagccacagtgcta
+seq_SG          attgaaaacacaacggcaaacatttccctgacagctattgcaaatcaggcggctatatta
+seq_TH          atcgaaaacacaacggcaaacatttccctgacagccattgcaaaccaggcagctatattg
+seq_TW          atcgaaaacacaacggcaaacatttccctgacagccattgcaaatcaggcagctatattg
+seq_VN          atcgaaaacacaacggcaaatatttccctgacagccattgcaaaccaggcagctatattg
+                **.*****. *  *.*..**..* ** **.**.**.**.** **.**.** .* .*..*.
+
+seq_CN          atgggacttgacaaaggatggccaatatcgaagatggacataggagttccacttctcgcc
+seq_ID          atgggacttgacaagggatggccaatatcaaagatggacataggagttccacttctcgcc
+seq_IN          atgggacttgacaagggatggccaatatcgaagatggacataggagttccacttctcgcc
+seq_JP          atgggacttgacaaaggatggccaatatcgaagatggacataggagttccacttctcgcc
+seq_KH          atgggacttgacaaaggatggccaatatcgaagatggacataggagttccacttctcgcc
+seq_MM          atgggacttgacaaaggatggccaatatcgaagatggacataggagttccacttctcgcc
+seq_PH          atgggacttgacaagggatggccaatatcaaagatggacataggagttccccttcttgcc
+seq_PK          atgggtcttgggaaaggatggccattgtcgaagatggacattggagttccccttctcgcc
+seq_SG          atgggacttgacaagggatggccaatatcgaagatggacataggagtgccacttctcgcc
+seq_TH          atgggacttgacaaaggatggccaatatcgaagatggacataggagttccacttctcgcc
+seq_TW          atgggacttgacaaaggatggccaatatcgaagatggatataggagttccacttctcgcc
+seq_VN          atgggacttgacaaaggatggccaatatcgaagatggacataggagttccacttctcgcc
+                ***** ****. **.********* *.**.********.** ***** ** *****.***
+
+seq_CN          ttggggtgctattcccaggtgaatccactgacgctgacagcggcgttgttgatgctagtg
+seq_ID          ttggggtgctactctcaggtgaacccgttgacgctgacagcggcggtattgatgctagtg
+seq_IN          ttagggtgctattcccaggtgaacccattgacactgacagcggcggtgttgatgttagtg
+seq_JP          ttggggtgctattcccaggtgaatccactgacgctgacagcggcggtattgatgctagtg
+seq_KH          ttggggtgctattcccaggtgaatccactgacgctgacagcggcggttttgatgctagtg
+seq_MM          ttggggtgctattcccaggtgaatccattgacgctgacagcggcggtattgatgctagtg
+seq_PH          ctggggtgctattctcaggtaaacccgctgacgctgacagcggcggtgttgatgctagtg
+seq_PK          atcgggtgctattcacaagtcaaccccataaccctcacagcagcccttcttttattggta
+seq_SG          ttagggtgctattcccaggtgaacccattgacactgacagcagcggtgttgatgttagtg
+seq_TH          ttggggtgctattcccaagtgaatccactgacgctgacagcggcggtattgatgctagtg
+seq_TW          ttggggtgctattcccaagtgaatccactgacgctgacagcggcggtattgatgctagtg
+seq_VN          ttggggtgctattcccaggtgaatccactgacgctgacagcggcggtattgatgctagtg
+                 * ********.** **.** **.**  *.** ** *****.**  * .*  *..*.**.
+
+seq_CN          gctcattacgccataattggacctggactgcaagcaaaagctactagagaagctcaaaaa
+seq_ID          gctcattatgccataattggacctggactgcaggcaaaagctactagagaagctcaaaaa
+seq_IN          gctcattatgccataattggaccaggactgcaagcaaaggctactagagaagctcaaaaa
+seq_JP          gctcattacgctataattggacctggactgcaagcaaaagctactagagaagctcaaaaa
+seq_KH          gctcattacgccataattggacctggactgcaagcaaaagctactagagaagctcaaaaa
+seq_MM          gctcattacgccataattggacctggactgcaagcgaaagctactagagaagctcaaaaa
+seq_PH          gctcattatgccataattggacccggactgcaagcaaaagctactagggaagctcaaaaa
+seq_PK          gcacattacgctatcatagggccaggactccaagcgaaagcatccagagaagcgcagaaa
+seq_SG          gctcattatgccataatcggacctggactgcaagcaaaagctactagagaagcccaaaaa
+seq_TH          gctcattacgccataattggacctggactgcaagcaaaagctactagagaagctcaaaaa
+seq_TW          gcccattacgctataattggacctggactgcaagcaaaagctactagagaagctcaaaaa
+seq_VN          gctcattacgccataattggacctggactgcaagcaaaagctactagagaagctcaaaaa
+                ** *****.**.** ** **.** ***** **.**.**.**  *.**.***** **.***
+
+seq_CN          aggacagcggccggaataatgaaaaatccaaccattgatggaattgttgcaatagatttg
+seq_ID          aggacagcagccggaataatgaaaaacccaactgtcgacgggatcgttgcaatagatttg
+seq_IN          aggacagcggccggaataatgaaaaatccaaccgtagacgggattgttgcaatagacttg
+seq_JP          aggacagcggccggaataatgaaaaatccaaccgttgatggaatcgttgcaatagatttg
+seq_KH          aggacagcggccggaataatgaaaaatccaaccgttgatgggattgttgcaatagatttg
+seq_MM          aggacagcggccggaataatgaaaaatccaaccgttgatggaattgttgcaatagatttg
+seq_PH          aggacagcagctggaataatgaaaaacccaactgtcgatgggatcgttgcaatagatttg
+seq_PK          agagcagcagcaggcatcatgaaaaacccaactgtggatggaataacagtgattgaccta
+seq_SG          aggactgcggccggaataatgaaaaatccaactgtagacgggattgttgcaatagatttg
+seq_TH          aggacagcggccgggataatgaaaaatccaaccgttgatgggattgttgcaatagatttg
+seq_TW          aggacagcggccggaataatgaaaaatccaactgttgatggaatcgttgcaatagatttg
+seq_VN          aggacagcggccggaataatgaaaaatccaaccgttgatggaattgttgcaatagatttg
+                **..* **.** ** ** ********.*****..* **.**.** .. *..** **..*.
+
+seq_CN          gaccctgtggtttatgatgcaaaatttgagaaacaactaggccaaataatgttgttgata
+seq_ID          gaccctgtagtttatgatgcaaaatttgaaaaacagctaggtcaaataatgttgttgata
+seq_IN          gatcctgtggtttatgatgcaaaatttgaaaaacagctaggtcaaataatgttactgata
+seq_JP          gaccctgtggtttatgatgcgaaatttgagaaacaactaggccaaataatgttgttgata
+seq_KH          gaccctgtggtttatgatgcaaaatttgaaaaacaactaggccaaataatgttgttgata
+seq_MM          gaccctgtggtttatgatgcaaaatttgagaaacaactaggccaaataatgttgttgata
+seq_PH          gaccctgtggtttacgatgcaaaatttgaaaaacagctaggccaaataatgctgttgata
+seq_PK          gatccaataccctatgacccaaaatttgagaagcagctgggacaagtaatgctcctaatc
+seq_SG          gatcctgtggtttatgatgcaaaatttgaaaaacagctaggccaaataatgttactaata
+seq_TH          gaccctgtggtttatgatgcaaaatttgagaaacaactaggccaaataatgttgttgata
+seq_TW          gaccctgtggtttatgatgcgaaatttgagaaacaactaggccaaataatgttgttgata
+seq_VN          gaccctgtggtttatgatgcaaaatttgaaaaacaactaggccaaataatgttgttgata
+                **.** .*. ..**.**. *.********.**.**.**.** ***.*****.* .*.** 
+
+seq_CN          ctatgcacatcacagatcctcttgatgcggactacatgggccctgtgcgaatccatcaca
+seq_ID          ctttgcacatcacaaattctcctaatgcggaccacatgggccttgtgtgaatccatcaca
+seq_IN          ctttgtacatcacagattctcttgatgcggaccacatgggccttgtgtgaatccatcaca
+seq_JP          ctatgcacatcacagatcctcttgatgcggactacatgggccttgtgcgaatccatcaca
+seq_KH          ctatgcacatcacagatcctcttgatgcggactacatgggccttgtgcgaatccatcaca
+seq_MM          ctatgcacatcacagatcctcttgatgcggactacatgggccttgtgcgaatccatcaca
+seq_PH          ctttgcacatcacagattcttctgatgcggaccacatgggccttgtgtgaatccatcaca
+seq_PK          ctctgcgtgactcaagtactgatgatgaggactacatgggctttgtgcgaggctctaacc
+seq_SG          ctctgcacatcacagattctcttgatgcggactacatgggccttatgtgaatctatcaca
+seq_TH          ctatgcacatcacagatcctcttgatgcggactacatgggccttgtgcgaatccatcaca
+seq_TW          ctatgcacatcacagatcctcttgatgcggaccacatgggccttgtgcgaatccatcaca
+seq_VN          ctatgcacatcacagatcctcttgatgcggactacatgggccttgtgcgagtccatcaca
+                ** **.... * **..* **  *.*** ****.********..*.**.**. *. * ** 
+
+seq_CN          ctggccactggacctctgaccacgctttgggagggatctccaggaaaattttggaacacc
+seq_ID          ttggccactggacctctgaccacgctttgggagggatctccaggaaaattctggaatacc
+seq_IN          ctggctactggacccttgaccactctctgggaggggtctccaggaaaattttggaatact
+seq_JP          ctggccactggacctctgaccacgctctgggagggatctccaggaaaattttggaatacc
+seq_KH          ctggccactggacctctgaccacgctttgggagggatctccaggaaaattttggaacacc
+seq_MM          ctggctactggacctctgaccacgctttgggagggatctccaggaaaattttggaacacc
+seq_PH          ctagccactggacctctgactacactctgggagggatctccaggaaaattctggaacacc
+seq_PK          ttagcgaccgggcccatctccacattgtgggaaggaaatccagggagattctggaataca
+seq_SG          ctggctactggacccttgaccactctctgggagggatctcctggaagattctggaatacc
+seq_TH          ctggccactggacctctgaccacgctttgggagggatctccaggaaaattttggaacacc
+seq_TW          ctggccactggacctctgaccacgctctgggagggatctccaggaaaattttggaacacc
+seq_VN          ctggccactggacctctgaccacgctttgggagggatctccaggaaaattttggaacacc
+                .*.** **.**.**. *  *.** .* *****.**.  *** **.*.***.*****.** 
+
+seq_CN          acgatagcggtttccatggcaaacattttcagaggaagttatctagcaggagcaggtctg
+seq_ID          accatagcggtgtccatggcaaacattttcaggggaagttatctagcaggagcaggtctg
+seq_IN          acgatagcagtgtccatggcaaacatcttcagaggaagttatctagcaggagcaggtctg
+seq_JP          acgatagcggtttccatggcaaacattttcagaggaagttatctagcaggagcaggtctg
+seq_KH          acgatagcggtttccatggcaaacattttcagaggaagttatctagcaggagcaggtctg
+seq_MM          acgatagcggtttccatggcaaacattttcagaggaagttatctagcaggagcaggtctg
+seq_PH          acgatagcggtgtccatggcaaacatttttaggggaagctatctagcaggagcaggtctg
+seq_PK          accattgcagtgtcaatggctaacatttttagaggaagttacctagctggagctggactt
+seq_SG          acgatagcagtgtccatggcaaacatcttcaggggaagttatttagcaggagcaggtctg
+seq_TH          acgatagcggtttccatggcaaacattttcagaggaagttatctagcaggagcaggtctg
+seq_TW          acgatagcagtttccatggcaaacattttcagaggaagttatctagcaggagcaggtctg
+seq_VN          acgatagcggtttccatggcaaacattttcagaggaagttatctagcaggagcaggtctg
+                ** ** **.** ** ***** *****.**.**.*****.**..**** ***** ** ** 
+
+seq_CN          gccttctcattaatgaaatctctaggaggaggtaggagaggcacgggagcccaaggggaa
+seq_ID          gccttttcattgatgaaatctctaggaggaggtaggagaggcacaggagcccaaggagaa
+seq_IN          gccttctcattgatgaaatctttaggaggaagtaggagaggtacgggagctcaaggggaa
+seq_JP          gccttctcattaatgaaatctctaggaggaggtaggagaggcacgggagcccaaggggaa
+seq_KH          gccttctcattaatgaaatctctaggaggaggtaggagaggcacgggagcccaaggggaa
+seq_MM          gccttctcattaatgaaatctctaggaggaggtaggagaggcacgggagcccaaggggaa
+seq_PH          gctttttcattaatgaaatctctaggaggaggtaggagaggcacgggagcccaaggggaa
+seq_PK          ctcttttccatcatgaagaacacaaccaacacaagaaggggaactggcaacacaggagag
+seq_SG          gccttctcattaatgaaatctttaggaggaggtaggagaggtacgggagctcaaggggaa
+seq_TH          gccttctcattaatgaaatctctaggaggaggtaggagaggcacgggagcccaaggggaa
+seq_TW          gccttctcattaatgaaatctctaggaggaggtaggagaggcacgggagcccaaggggaa
+seq_VN          gccttctcattaatgaaatctctaggaggaggtaggagaggcacgggagcccaaggggaa
+                 ..**.**  * *****.  . .*.  .. .  **.**.** ** ** . .  ***.**.
+
+seq_CN          acactgggagagaaatggaaaagacagctgaaccaactgagcaagtcagaattcaacacc
+seq_ID          acgctgggagaaaaatggaaaagacagctaaaccaattgagcaaatcagaatttaatatt
+seq_IN          acactgggagaaaaatggaaaagacagctaaaccaactgagcaagtcagaatttaacacc
+seq_JP          acactgggagagaaatggaaaagacagctgaaccaactgagtaagtcagaattcaacacc
+seq_KH          acactgggagagaaatggaaaagacagctgaaccaactgagcaagtcagaatttaacacc
+seq_MM          acactgggagagaaatggaaaagacagctgaaccaactgagcaagtcagaattcaacacc
+seq_PH          acactgggagaaaaatggaaaagacagctaaaccaattgagcaagtcagaattcaacact
+seq_PK          acgcttggagagaaatggaaaaaccgagtgtcattgttggggaagagtgaattccagatt
+seq_SG          acattgggagaaaaatggaaaagacaactaaaccaactgagcaagtcagaatttaacact
+seq_TH          acactgggagagaaatggaaaagacagctgaaccaactgagcaagtcagaatttaacacc
+seq_TW          acactgggagagaaatggaaaagacagctgaaccaactgagcaagtcagaattcaacacc
+seq_VN          acactgggagagaaatggaaaagacagctgaaccaactgagcaagtcagaatttaacacc
+                **..* *****.**********. *.. *.   . ..**.* **.   *****. * *..
+
+seq_CN          tataaaaggagtgggattatggaagtggacagatccgaagccaaagagggactgaaaaga
+seq_ID          tacaaaaggagtgggattatggaggtggatagatctgaagccaaagaggggttgaaaaga
+seq_IN          tataaaaggagcgggattatggaggtggacagatccgaagccaaagagggattgaaaaga
+seq_JP          tataaaaggagtgggattatggaagtggacagatccgaagccaaagagggactgaaaaga
+seq_KH          tacaaaaggagtgggattatggaagtggacagatccgaagccaaagagggattgaaaaga
+seq_MM          tataaaaggagtgggattatggaagtggacagatccgaagccaaagagggactaaaaaga
+seq_PH          tacaaaaggagtgggatcatggaggtggatagatctgaagccaaagaggggttaaaaaga
+seq_PK          tacaagagaagcggaattcaggaagtggatagaaccttggcaaaagaaggcattaaaaga
+seq_SG          tacaaaaggagtggaattatggaggtggacagatctgaagccaaggagggactgaaaaga
+seq_TH          tataaaaggagtgggattatggaagtggacagatccgaagcaaaagagggattgaaaaga
+seq_TW          tataaaaggagtgggatcatggaagtggacagatccgaagccaaagagggactgaaaaga
+seq_VN          tataaaaggagtgggattatggaagtggacagatccgaagccaaagagggattgaaaaga
+                **.**.**.**.**.**.  ***.*****.*** *.  .** **.**.**  * ******
+
+seq_CN          ggagaaacaaccaaacatgcagtgtcgagaggaaccgctaaactgaggtggtttgtggag
+seq_ID          ggagaaacaaccaaacatgcagtgtcgagaggaacggccaaattgaggtggtttgtggag
+seq_IN          ggagaaacaaccaaacatgcagtgtcgagaggaacagccaaactgaggtggtttgtggag
+seq_JP          ggagaaacaaccaaacatgcagtgtcgagaggaaccgctaaattgaggtggtttgtggag
+seq_KH          ggagaaacaaccaaacatgcagtgtcgagaggaaccgctaaactgagatggtttgtggag
+seq_MM          ggagaaacaaccaaacatgcagtgtcgagaggaaccgctaaattgaggtggtttgtggag
+seq_PH          ggagaaacgactaaacacgcagtgtcgagaggaacggccaaactgaggtggtttgtagag
+seq_PK          ggagaaacggaccatcatgctgtgtcgcgaggctcagcaaagctgagatggttcgtcgag
+seq_SG          ggagaaacaaccaaacatgcagtgtcgagaggaacagccaaacttaggtggtttgtggag
+seq_TH          ggagaaacaaccaaacatgcagtgtcgagaggaaccgctaaactgagatggtttgtggag
+seq_TW          ggagaaacaaccaaacatgcagtgtcgagaggaaccgctaaattgaggtggtttgtggag
+seq_VN          ggagaaacaaccaaacatgcagtgtcgagaggaaccgctaaactgaggtggtttgtggag
+                ********.. . * **.** ****** ****  * ** **..* **.*****.** ***
+
+seq_CN          aggaaccttgtgaaaccagaagggaaagtcatagacctcggttgtggaagaggtggctgg
+seq_ID          aggaaccttgtgaaaccagaaggtaaagtcattgacctcggttgtggaagaggtggctgg
+seq_IN          aggaacctcgtgaaaccagaagggaaagtcatagacctcggttgtggaagaggtggctgg
+seq_JP          aggaaccttgtgaaaccagaagggaaagtcatagacctcggttgtggaagaggtggctgg
+seq_KH          aggaaccttgtgaaaccagaagggaaagtcatagacctcggctgtggaagaggtggctgg
+seq_MM          aggaaccttgtgaaaccagaagggaaagtcatagacctcggttgtggaagaggtggctgg
+seq_PH          aggaaccttgtgaaaccagaagggaaagtcatagacctcggttgtggaagaggtggctgg
+seq_PK          agaaacctggttacaccagaggggaaagtagtggacctcggttgcggtagagggggctgg
+seq_SG          aggaaccttgtgaaaccagaagggaaagtgatagacctcggttgtggaagaggtggctgg
+seq_TH          aggaaccttgtcaaaccagaagggaaagtcatagacctcggctgtggaagaggtggctgg
+seq_TW          aggaaccttgtgaaaccagaagggaaagtcatagacctcggttgtggaagaggtggctgg
+seq_VN          aggaaccttgtgaaaccagaagggaaagtcatagacctcggttgtggaagaggtggctgg
+                **.***** ** * ******.** ***** .* ********.**.** ***** ******
+
+seq_CN          tcatactattgcgctgggctgaagaaagtcacagaagtgaagggatatactaaaggagga
+seq_ID          tcatattactgcgctgggctgaagaaagtcacagaagtgaaaggatacacgaaaggagga
+seq_IN          tcatattattgcgctgggctgaagaaagtcactgaagtgaagggatatacaaaaggagga
+seq_JP          tcatactattgcgctgggctgaagaaagttacagaagtgaagggatacacaaaaggagga
+seq_KH          tcatactattgcgctgggctgaagaaagtcacagaagtgaagggatatacaaaaggggga
+seq_MM          tcatactattgcgctgggctgaagaaagtcacagaagtgaagggatatacaaaaggagga
+seq_PH          tcatattattgcgctgggctgaagaaagtcacagaagtgaaaggatatacgaaaggagga
+seq_PK          tcatactattgtgggggtctaaagaatgtaagagaagtcaaaggcctaacaaaaggagga
+seq_SG          tcatattactgcgctgggctgaagaaggtcacagaagtgaagggatacacaaaaggagga
+seq_TH          tcatactattgcgctgggctgaagaaagtcacagaagtgaagggatatacaaaaggggga
+seq_TW          tcatactattgcgctgggctgaagaaagtcacagaggtgaagggatacacaaaaggagga
+seq_VN          tcatactattgcgctgggctgaagaaagtcacagaagtgaagggatatacaaaaggagga
+                *****.**.**.*  ** **.***** ** *  **.** **.** .  ** *****.***
+
+seq_CN          cctggacatgaggaaccaatcccaatggcgacctatggatggaacctagtaaaactgcac
+seq_ID          cctggacatgaggaaccagtcccaatggcaacctatggatggaacctagtaaagctacac
+seq_IN          cctggacatgaggagcccatcccaatggcgacctatggatggaacctagtaaagctacac
+seq_JP          cctggacatgaagaaccagtcccaatggcgacctatggatggaacctagtaaagctgcac
+seq_KH          cctggacatgaggaaccaatcccaatggcgacctatggatggaacctagtaaagctgcac
+seq_MM          cctggacatgaagaaccaatcccaatggcgacctatggatggaacctagtaaagctgcac
+seq_PH          cctgggcatgaggaaccaattccaatggcaacctatggatggaacctagtaaaactatac
+seq_PK          ccaggacacgaagaacccattcccatgtcaacatatgggtggaatcttgtgcgtctccta
+seq_SG          cccggtcatgaggaacctatcccaatggcgacttatggatggaacatagtgaagctacac
+seq_TH          cctggacatgaggaaccaatcccaatggcgacctatggatggaacctagtaaagctgcac
+seq_TW          cctggacacgaagaaccaatcccaatggcgacctatggatggaacctagtaaagctgtac
+seq_VN          cctggacatgaggaaccaatcccaatggcgacctatggatggaacctagtaaagctgcac
+                ** ** **.**.**.** .*.** *** *.** *****.*****. * **. . ** .  
+
+seq_CN          tccgggaaagacgtattctttataccacctgagaaatgtgatacccttttgtgtgatatt
+seq_ID          tccgggaaggatgtattctttacaccacctgagaaatgtgacacccttttgtgtgatatc
+seq_IN          tctggaaaagatgtgttcttcataccgcctgaaaaatgtgacaccctcttgtgtgatatc
+seq_JP          tccgggaaagacgtattctttataccacctgagaaatgtgacaccctcttgtgtgatatc
+seq_KH          tctgggaaagacgtattctttataccacctgagaaatgtgacacccttttgtgtgatatt
+seq_MM          tccgggaaagacgtattctttataccacctgagaaatgtgacacccttttatgtgatatt
+seq_PH          tccgggaaggatgtattctttacaccacctgagaaatgtgacaccctcttgtgcgacatt
+seq_PK          actggagctgatgttttctttactccaccagaaaaatgtgacacattgttgtgtgatata
+seq_SG          tctggaagggatgtattctttacaccacctgagaaatgcgacacccttttgtgtgatatt
+seq_TH          tctgggaaagacgtattctttataccacctgagaaatgtgacacccttttgtgtgatatt
+seq_TW          tccgggaaagacgtattctttataccacctgagaaatgtgacaccctcttgtgtgatatt
+seq_VN          tctgggaaagacgtattctttataccacctgagaaatgtgacacccttttgtgtgatatt
+                 *.**..  **.** *****.*. **.** **.*****.**.** .* **.**.**.** 
+
+seq_CN          ggtgagtcctctccaaacccaactatagaggaaggaagaacgctacgcgttctaaagatg
+seq_ID          ggtgagtcctctccgaacccaaccatagaagaaggaagaacgttacgtgttctaaagatg
+seq_IN          ggtgagtcctctccgaatccaactatagaagaaggaagaacgttacgtgtcctaaagatg
+seq_JP          ggtgagtcctctccaaacccaactatagaggaaggaagaacgctacgcgtcctaaagatg
+seq_KH          ggtgagtcctctccaaacccaactatagaggaaggaagaacgctacgcgtcctaaagatg
+seq_MM          ggtgagtcctctccaaacccaactatagaggaaggaagaacgctacgcgtcctaaagatg
+seq_PH          ggtgagtcctctccgaacccaaccatagaagaaggaagaacgttacgtgtcctaaagatg
+seq_PK          ggggagtcgtcaccaaatcccacggttgaagctggacgaacactcagagtcctaaacttg
+seq_SG          ggtgagtcctctccgaatccaactatagaagaaggaagaacgttacgtgttctaaagatg
+seq_TH          ggtgagtcctccccaaacccaactatagaggaaggaagaacgctacgcgtcctaaagatg
+seq_TW          ggtgagtcctctccaaacccaactatagaggaaggaagaacgctacgcgtcctaaagatg
+seq_VN          ggtgagtcctctccaaacccaactatagaggaaggaagaacgctacgcgtcctaaagatg
+                ** ***** ** **.**.** ** .* **.*  *** ****..*  * **.*****  **
+
+seq_CN          gtggaaccatggct---cagaggaaaccaattttgcataaaaattctgaatccctacatg
+seq_ID          gtggaaccatggct---cagaggaaaccaattttgcataaaaattctaaatccctatatg
+seq_IN          gtggaaccatggct---cagaggaaaccaattctgcataaaaatcttaaatccttacatg
+seq_JP          gtggaaccatggct---tagaggaaaccaattttgcataaaaattctgaatccctacatg
+seq_KH          gtggaaccatggct---cagaggaaaccaattttgcataaaaattctgaatccctacatg
+seq_MM          gtggaaccatggct---tagaggaaaccaattttgcataaaaattctgaatccctacatg
+seq_PH          gtggaaccatggct---cagaggaaaccaattctgcataaaagttctaaatccctacatg
+seq_PK          gtagaaaattggctgaacaacaacacccaattttgtataaaggttcttaacccatacatg
+seq_SG          gtggaaccatggct---cagaggaaatcagttttgcataaaaatcctaaatccttacatg
+seq_TH          gtggaaccatggct---cagaggaaaccaattttgcataaagattctgaatccctacatg
+seq_TW          gtggaaccatggct---cagaggaaaccaattttgcataaaaattttgaatccctacatg
+seq_VN          gtggaaccatggct---cagaggaaaccaattttgcataaaaattctgaatccctacatg
+                **.***   *****   .*. .. * .**.**.**.*****..*..* **.** **.***
+
+seq_CN          ccaagtgtggtggaaactctggagcaaatgcaaagaaaacatggaggaatgctagtgcga
+seq_ID          ccgagtgtggtagaaactctggagcaaatgcaaagaaaacatggaggaatgctagtgcga
+seq_IN          ccaagtgtggtagaaactctggagcaaatgcaaagaaaacatggagggatgctagtgcga
+seq_JP          cccagtgtggtggaaactctggagcaaatgcaaagaaaacatggaggaatgctggtgcga
+seq_KH          ccaagtgtggtggaaactctggagcaaatgcaaagaaaacatggaggaatgctagtgcga
+seq_MM          ccaagtgtggtggaaactctggagcaaatgcaaagaaaacatggaggaatgctagtgcga
+seq_PH          ccgagcgtggtagaaactttggagcaaatgcaaagaaaacatggaggaatgctagtgcga
+seq_PK          ccctcagtcatagaaaaaatggaaacgctgcaaaggaaatacggaggagctttggtgagg
+seq_SG          ccaagtgtggtagaaactctggagcaaatgcaaagaaaacatggagggatgctagtgcga
+seq_TH          ccaagtgtggtggaaactctggagcaaatgcaaagaaaacatggaggaatgctagtgcga
+seq_TW          ccaagtgtggtggaaactctggagcaaatgcaaagaaaacatggaggaatgctagtgcga
+seq_VN          ccaagtgtggtggaaactctggagcaaatgcaaagaaaacatggaggaatgctagtgcga
+                **    ** .*.****   ****.  . *******.***.*.*****... .*.*** *.
+
+seq_CN          aatccactttcaagaaattctactcatgaaatgtattgggtttcatgtggaacaggaaac
+seq_ID          aatccactctcaagaaactccactcatgaaatgtactgggtttcatgtggaacaggaaac
+seq_IN          aacccactttcaagaaattccacccatgaaatgtactgggtttcatgtggaacaggaaac
+seq_JP          aatccactctcaagaaattctactcatgaaatgtattgggtttcatgtggaacaggaaac
+seq_KH          aatccactttcaagaaattctactcatgaaatgtactgggtttcatgtggaacaggaaac
+seq_MM          aatccactttcaagaaattctactcatgaaatgtactgggtttcatgtggaacaggaaac
+seq_PH          aatccactctcaagaaactccactcatgaaatgtattgggtttcatgtggaacaggaaac
+seq_PK          aatcccctctcaagaaattccacacatgagatgtattgggtatccaatgcttccgggaac
+seq_SG          aacccactctcaagaaattctacccatgaaatgtactgggtttcatgtggaacaggaaac
+seq_TH          aatccactttcaagaaattctactcatgaaatgtactgggtttcatgtggaacaggaaac
+seq_TW          aatccactttcaagaaattctactcacgaaatgtactgggtttcatgtggaacaggaaac
+seq_VN          aatccactttcaagaaattctactcatgaaatgtattgggtttcatgtggaacaggaaac
+                **.** **.********.**.** **.**.*****.***** **  .**   * **.***
+
+seq_CN          attgtgtcagcagtaaacatgacatccagaatgttgctaaatcgattcacaatggctcac
+seq_ID          attgtgtcagcagtaaacatgacatccagaatgctgctaaatcgattcacaatggctcac
+seq_IN          attgtgtcagcagtgaacatgacatccagaatgttactgaaccgattcacaatggcccac
+seq_JP          attgtgtcagcaataaacatgacatccagaatgttgctaaatcgattcacaatggctcac
+seq_KH          attgtgtcagcagtaaacatgacatctagaatgttgctaaatcgattcacaatggctcac
+seq_MM          attgtgtcagcagtaaacatgacatccagaatgttgttaaatcgattcacaatggctcac
+seq_PH          attgtgtcagcagtaaacatgacatctagaatgctgctaaaccgattcacaatgactcac
+seq_PK          atagtgtcatcagtgaacatgatttcaaggatgttgatcaatagatttacaatgagacat
+seq_SG          attgtgtcggcagtgaacatgacatccagaatgttgctgaatcggttcacaatggctcac
+seq_TH          attgtgtcagcagtaaacatgacatctagaatgttgctaaatcgattcacaatggctcac
+seq_TW          attgtgtcagcagtaaacatgacatccagaatgttgctaaatcgattcacaatggctcat
+seq_VN          attgtgtcagcagtaaacatgacatctagaatgttgctaaatcgattcacaatggctcac
+                ** *****. **.*.*******. ** **.***.*. * **. *.**.******.  **.
+
+seq_CN          aggaaaccaacatatgaaagagacgtggacctaggcgccggaacaagacatgtggcagtg
+seq_ID          aggaagccaacatatgaaaaagatgtggacttaggcgctggaacaagacatgtggcagtg
+seq_IN          aggaagccaacatatgaaagagacgtggacctaggcgctggaacaagacatgtggcagtg
+seq_JP          aggaaaccaacatatgaaagagacgtggacctaggcgccggaacaagacatgttgcagtg
+seq_KH          aggaaaccaacatatgaaagagatgtggacctaggcgccggaacaagacatgtggcagtg
+seq_MM          aggaaaccaacatatgaaagagatgtggacctaggcgccggaacaagacatgtggcagtg
+seq_PH          aggaagccaacatatgaaaaagacgtggacttaggcgctggaacaagacatgtggcagta
+seq_PK          aagaaggccacatacgacccagatgttgacctcggaagcggaacccgcaacatcggaatc
+seq_SG          aggaagccaacgtatgaaagagacgtggacttgggcgctggaacaagacatgtggcagtg
+seq_TH          aggaaaccaacatatgaaagagatgtggacctaggcgccggaacaagacatgtggcagtg
+seq_TW          aggaaaccaacatatgaaaaagacgtggacctaggcgccggaacaagacatgtggcagta
+seq_VN          aggaaaccaacatatgaaagagacgtggacctaggcgccggaacaagacatgtggcagtg
+                *.***. * **.**.**   ***.** ***.* ** . .*****  *  *..* * *.* 
+
+seq_CN          gaaccagaggtagccaacctagatatcattggccagaggatagagaacataaaacatgaa
+seq_ID          gaaccagaggtggccaacctagatatcattggccagaggatagagaatataaaaaatgag
+seq_IN          gaaccagaggtagccaacctagatatcattggccagaggatagagaatataaaaaatgaa
+seq_JP          gaaccagaggtagccaacctagatatcattggccagaggatagagaacataaaatgtgaa
+seq_KH          gaaccagaggtagctaacctagatatcattggccagaggatagagaacataaaacatgaa
+seq_MM          gaaccagaggtagccaacctagatatcattggtcagaggatagagaacataaaacatgaa
+seq_PH          gaaccagaggtggccaacctagatatcattggccagaggatagaaaatataaaaaatgaa
+seq_PK          gaaagtgaaacaccaaacctagacataattgggaaaagaatagaaaaaataaaacaagag
+seq_SG          gaaccagagatagccaacctagacattattggccagaggatagagaacataaaaaatgaa
+seq_TH          gaaccagaggtagctaacctagatatcattggccagaggatagagaacataaaacatgaa
+seq_TW          gaaccagaggtagctaacctagatatcattggccagaggatagagaacataaaacatgaa
+seq_VN          gaaccagaggtagccaacctagatatcattggccagaggatagagaacataaaacatgaa
+                ***   **.... * ********.** *****  *.**.*****.** ****** . **.
+
+seq_CN          cataagtcaacatggcattatgatgaggacaatccatataaaacatgggcctatcatgga
+seq_ID          cacaaatcaacatggcattacgatgaggacaatccatacaaaacatgggcctatcatgga
+seq_IN          cacaagtcaacatggcactatgatgaagacaatccatacaaaacatgggcctatcatgga
+seq_JP          cacaagtcaacatggcattatgatgaggacaatccttataaaacatgggcctatcatgga
+seq_KH          cataagtcaacatggcattatgatgaggacaatccatataaaacatgggcctatcatgga
+seq_MM          cataagtcaacatggcattatgatgaggacaatccatataaaacatgggcctatcatgga
+seq_PH          cacaaatcaacatggcattatgatgaggataatccatacaaaacatgggcctatcatgga
+seq_PK          catgagacatcacggcactatgaccaagaccacccatataaaacttgggcctaccatggc
+seq_SG          cataagtcaacatggcattatgatgaggacaatccatacaaaacatgggcctatcatgga
+seq_TH          cataagtcaacatggtattatgatgaggacaatccatataaaacatgggcctatcatgga
+seq_TW          cacaagtcaacatggcattatgatgaggacaatccatataaaacatgggcctatcatgga
+seq_VN          cataagtcaacatggcattatgatgaggacaatccatataaaacatgggcctatcatgga
+                **..*. ** **.**.*.**.**. *.**. *.** **.***** ********.***** 
+
+seq_CN          tcatatgaggtcaagccatcaggatcagcctcatccatggtcaatggcgtggtgaaactg
+seq_ID          tcatatgaggtcaagccatcaggatcagcctcatccatggtcaatggtgtggtgagactg
+seq_IN          tcatatgaggtcaagccatcaggatcagcctcatccatggtgaatggcgtggtgagattg
+seq_JP          tcatatgaggtcaagccatcaggatcagcctcatccatggtcaatggtgtggtgaaactg
+seq_KH          tcatatgaggtcaagccatcaggatcagcctcatccatggtcaatggcgtggtgaaactg
+seq_MM          tcatatgaggtcaagccatcaggatcagcttcatccatggtcaatggcgtggtgaaactg
+seq_PH          tcatatgaagtcaagccatcaggatcagcttcatccatggttaatggtgtggtgagactg
+seq_PK          agctacgaaacaaaacagactggatcagcatcatccacggtgaatggagtagttagactg
+seq_SG          tcatatgaggtcaagccatcagggtcagcctcatccatggtgaatggcgtggtgagattg
+seq_TH          tcatatgaggtcaagccatcaggatcagcctcatccatggtcaatggcgtggtgaaactg
+seq_TW          tcatatgaggtcaaaccatcaggatcagcctcatccatggtcaatggtgtggtgaaactg
+seq_VN          tcatatgaggtcaagccatcaggatcagcctcatccatggtcaatggcgtggtgaaactg
+                   **.**... **.* . * **.***** *******.*** ***** **.** *.*.**
+
+seq_CN          ctcaccaaaccatgggatgtcatccccatggtcacacaaatagccatgactgacactaca
+seq_ID          ctaaccaaaccatgggatgtcattcccatggtcacacaaatagccatgactgataccaca
+seq_IN          ctcaccaaaccatgggatgttatccccatggtcacacaaatagccatgactgataccaca
+seq_JP          ctcaccaaaccatgggatgtcatccccatggtcacacaaatagccatgactgacactaca
+seq_KH          ctcaccaagccatgggatgtcatccccatggttacacaaatagccatgactgacactaca
+seq_MM          ctcaccaaaccatgggatgtcatccccatggtcacacaaatagccatgactgacactaca
+seq_PH          ctgaccaaaccatgggatgtcatccccatggtcacacaaatagccatgactgacactaca
+seq_PK          ctgacaaaaccttgggacgtcatccctatggtgacacagatggcaatgacagacacgacc
+seq_SG          ctcaccaagccatgggatgttatccccatggtcacacaaatagctatgactgataccaca
+seq_TH          ctcaccaagccatgggatgtcatccccatggttacacaaatagccatgactgacactaca
+seq_TW          ctcaccaaaccatgggatgtcatccccatggtcacacaaatagccatgactgacactaca
+seq_VN          ctcaccaaaccatgggatgtcatccctatggtcacacaaatagccatgactgacactaca
+                ** ** **.** *****.**.**.**.***** *****.**.** ***** **.** ** 
+
+seq_CN          ccctttggacaacagagggtgtttaaagagaaagttgacacacgcacaccaaaagcaaaa
+seq_ID          ccctttggacaacagagggtgtttaaagagaaagttgacacacgcacaccaaaagcgaaa
+seq_IN          ccattcggacaacagagggtgtttaaagagaaagttgacacacgcacaccaagagcaaaa
+seq_JP          ccctttggacaacagagggtgtttaaagagaaagttgacacacgcacaccaaaagcaaaa
+seq_KH          ccctttggacaacagagggtgtttaaagagaaagttgacacacgcacaccaaaagcaaaa
+seq_MM          ccctttggacaacagagggtgtttaaagagaaagttgacacacgcacaccaaaagcaaaa
+seq_PH          ccttttggacaacagagggtgttcaaagagaaagttgacacgcgcacaccaaaagcgaaa
+seq_PK          ccatttggacaacagcgtgttttcaaagagaaagtggacacgagaacccaagaaccgaaa
+seq_SG          cccttcggacaacagagggttttcaaagagaaagttgacacacgcacaccaagaccaaaa
+seq_TH          ccctttggacaacagagggtgtttaaagagaaagttgacacacgcacaccaaaagcaaaa
+seq_TW          ccctttggacaacagagggtatttaaagagaaagttgacacacgcacaccaaaagcaaaa
+seq_VN          ccctttggacaacagagggtgtttaaagagaaagttgacacacgcacaccaaaagcaaaa
+                ** **.********* * ** **.*********** *****. * ** * *..* *.***
+
+seq_CN          cgaggcacagcacaaatcatggaggtgacagccaggtggttatggggttttctttctaga
+seq_ID          cgaggcacagcacaaattatggaggtaacagccaagtggttgtggggttttctctctaga
+seq_IN          cgaggcacagcacaaattatggaggtgacagccaagtggttatggggtttcctttccaga
+seq_JP          cgaggcacagcacaaatcatggaggtgacagccaggtggttatggggttttctttctaga
+seq_KH          cgaggcacagcacaaatcatggaggtgacagccaagtggttatggggttttctttctaga
+seq_MM          cgaggcacagcacaaatcatggaggtgacagccaggtggttatggggttttctttctaga
+seq_PH          cgaggcacagcacaaattatggaagtgacagctaggtggttatgggggtttctctctaga
+seq_PK          gaaggcacgaagaaactaatgaaaatcacggccgaatggctctggaaagaactagggaag
+seq_SG          cgaggcacagcacaaattatggaggtgacagccaagtggttgtggggattcctctctaga
+seq_TH          cgaggcacagcacaaatcatggaggtgacagccaagtggttatggggttttctttctaga
+seq_TW          cgaggcacagcacaaatcatggaggtgacagccaggtggttatggggttttctttctagg
+seq_VN          cggggcacagcacaaatcatggaggtgacagccaagtggttatggggttttctttctaga
+                 ..*****.. . ** * ***.*..* **.**....***.* ***..    **    *..
+
+seq_CN          aacaagaaaccaagaatttgtacaagagaggagttcacaagaaaagttaggtcaaacgca
+seq_ID          aacaaaaaacccagaatctgcacaagagaggagttcacaagaaaagtcagatcaaacgca
+seq_IN          aacaaaaaacccagaatctgcacaagagaggagttcacaagaaaagttaggtcaaacgca
+seq_JP          aacaagaagccaagaatttgtacaagagaggagttcacaagaaaagttaggtcaaacgca
+seq_KH          aacaagaaaccaagaatttgcacaagagaggagttcacaagaaaagttaggtcaaacgca
+seq_MM          aacaagaaaccaagaatttgtacaagagaggagttcacaagaaaagttaggtcaaacgca
+seq_PH          aacaaaaaacccagaatctgcacaagagaggagttcacaagaaaagttaggtcaaacgca
+seq_PK          aaaaagacacctagaatgtgcactagagaagaattcgcaagaaaggtgagaagcaatgca
+seq_SG          aataaaaaacccagaatctgcacaagagaggagttcacaagaaaagttaggtcaaacgca
+seq_TH          aacaagaaaccaagaatttgcacaagagaggagttcacaagaaaagttaggtcaaacgca
+seq_TW          aacaagaagccaagaatttgtacaagagaggagttcacaagaaaagttaggtcaaacgca
+seq_VN          aacaagaaaccaagaatttgcacaagagaggagttcacaagaaaagttaggtcaaacgca
+                ** **.* .** ***** **.** *****.**.***.*******.** **.   **.***
+
+seq_CN          gccattggagcagtgttcgttgatgaaaatcaatggaactcagcaaaagaagcagtggaa
+seq_ID          gctattggagcagtgttcgttgatgaaaatcaatggaactcagcaaaagaggcagtggaa
+seq_IN          gcaataggagctgtgttcgttgatgaaaaccaatggaactcagcaaaagaagcagtggaa
+seq_JP          gccattggagcagtgttcgttgacgaaaatcaatggaactcagcaaaagaagcagtggaa
+seq_KH          gccattggagcagtgttcgttgatgaaaatcaatggaactcagcaaaagaagcagtggaa
+seq_MM          gccattggagcagtgttcgttgatgaaaaccaatggaactcagcaaaagaagcagtggaa
+seq_PH          gctattggagcagtgttcgttgatgaaaatcaatggaactcagcaaaagaggcagtggag
+seq_PK          gccctaggtgccatattcactgatgagaacaagtggaagtcggcacgtgaggctgttgaa
+seq_SG          gcaattggagcagtgtttgttgatgaaaaccaatggaactcagcaaaagaagcagtggaa
+seq_TH          gccattggagcagtgttcgttgatgaaaatcaatggaactcagcaaaagaagcagtggaa
+seq_TW          gccatcggagcagtgttcattgacgaaaatcaatggaactcagcaaaagaagcagtggaa
+seq_VN          gccattggagcagtgttcgttgatgaaaatcaatggaactcagcaaaagaagcagtggaa
+                **  * ** ** .*.**...***.**.**. *.***** **.*** . **.** ** **.
+
+seq_CN          gatgaccggttctgggaccttgtgcacagagagagggagcttcacaaacagggaaaatgt
+seq_ID          gatgaacgattctgggaccttgtgcacagagagagggagcttcataaacaaggaaaatgt
+seq_IN          gacgaaaggttttgggatctcgtgcacagagagagggagctccataaacagggaaaatgt
+seq_JP          gatgagcggttctgggaccttgtgcacagagagagggagcttcacaaacagggaaaatgt
+seq_KH          gatgagcggttctgggaccttgtgcataaagaaagggagcttcacaaacagggaaaatgt
+seq_MM          gatgagcggttctgggaccttgtgcacagagagagggagcttcacaaacagggaaaatgt
+seq_PH          gatgaacggttctgggaccttgtgcacagagagagggagcttcataaacaaggaaaatgt
+seq_PK          gacagtagattttgggaactagttgacaaggaaaggaatctccatcttgaaggaaagtgt
+seq_SG          gacgaaaggttttgggacctcgtgcacagagagagggagcttcataaacaaggaaaatgt
+seq_TH          gatgagcggttctgggaccttgtgcataaagagagggagcttcacaaacagggaaaatgt
+seq_TW          gatgagcggttttgggaccttgtgcacagagagagggagcttcacaaacagggaaaatgt
+seq_VN          gatgagcggttctgggaccttgtgcatagagagagggagcttcacaaacagggaaaatgt
+                **...  *.**.***** ** **  *.*..**.***.* **.**.    *.*****.***
+
+seq_CN          gccacgtgtgtttacaacatgatggggaagagagagaaaaagctaggagagttcggaaag
+seq_ID          gccacgtgtgtctacaacatgatgggaaagagagagaaaaaactaggagagttcggaaag
+seq_IN          gccacatgtgtttacaacatgatggggaagagagagaaaaaattaggagagttcggaaaa
+seq_JP          gccacgtgtgtttacaacatgatggggaagagagagaaaaagctaggagaatttggaaag
+seq_KH          gccacgtgtgtttacaacatgatggggaagagagagaaaaagctaggagagttcggaaag
+seq_MM          gccacgtgtgtttacaacatgatggggaagagagagaaaaaactaggagagttcggaaag
+seq_PH          gccacgtgtgtctacaacatgatgggaaagagagagaaaaaattaggagagttcggaaag
+seq_PK          gagacatgtgtgtacaacatgatgggaaagagagagaagaagataggggaattcggcaaa
+seq_SG          gccacgtgtgtctacaatatgatggggaaaagagagaaaaaactaggagagtttggaaag
+seq_TH          gccacgtgtgtttacaacatgatggggaagagagagaaaaagctaggagagttcggaaag
+seq_TW          gccacgtgtgtttacaacatgatggggaagagagagaaaaagctaggagaatttggaaag
+seq_VN          gctacgtgtgtttacaacatgatggggaagagagagaaaaagctaggagagttcggaaag
+                *  **.***** *****.********.**.********.**. ****.**.**.** **.
+
+seq_CN          gcaaaaggaagtcgtgcaatatggtacatgtggttgggagcacgctttctagagttcgaa
+seq_ID          gcaaaaggaagtcgcgcaatatggtacatgtggttgggagcgcgctttttagagtttgag
+seq_IN          gcaaaaggaagccgtgcaatatggtacatgtggctgggagcacgctttctagagtttgaa
+seq_JP          gcaaaaggaagtcgtgcaatatggtacatgtggttgggagcacgctttctagaattcgaa
+seq_KH          gcaaaaggaagtcgtgcaatatggtacatgtggttgggagcacgctttctagagttcgaa
+seq_MM          gcaaaaggaagtcgtgcaatatggtacatgtggttgggagcacgctttctagagttcgaa
+seq_PH          gcaaaaggaagtcgtgcaatatggtacatgtggttgggagctcgcttcttagagtttgaa
+seq_PK          gcaaaaggcagcagagccatatggtacatgtggcttggagcacgcttcttagagtttgaa
+seq_SG          gcaaaaggaagtcgtgcaatatggtacatgtggttgggagcacgctttctagaatttgaa
+seq_TH          gcaaaaggaagtcgtgcaatatggtacatgtggttgggagcacgctttctagagttcgaa
+seq_TW          gcaaaaggaagtcgtgcaatatggtacatgtggttgggagcacgctttctagagttcgaa
+seq_VN          gcaaaaggaagtcgtgcaatatggtacatgtggttgggagcacgctttctagagttcgaa
+                ******** **. * ** ***************.* ***** *****..****.**.**.
+
+seq_CN          gctcttggtttcatgaacgaagatcactggttcagcagagagaattcactcagcggagtg
+seq_ID          gcccttggtttcatgaatgaagatcattggttcagcagagagaattcactcagtggagtg
+seq_IN          gcccttggtttcatgaatgaagatcattggttcagtagagagaattcacttagtggagtg
+seq_JP          gctcttggtttcatgaacgaagatcactggttcagcagagagaattcactcagcggagtg
+seq_KH          gctcttggtttcatgaacgaagatcactggttcagcagagagaattcactcagcggagtg
+seq_MM          gctcttggtttcatgaacgaagaccactggttcagcagagagaattcactcagcggagtg
+seq_PH          gcccttggtttcatgaatgaagatcactggttcagcagagagaattcactcagtggagtg
+seq_PK          gccctaggatttctgaatgaagatcactggttttccagagagaactctctgagcggagtg
+seq_SG          gcccttggcttcatgaatgaagaccactggttcagtagggagaattcactcagcggagtg
+seq_TH          gctcttggtttcatgaacgaagatcactggttcagcagagagaattcattcagcggagtg
+seq_TW          gctcttggtttcatgaacgaagaccactggttcagcagagagaattcactcagcggagtg
+seq_VN          gctcttggtttcatgaacgaagatcactggttcagcagagagaattcactcagcggagtg
+                **.** ** **. ****.*****.**.*****.  .**.*****.** .* **.******
+
+seq_CN          gaaggagaaggacttcacaaacttggatatatactcagagacatatcaaagattccaggg
+seq_ID          gaaggagaaggactccacaaacttggatacatactcagagacatatcaaagattccaggg
+seq_IN          gaaggagaaggactgcacaaacttggatacatactcagagacatatcaaagattccgggg
+seq_JP          gaaggagaaggactccacaaacttggatacatacttagagacatatcaaagatttcaggg
+seq_KH          gaaggagaaggactccacaaacttggatatatactcagagacatatcaaagattccaggg
+seq_MM          gaaggagaaggactccacaaacttggatatatactcagagacatatcaaagattccaggg
+seq_PH          gagggagaaggactccacaaacttggatacatactcagagacatatcaaagattccaggg
+seq_PK          gaaggagaagggctgcacaagctgggttacattctaagagaagtgagcaagaaagaagga
+seq_SG          gaaggagaaggactacataaacttggatacatactcagagacatatcaaagattccaggg
+seq_TH          gaaggagaaggactccacaaacttggatatatactcagagacatatcaaagattccaggg
+seq_TW          gaaggagaaggactccacaaacttggatatatactcagagacatatcaaagatttcaggg
+seq_VN          gaaggagaaggactccacaaacttggatatatactcagagacatatcaaagattccaggg
+                **.********.** **.**.** ** **.** ** ***** .*.   ****    .**.
+
+seq_CN          ggaaacatgtatgcagatgacacagccggatgggatacaaggataacagaggatgacctc
+seq_ID          ggaaatttgtatgcagatgacacagccggatgggacacaagaataacagaggatgatctt
+seq_IN          ggaaatatgtatgcagatgacacagccggatgggacacaagaataacagaggatgatctt
+seq_JP          ggaaacatgtatgcagatgacacagccggatgggatacaaggataacagaggatgacctt
+seq_KH          ggaaacatgtatgcagatgacacagccggatgggatacaaggataactgaggatgacctt
+seq_MM          ggaaacatgtatgcagatgacacagccggatgggatacaaggataacagaggatgacctt
+seq_PH          ggaaatatgtatgcagatgacacagccggatgggacacaagaataacagaggatgatctt
+seq_PK          ggagcaatgtacgccgacgacacagcaggatgggatacaagaatcacactagaggaccta
+seq_SG          ggaaatatgtatgcagacgacacagctggatgggacacaagaataacagaggatgatctt
+seq_TH          ggaaacatgtatgcagatgacacagccggatgggatacaaggataactgaggatgacctt
+seq_TW          ggaaacatgtacgctgatgacacagccggatgggatacaaggataacagaggatgacctt
+seq_VN          ggaaacatgtatgcagatgacacagccggatgggatacaaggataacagaggatgacctt
+                ***.   ****.** **.******** ********.*****.** **   .** **.** 
+
+seq_CN          cagaatgaggccaaaattactgacatcatggaacccgaacatgcccaattggctaagtca
+seq_ID          cagaatgaggccaaaatcactgacatcatggaacccgaacatgccctactggccacgtca
+seq_IN          cagaatgaggctaaaatcactgacatcatggagcctgaacatgctctattggctacatca
+seq_JP          cagaatgaggccaaaattactgagatcatggaacccgaacatgcccaactggctaaggca
+seq_KH          cagaatgaggccagaattactgacatcatggaacccgaacatgccctactggctaagtca
+seq_MM          cagaatgaggccaaaattactgacatcatggaacccgaacatgccctactggctaagtca
+seq_PH          cagaatgaggccaaaatcactgacatcatggaacctgaacatgccctactggccacgtca
+seq_PK          aaaaatgaagagatggtaacaaaccatatggaaggagaacacaagaaacttgctgaggcc
+seq_SG          cagaatgaggctaaaatcaccgacatcatggagcctgaacatgctctactggccacgtca
+seq_TH          cagaatgaggccagaattactgacatcatggaacccgaacatgccctactggctaagtca
+seq_TW          cagaatgaggccaaaattactgacatcatggaacccgaacatgccctactggctaaggca
+seq_VN          cagaatgaggccagaattactgacatcatggaacccgaacatgccctactggctaagtca
+                 *.*****.*  * ..* ** .*   .*****.   *****..    *.* **.. . * 
+
+seq_CN          atcttcaagctaacctaccaaaataaggtggtaagggtacagagaccagcaaaaaatgga
+seq_ID          atctttaaactaacctaccaaaacaaggtagtaagggtgcagagaccagcaaaaaatgga
+seq_IN          atttttaaactgacctaccaaaataaggtggtgagggtgcaaagaccagcaaaaagtgga
+seq_JP          atcttcaagctaacctaccaaaataaagtggtaagggtacagagaccagcaaaaaatgga
+seq_KH          atcttcaagctgacctaccaaaataaggtggtaagggtacagagaccagcaaaaaatgga
+seq_MM          atcttcaagctaacctaccaaaataaagtggtaagggtacagagaccagcaaaaaatgga
+seq_PH          atctttaagctaacctaccaaaacaaagtagtaagggtgcagagaccagcaaaaaatgga
+seq_PK          atcttcaaattaacgtaccaaaacaaggtggtgcgtgtgcaaagacccacaccaagaggc
+seq_SG          atcttcaagctgacctatcaaaataaggtggtaagggtgcaaagaccagcaaaaagtgga
+seq_TH          atcttcaagctgacctaccaaaataaggtggtaagggtacagagaccagcaaaaaatgga
+seq_TW          atcttcaagctaacctaccaaaataaagtggtaagggtacagagaccagcaaaaaatgga
+seq_VN          atcttcaagttaacctaccaaaataaggtggtaagggtacagagaccagcaaaaaatgga
+                **.**.**..*.** **.*****.**.**.**. * **.**.***** .**  **. ** 
+
+seq_CN          accgtgatggatgtcatatccagacgtgaccagagaggaagtggccaggttggaacctat
+seq_ID          accgtgatggatgtcatatccagacgtgatcagagaggaagtggacaggttggaacctat
+seq_IN          accgtgatggatgtcatatccagacgtgaccagagaggaagtggacaggtcggaacttat
+seq_JP          accgtgatggatgtcatatccagacgtgaccagagaggaagtggccaagtcggaacttat
+seq_KH          accgtgatggatgtcatatccagacgtgaccagagaggaagtggccaggtcggaacttat
+seq_MM          accgtgatggatgtcatatccagacgtgaccagagaggaagtggccaggtcggaacttat
+seq_PH          accgtgatggatgtcatatccagacgtgaccagagaggaagtggacaggttggaacctat
+seq_PK          acagtaatggatattatatcgagaagagaccaaagaggtagtgtacaagttggtacctat
+seq_SG          accgtgatggacgtcatatccagacgtgaccagagaggaagtggacaggtcggaacttat
+seq_TH          accgtgatggatgtcgtatccagacgtgaccagagaggaagtggccaggtcggaacttat
+seq_TW          accgtgatggatgtcatatccagacgtgaccagagaggaagtggccaggtcggaacttat
+seq_VN          accgtgatggatgtcatatccagacgtgaccagagaggaagtggtcaggtcggaacttat
+                ** **.*****..*..**** *** * **.**.***** ****  **.**.** **.***
+
+seq_CN          ggcttaaacactttcaccaacatggaagcccagctgataagacaaatggagtctgaggga
+seq_ID          ggcttaaacaccttcactaacatggaggcccaactaataagacaaatggagtctgaggga
+seq_IN          ggcttaaatactttcaccaatatggaggtccaattaataagacaaatggagtctgaagga
+seq_JP          ggcttaaacactttcaccaacatggaagcccagctgataagacaaatggagtctgaggga
+seq_KH          ggcttaaacactttcaccaacatggaagcccagctgataagacaaatggagtctgaggga
+seq_MM          ggcttaaacactttcaccaacatggaagcccagctgataagacaaatggagtctgaggaa
+seq_PH          ggcttaaacaccttcaccaacatggaggcccaactaataagacaaatggagtctgaggga
+seq_PK          gggctcggcacctttaccaatatgggagcccaactaatcagacagatggagggagaggga
+seq_SG          ggcctaaacactttcaccaacatggaggtccaactaataagacaaatggaatctgaagga
+seq_TH          ggcttaaacactttcaccaacatggaagcccagctgataagacaaatggagtctgaggga
+seq_TW          ggcttaaacactttcaccaacatggaagcccagctgataagacaaatggagtctgaggga
+seq_VN          ggcttaaacactttcaccaacatggaagcccagctgataagacaaatggagtctgaggga
+                ** .* ...**.**.**.**.****..*.***..*.** *****.*****.   **.*.*
+
+seq_CN          atcttttcacccaacgaattagagaccccaaatttagccgagagagttctcgactggctg
+seq_ID          atcttttcacccagcgaattggaaaccccaaatctagctaaaagagtcctcgactggttg
+seq_IN          atctttttacctagcgaattggaaactcccaatctagctaagagagttcttgactggttg
+seq_JP          atcttttcacccagtgaattagagaccccaaatttagccgagagagttctcgactggctg
+seq_KH          atcttttcacccagcgaactagagaccccaaatttagccgagagagttctcgactggctg
+seq_MM          atcttttcacccagcgaattagagaccccaaatttagccgagagagttctcgactggctg
+seq_PH          atctttttacccagcgaactggaaaccccaaatctagctgaaagagtccttgactggttg
+seq_PK          gtctttaaaggcatccagcatctgacagccacagaagaagttgcagtgcaagactggtta
+seq_SG          atcttttcacccagcgaattggaaaattcaaatctagctgagagagttctcgactggttg
+seq_TH          atcttttcacccagcgaattagagaccccaaatttagccgagagagttctcgcctggctg
+seq_TW          atcttttcacccagtgaattagagaccccaaatttagccgagagagttctcgactggttg
+seq_VN          atcttttcacccagcgaattagagaccccaaatttagccgagagagttctcgactggctg
+                .*****  *  .* . *..    .*   * *    **  .  . *** *  * ****.*.
+
+seq_CN          gaaaaatatggcgtcgaaaggctgaaaagaatggcaatcagcggagatgactgcgtagtg
+seq_ID          gaaaaacatggcatcgagaggctgaaaaggatggcaatcagtggagatgactgtgtggtg
+seq_IN          gagaaacatggtgctgaaaggctgaaaaggatggcaattagcggagatgattgtgtggtg
+seq_JP          gaaaaatatggcgtcgaaaggctaaaaagaatggcaatcagtggagatgactgcgtagtg
+seq_KH          gaaaaatatggcgtcgaaaggctgaaaagaatggcaatcagcggagatgattgcgtggtg
+seq_MM          gaaaaatatggcgtcgaaaggctgaaaagaatggcaatcagcggagatgactgcgtagtg
+seq_PH          gaaaaacatggcactgagaggctgaaaagaatggcaattagtggagatgactgtgtggtg
+seq_PK          gcaagagtggggcgtgagaggttatcaagaatggccatcagtggagatgattgtgttgtg
+seq_SG          gaaaaacatggcgtcgaaaggttgaaaagaatggcaatcagcggagatgactgtgtggtg
+seq_TH          gaaaaatatggcgtcgaaaggctgaaaagaatggcaatcagcggagatgattgcgtggtg
+seq_TW          ggaaaatatggcgtcgaaaggctaaaaagaatggcaatcagtggagatgactgcgtagtg
+seq_VN          gaaaaatatggcgtcgaaaggctgaaaagaatggcaatcagcggagatgactgcgtagtg
+                * .*.*   **   .**.***.*.  ***.***** **.**.********.**.** ***
+
+seq_CN          aaaccaattgatgataggttcgcgacagccttaacagctctgaatgatatgggaaaagta
+seq_ID          aaaccaattgatgacagatttgcaacagccttaacagccttgaatgacatgggaaaggta
+seq_IN          aaaccaattgatgataggttcgcaacagccttaacagctctgaatgatatgggaaaagta
+seq_JP          aaaccaattgatgataggtttgcaacagccctaactgctctgaatgatatgggaaaagta
+seq_KH          aaaccaattgatgataggtttgcaacagccttaacagctctgaatgatatgggaaaagta
+seq_MM          aaaccaattgatgataggtttgcaacagccttaacagctctgaatgatatgggaaaagta
+seq_PH          aaaccaattgatgacagattcgcaacagccttaacagctctgaatgacatggggaaggta
+seq_PK          aaacccttagatgacaggtttgcaagcgctttaacagctctaaatgacatgggaaaggtt
+seq_SG          aaaccaactgatgacaggttcgcaacagctttaacagccctgaatgacatgggaaaggtg
+seq_TH          aaaccaattgatgataggtttgcaacagccttaacagctctgaatgatatgggaaaagta
+seq_TW          aaaccaattgatgataggtttgcaacagccttaacagctctgaatgatatgggaaaagta
+seq_VN          aaaccaattgatgataggtttgcaacagccttgacagctctgaatgatatgggaaaagta
+                *****  . *****.**.**.**.*  **..*.** **..*.*****.*****.**.** 
+
+seq_CN          agaaaagacataccacaatgggaaccttcaaaaggatggaatgattggcaacaagtgcct
+seq_ID          agaaaagacataccgcaatgggaaccttcaaaaggatggaacgattggcaacaagtgccc
+seq_IN          agaaaagacataccgcagtgggaaccttcaaaaggatggaatgactggcagcaagtgcct
+seq_JP          agaaaagatataccacaatgggaaccctcaaaaggatggaatgattggcaacaagtgcct
+seq_KH          agaaaagatataccacaatgggaaccttcaaaaggatggaatgattggcaacaagtgcct
+seq_MM          agaaaagatataccacaatgggaaccttcaaaaggatggaatgattggcaacaagtgcct
+seq_PH          agaaaagacataccacaatgggaaccttcaaaaggatggaatgattggcaacaagtgcct
+seq_PK          aggaaagacatacaacaatgggaaccttcaagaggatggaacgactggacacaagtgcct
+seq_SG          agaaaagacataccgcaatgggaaccttcaaaaggatggaatgactggcagcaagtgcct
+seq_TH          agaaaagatataccacaatgggaaccttcaaaaggatggaatgattggcaacaagtgcct
+seq_TW          agaaaagatataccacaatgggaaccctcaaaaggatggaatgattggcaacaagtgcct
+seq_VN          agaaaagatataccacaatgggaaccttcaaaaggatggaatgattggcaacaagtgcct
+                **.*****.**** .**.********.****.*********.**.***  .********.
+
+seq_CN          ttttgttcacaccacttccaccagctgattatgaaggatgggagggaaatagtggtgcca
+seq_ID          ttttgttcacaccatttccaccagctgattatgaaggatgggagggagatagtggtgcca
+seq_IN          ttctgttcacaccacttccaccagctgatcatgaaagatgggagggaaatagtggtgcca
+seq_JP          ttttgttcacaccacttccaccagctgattatgaaggatgggagggaaatagtggtgcca
+seq_KH          ttttgttcacaccacttccaccagctgattatgaaggatgggagggaaatagtggtgcca
+seq_MM          ttttgctcacaccacttccaccagctgattatgaaggatgggagggaagtagtggtgcca
+seq_PH          ttctgttcacaccatttccaccagctgatcatgaaggatgggagagagatagtggtgcca
+seq_PK          ttctgttcacaccatttccatgagttaatcatgaaagacggtcgtgtgctcgtagttgca
+seq_SG          ttctgttcacaccacttccaccaactgattatgaaggatgggagggaaatagtggtgcca
+seq_TH          ttttgttcacaccacttccaccagctgattatgaaggatgggagggaaatagtggtgcca
+seq_TW          ttttgttcacaccacttccaccagctgattatgaaggatgggagggaaatagtggtgcca
+seq_VN          ttttgttcacaccacttccaccagctgattatgaaggatgggagggaaatagtggtgcca
+                **.**.********.*****. *..*.**.*****.**.**  * * . * **.**  **
+
+seq_CN          tgccgcaaccaagatgaacttgtgggaagggctagagtatcacaaggtgctggatggagc
+seq_ID          tgccgcaaccaagatgaacttataggtagggccagagtctcacaaggcgccggatggagc
+seq_IN          tgccgcaaccaagatgaacttgtgggcagggctagagtatcacaaggtgccggatggagc
+seq_JP          tgccgcaaccaagatgaacttgtgggtagggctagagtgtcacaaggggctggatggagc
+seq_KH          tgccgcaaccaagatgaacttgtgggtagggctagagtatcacaaggtgctggatggagc
+seq_MM          tgccgcaaccaagatgaacttgtgggtagggctagagtatcacaaggcgctggatggagc
+seq_PH          tgccgcaaccaagatgaacttgtgggtagggccagagtatcacaaggcgccggatggagc
+seq_PK          tgtagaaaccaagatgaactgattggtagagctcgaatttcccagggagccgggtggtct
+seq_SG          tgccgcaaccaagatgaacttgtgggcagggccagagtatcacaaggcgccgggtggagc
+seq_TH          tgccgcaaccaagatgaacttgtgggtagggctagagtatcacaaggtgctggatggagc
+seq_TW          tgccgcaaccaagatgaacttgtgggtagggctagagtatcacaaggtgctggatggagc
+seq_VN          tgccgcaaccaagatgaacttgtgggtagggctagagtatcacaaggtgctggatggagc
+                **. * ************** .* ** **.**. **.* ** **.** **.**.***  .
+
+seq_CN          ctgagagaaactgcatgcctaggcaagtcatatgcacaaatgtggcagctgatgtacttc
+seq_ID          ttaagagaaactgcatgcctaggcaagtcatatgcacaaatgtggcagctgatgtatttc
+seq_IN          ctgagagaaactgcttgcctaggcaagtcatatgcacaaatgtggcagctgatgtacttc
+seq_JP          ctgagagaaaccgcatgcctaggcaaatcatatgcacaaatgtggcagctgatgtacttc
+seq_KH          ctgagagaaactgcatgcctaggcaagtcatatgcacagatgtggcagctgatgtacttc
+seq_MM          ctgagagaaactgcatgcctaggcaagtcatatgcacaaatgtggcagctgatgtacttc
+seq_PH          ctgagagaaactgcatgcctaggcaagtcatatgcacaaatgtggcagctgatgtacttc
+seq_PK          ttgcgggagacggcctgtctggggaagtcttacgcccaaatgtggagcctgatgtacttc
+seq_SG          ctgagagaaactgcttgcctaggcaagtcatatgcacaaatgtggcagctgatgtacttc
+seq_TH          ctgagagaaactgcatgcctaggcaagtcatatgcacagatgtggcagctgatgtacttc
+seq_TW          ctgagagaaaccgcatgcctaggcaaatcatatgcacaaatgtggcagctgatgtacttc
+seq_VN          ctgagagaaactgcatgcctaggcaagtcatatgcacaaatgtggcagctgatgtacttc
+                .*. *.**.** ** **.**.** **.** **.** **.****** . ********.***
+
+seq_CN          cacaggagagacctgagactagccgctaatgctatctgttcagccgttccagttgattgg
+seq_ID          cataggagagatctgagactagcggctaatgccatctgttcagccgttccagttgactgg
+seq_IN          cacaggagagacctgagactagcggctaatgctatctgttcagccgtcccagttgattgg
+seq_JP          cacaggagagacctgagactagccgctaatgctatctgttcagccgttccagttgattgg
+seq_KH          cacaggagagacctgagactagccgctaatgctatctgttcagccgttccagttgattgg
+seq_MM          cacaggagagacttgagactagccgctaatgctatctgttcagccgttccagttgattgg
+seq_PH          cacaggagagacttgagattagcggctaatgctatctgttcagccgttccggttgattgg
+seq_PK          cacagacgtgacctcaggctggcagcaaatgctatttgctcggcagttccatcacattgg
+seq_SG          cacaggagagacctgagactggcggctaatgctatctgttcagccgttccagttaattgg
+seq_TH          cacaggagagacctgagactagccgctaatgctatctgttcagccgttccagttaattgg
+seq_TW          cacaggagagacctgagactagctgctaatgctatctgttcagccgttccagttgattgg
+seq_VN          cacaggagagacctgagactggccgctaatgctatctgttcagccgttccagttgattgg
+                **.**. * **..* **..*.** ** *****.**.**.**.** **.**. .  *.***
+
+seq_CN          gtcccaaccagccgcaccacctggtcgatccatgcccatcaccaatggatgacaacagaa
+seq_ID          gtcccaaccagccgcaccacctggtcgatccatgcccaccatcaatggatgacaacagaa
+seq_IN          gtcccaaccagccgcaccacctggtcgatccatgcccaccaccaatggatgacaacagaa
+seq_JP          gtcccaaccagccgcaccacctggtcgatccacgcccatcaccaatggatgacaacagaa
+seq_KH          atcccaaccagccgcaccacctggtcgatccatgcccatcaccaatggatgacaacagaa
+seq_MM          gtcccaaccagccgcaccacctggtcgatccatgcccaccaccagtggatgacaacagaa
+seq_PH          gtcccaaccagccgcaccacctggtcgatccatgcccaccaccaatggatgacaacagaa
+seq_PK          gttccgacaagtcgaacaacctggtccatacacgccggacatgaatggatgacaacagaa
+seq_SG          gtcccaaccagccgcaccacctggtcgatccatgcccaccatcaatggatgacaacagaa
+seq_TH          atcccaaccagccgcaccacctggtcgatccatgcccatcaccaatggatgacaacagaa
+seq_TW          gtcccaactagccgcaccacctggtctatccatgcccatcaccaatggatgacaacagaa
+seq_VN          atcccaaccagccgtaccacctggtcgatccatgcccatcaccaatggatgacaacagaa
+                .*.**.** **.** ** ******** ** **.*** . **. *.***************
+
+seq_CN          gacatgctgtcagtgtggaatagggtttggatagaggaaaacccatggatggaggacaaa
+seq_ID          gacatgttgtcagtgtggaatagggtttggatagaggaaaacccatggatggaggataaa
+seq_IN          gacatgttatcagtgtggaatagggtctggatagaggaaaacccatggatggaggacaaa
+seq_JP          gacatgctgtcagtgtggaatagggtttggatagaggaaaacccatggatgaaggacaaa
+seq_KH          gacatgctgtcagtgtggaatagggtttggatagaggaaaacccatggatggaggacaaa
+seq_MM          gacatgctgtcagtgtggaatagggtttggatagaggaaaacccatggatggaggacaaa
+seq_PH          gacatgttgtcagtgtggaatagggtttggatagaggaaaacccatggatggaggacaaa
+seq_PK          gacatgctgacagtctggaacagggtgtggattcaagaaaacccatggatggaagacaaa
+seq_SG          gacatgttgtcagtatggaatagggtttggatagaggaaaatccatggatggaggacaaa
+seq_TH          gacatgctgtcagtgtggaatagggtttggatagaggaaaacccatggatggaggacaaa
+seq_TW          gacatgctgtcagtgtggaatagagtttggatagaggaaaacccatggatggaggacaaa
+seq_VN          gacatgctgtcagtgtggaatagggtttggatagaggaaaacccatggatggaggacaaa
+                ******.*. **** *****.**.** *****  *.*****.*********.*.**.***
+
+seq_CN          acccgtatatccagttgggaagatgttccatatctaggaaaaagggaagatcaatggtgt
+seq_ID          actcatgtgtccagttgggaagacgttccatacctaggaaaaagggaagatcaatggtgt
+seq_IN          actcatgtatccagctgggaagaagttccatacctagggaaaagggaagatcaatggtgt
+seq_JP          acccatatatccagttgggaagatgttccatatttagggaaaagggaagatcaatggtgt
+seq_KH          acccatatatccagttggggagatgttccatatttagggaaaagggaagatcaatggtgt
+seq_MM          acccatgtatccagttgggaagatgttccatatttaggaaaaagggaagatcaatggtgt
+seq_PH          actcatgtgtccagttgggaagacgttccatacctaggaaaaagggaggatcaatggtgt
+seq_PK          actccagtggaatcatgggaggaaatcccatacttggggaaaagagaagaccaatggtgc
+seq_SG          actcatgtatccagctgggaagatgttccatacttagggaaaagggaagatcaatggtgt
+seq_TH          acccatatatccagttggggagatgttccatatttagggaaaagggaagatcaatggtgt
+seq_TW          acccatatatccagttgggaagatgttccatatttagggaaaagggaagatcaatggtgt
+seq_VN          acccacatatccagttggggagatgttccatatttaggaaaaagggaagaccaatggtgt
+                **.*  .*.      ****..** .*.*****..*.**.*****.**.**.********.
+
+seq_CN          ggatctctgataggcttaacagcaagggccacctgggccaccaacatacaagtggccata
+seq_ID          ggatccctaataggcttaacagcacgagccacctgggccagcaacatacaagtggccata
+seq_IN          ggatccctgataggcttgacagcgagggccacctgggctaccaacatacaagtagccata
+seq_JP          ggatccctgataggcttaacagcaagggccacctgggccaccaacatacaagtggccata
+seq_KH          ggatccctgataggcttaacagcaagggccacctgggccaccaacatacaagtggccata
+seq_MM          ggatccctgataggcttaacagcaagggccacctgggccaccaacatacaagtggccata
+seq_PH          ggatccctaataggcttaacagcacgagccacctgggccaccaacatacaagtggccata
+seq_PK          ggctcattgatagggttaacaagcagggccacctgggcaaggaacatccaaacagcaata
+seq_SG          ggatctctgataggcttaacagcaagagccacctgggccaccaacatacaagtggccata
+seq_TH          ggatccctgataggcttaacagcaagggccacctgggccaccaacatacaagtggccata
+seq_TW          ggatccctgataggcttaacagcaagggccacctgggccaccaacatacaagtggccata
+seq_VN          ggatccctgataggcttaacagcaagggccacctgggccaccaacatacaagtggccata
+                ** ** .*.***** **.***.   *.*********** *  ***** ***...** ***
+
+seq_CN          aaccaagtgagaagactaattgggaatgagaattattcagattacatgacatcaatgaag
+seq_ID          aaccaagtgagaaggctcattgggaacgagaattatctagactatatgacatcaatgaag
+seq_IN          aaccaggtgagaaggctcatcgggaatgagaattatctagattacatgacaacaatgaag
+seq_JP          aaccaagtgagaagactaattgggaatgagaattatctagattacatgacatcaatgaag
+seq_KH          aaccaagtgagaagactaattgggaatgagaattacctagattacatgacatcaatgaag
+seq_MM          aaccaagtgagaagactaattgggaatgagaattatctagattacatgacatcaatgaag
+seq_PH          aaccaagtgagaaggctcattgggaatgagaattatctagactacatgacatcaatgaag
+seq_PK          aaccaagttagatccttaataggcagtgaggaatacacagactacatgccatccatgaaa
+seq_SG          aaccaagtgagaaggcttattgggaatgagaattatttagactacatgacatcaatgaag
+seq_TH          aaccaagtgagaaaactaattgggaatgagaattacctagattacatgacatcaatgaag
+seq_TW          aaccaagtgagaagactaattgggaatgagaactatctagattacatgacatcaatgaag
+seq_VN          aaccaagtgagaagactaattgggaatgagaattatctagattacatgacatcaatgaag
+                *****.** ***   .* ** ** *..***.* **. .***.**.*** ** * *****.
+
+seq_CN          agattcaagaacgagagtgaaccagaaggggcactctggtga
+seq_ID          agattcaaaaacgagagtgatcccgaaggggcactctggtaa
+seq_IN          agattcaagaatgagagtgatcccgaaggggcgctctggtaa
+seq_JP          agattcaagaacgagagtgatcccgaaggggcactctggtga
+seq_KH          agattcaagaacgagagtgatcccgaaggggcactctggtga
+seq_MM          agattcaaaaacgagagtgatcccgaaggggcactctggtga
+seq_PH          agattcaagaacgagagtgatcctgaaggggcactctggtaa
+seq_PK          agattcggaagagaagaggaagaggcaggggtcttgtggtag
+seq_SG          agattcaagaatgagagtgatcccgaaggagccctctggtaa
+seq_TH          agattcaagaacgagagtgatcccgaaggggcactctggtga
+seq_TW          agattcaagaacgagagtgatcccgaaggggcactctggtga
+seq_VN          agattcaagaacgagggtgatcccgaaggggcactctggtga
+                ******...*. **... **    * ***.*. .* ****..
