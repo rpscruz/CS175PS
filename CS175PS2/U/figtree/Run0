@@ -1,6 +1,6 @@
 #NEXUS
 begin trees;
-	tree tree_1 = [&R] (seq_U5:1.0,(seq_U2:1.0,seq_U3:1.0):1.0,seq_U1:1.0);
+	tree tree_1 = [&R] (seq_U3:1.0,(seq_U2:1.0,seq_U5:1.0):1.0,seq_U1:1.0);
 end;
 
 begin figtree;
