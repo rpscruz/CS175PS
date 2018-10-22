@@ -1,6 +1,6 @@
 #NEXUS
 begin trees;
-	tree tree_1 = [&R] (seq_B5:1.0,(seq_B2:1.0,seq_B3:1.0):1.0,seq_B1:1.0);
+	tree tree_1 = [&R] (seq_B3:1.0,(seq_B2:1.0,seq_B5:1.0):1.0,seq_B1:1.0);
 end;
 
 begin figtree;
@@ -70,7 +70,7 @@ begin figtree;
 	set scaleBar.fontSize=15.0;
 	set scaleBar.isShown=true;
 	set scaleBar.lineWidth=1.0;
-	set scaleBar.scaleRange=0.3;
+	set scaleBar.scaleRange=0.0;
 	set tipLabels.colorAttribute="User selection";
 	set tipLabels.displayAttribute="Names";
 	set tipLabels.fontName="sansserif";

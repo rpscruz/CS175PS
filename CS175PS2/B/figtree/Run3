@@ -1,6 +1,6 @@
 #NEXUS
 begin trees;
-	tree tree_1 = [&R] (seq_B5:1.0,(seq_B2:1.0,seq_B3:1.0):1.0,seq_B1:1.0);
+	tree tree_1 = [&R] (seq_B3:1.0,(seq_B5:1.0,seq_B2:1.0):1.0,seq_B1:1.0);
 end;
 
 begin figtree;
