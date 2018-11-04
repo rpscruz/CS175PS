@@ -1,0 +1,8 @@
+- "left reads":
+  - "/Users/rc/Documents/1819/CS175/CS175PS/PS3/spades/bin/spades_output/corrected/reads1.00.0_0.cor.fastq.gz"
+  "orientation": "fr"
+  "right reads":
+  - "/Users/rc/Documents/1819/CS175/CS175PS/PS3/spades/bin/spades_output/corrected/reads2.00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/Users/rc/Documents/1819/CS175/CS175PS/PS3/spades/bin/spades_output/corrected/reads_unpaired.00.0_0.cor.fastq.gz"
+  "type": "paired-end"

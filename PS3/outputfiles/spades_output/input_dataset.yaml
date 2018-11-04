@@ -1,0 +1,6 @@
+- "left reads":
+  - "/Users/rc/Documents/1819/CS175/CS175PS/PS3/spades/bin/reads1.fq"
+  "orientation": "fr"
+  "right reads":
+  - "/Users/rc/Documents/1819/CS175/CS175PS/PS3/spades/bin/reads2.fq"
+  "type": "paired-end"

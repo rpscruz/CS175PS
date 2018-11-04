@@ -1,0 +1,15 @@
+Spades first then quit
+
+Spades
+Templates
+spades.py -1 file1.fq -2 file2.fq -t <#ofthreads> -m <#memoryGB> -o outDir/
+spades.py -1(input1,left end paired seq read) frag_1.fastq.gz -2(input2,right end paired seq thread) frag_2.fastq.gx -t(no.of_threads) -4 -m(memory,default 16) 4 -o(output) spades_out/
+
+I used
+python spades.py -1 reads1.fq -2 reads2.fq -t 1 -m 4 -o spades_output/
+
+Quast
+quast.py --gene-finding -o outDir/ spadesOutDir/scaffolds.fasta
+quast.py --gene-finding -o(output) quast_out/ (WHERE IS THE ASSEMBLY LOCATED) spade_out/scaffold.fasta
+quast.py --gene-finding -o quast_out/ spades_out/scaffolds.fasta
+

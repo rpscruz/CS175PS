@@ -1,0 +1,29 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                        scaffolds   
+# contigs (>= 0 bp)             29          
+# contigs (>= 1000 bp)          17          
+# contigs (>= 5000 bp)          11          
+# contigs (>= 10000 bp)         10          
+# contigs (>= 25000 bp)         6           
+# contigs (>= 50000 bp)         5           
+Total length (>= 0 bp)          995374      
+Total length (>= 1000 bp)       992468      
+Total length (>= 5000 bp)       978907      
+Total length (>= 10000 bp)      972202      
+Total length (>= 25000 bp)      908881      
+Total length (>= 50000 bp)      876464      
+# contigs                       18          
+Largest contig                  311072      
+Total length                    993171      
+GC (%)                          51.42       
+N50                             237562      
+N75                             78653       
+L50                             2           
+L75                             4           
+# N's per 100 kbp               10.07       
+# predicted genes (unique)      914         
+# predicted genes (>= 0 bp)     910 + 4 part
+# predicted genes (>= 300 bp)   813 + 1 part
+# predicted genes (>= 1500 bp)  129 + 0 part
+# predicted genes (>= 3000 bp)  11 + 0 part 

@@ -1,0 +1,4 @@
+
+=== Error correction and assembling warnings:
+ * 0:09:45.964    32M / 1G    WARN    General                 (pair_info_count.cpp       : 358)   Estimated mean insert size 121.98 is very small compared to read length 151
+======= Warnings saved to /Users/rc/Documents/1819/CS175/CS175PS/PS3/spades/bin/spades_output/warnings.log

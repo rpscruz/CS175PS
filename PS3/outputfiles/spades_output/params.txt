@@ -1,0 +1,36 @@
+Command line: spades.py	-1	/Users/rc/Documents/1819/CS175/CS175PS/PS3/spades/bin/reads1.fq	-2	/Users/rc/Documents/1819/CS175/CS175PS/PS3/spades/bin/reads2.fq	-t	1	-m	4	-o	/Users/rc/Documents/1819/CS175/CS175PS/PS3/spades/bin/spades_output	
+
+System information:
+  SPAdes version: 3.13.0
+  Python version: 3.6.3
+  OS: Darwin-17.5.0-x86_64-i386-64bit
+
+Output dir: /Users/rc/Documents/1819/CS175/CS175PS/PS3/spades/bin/spades_output
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Multi-cell mode (you should set '--sc' flag if input data was obtained with MDA (single-cell) technology or --meta flag if processing metagenomic dataset)
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/Users/rc/Documents/1819/CS175/CS175PS/PS3/spades/bin/reads1.fq']
+      right reads: ['/Users/rc/Documents/1819/CS175/CS175PS/PS3/spades/bin/reads2.fq']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /Users/rc/Documents/1819/CS175/CS175PS/PS3/spades/bin/spades_output/tmp
+  Threads: 1
+  Memory limit (in Gb): 4
+
